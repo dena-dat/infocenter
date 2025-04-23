@@ -26,7 +26,7 @@ jobs:
       with:
         python-version: '3.12'
     - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests openpyxl os glob
+      run: pip install jupyter lxml pandas requests openpyxl
     - name: Scraping today's data
       run: jupyter nbconvert --to notebook --execute "2504-Preise/energiepreise.ipynb" --stdout
     - name: Commit and push any changes
