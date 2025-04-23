@@ -16,7 +16,7 @@ on:
   schedule:
     - cron: '0 */24 * * *'
 jobs:
-  daily:
+  update:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
@@ -24,7 +24,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.10'
+        python-version: '3.12'
     - name: Install all necessary packages
       run: pip install jupyter lxml pandas requests openpyxl os glob
     - name: Scraping today's data
