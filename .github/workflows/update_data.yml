@@ -30,7 +30,7 @@ jobs:
     - name: Scraping today's data (Energiepreise)
       run: jupyter nbconvert --to notebook --execute "2504-Preise/energiepreise.ipynb" --stdout
     - name: Scraping today's data (Abwärme)
-      run: jupyter nbconvert --to notebook --execute "waste-heat/Abwärme_Analyse_Kurz_Karten.ipynb" --stdout
+      run: jupyter nbconvert --to notebook --execute "waste-heat/Abwärme_Analyse_Kurz.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
