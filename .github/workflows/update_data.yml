@@ -26,7 +26,7 @@ jobs:
       with:
         python-version: '3.12'
     - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime
+      run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime requests
     - name: Scraping today's data (Energiepreise)
       run: jupyter nbconvert --to notebook --execute "2504-Preise/energiepreise.ipynb" --stdout
     - name: Scraping today's data (Abwärme)
