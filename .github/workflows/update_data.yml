@@ -33,6 +33,10 @@ jobs:
       env: 
         dw_secret: ${{ secrets.DATAWRAPPER }}
       run: jupyter nbconvert --to notebook --execute "waste-heat/Abwärme_Analyse_Kurz.ipynb" --stdout
+    - name: Scraping today's data (Entwicklung der Energiewende)
+      env:
+        dw_secret: ${{ secrets.DATAWRAPPER }}
+      run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/stand_ew_github_test.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
@@ -41,4 +45,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-
