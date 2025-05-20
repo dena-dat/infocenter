@@ -1,0 +1,3147 @@
+,Adresse,latitude,longitude
+0,Angermünder Str. 68 Eberswalde 16225,52.851499,13.7756818
+1,Angermünder Str. 1 Eberswalde 16225,52.8410176,13.7353655
+2,Düsseldorfer Straße 121 Hilden 40721,51.1621385,6.9099236
+3,Max-Schaidhauf-Straße 25 Kempten (Allgäu) 87437,47.7059024,10.331155
+4,Im Moore 1 Diepholz 49356,52.6168595,8.3103671
+5,Zeppelinstraße 16 Geldern 47608,51.5239242,6.34352
+6,Thoner Weg 23 Nürnberg 90425,49.4698019,11.0628659
+7,Birkholzer Str. 101 GroÃbeeren 14979,,
+8,Hullerser Landstrasse 43 Einbeck 37574,51.8160531,9.8437375
+9,Schönfeldstraße 12a Rosenheim 83022,47.8558449,12.1351629
+10,Stedtfelder Straße 5 Krauthausen 99819,51.0105049,10.2571166
+11,Oberhausener Str. 33 Ratingen 40472,51.2749369,6.8216105
+12,Eppelheimer Str. 82 Heidelberg 69123,49.4025587,8.6419164
+13,Industriesztraße 10 Westerkappeln-Velpe 49492,,
+14,Kölner Strasse 64 Gevelsberg 58285,51.315183,7.3397139
+15,An de Kloßmanufaktur 1 Am Ettersberg 99439,,
+16,Auf der Heide 1 Ettinghausen 56244,,
+17,Robert-Bosch-Straße 15 Ramstein-Miesenbach 66877,49.4406978,7.5280057
+18,Veilchenstraße 23 Zülpich 53909,50.7057184,6.6356944
+19,Am Ahlmannkai Büdelsdorf 24782,54.3092762,9.6643073
+20,Am Gusswerk 8 Kaiserslautern 67663,49.4322569,7.7455913
+21,Rudolf-Wild-Straße 107-115 Eppelheim 69214,49.3908324,8.6329887
+22,Berliner Straße 119 Nauen 14641,52.597012,12.8843487
+23,Aindlinger Str. 17-19 Augsburg 86167,48.395277,10.9312525
+24,Emil-Siepmann-Straße 32 Warstein 59581,51.4869204,8.3278852
+25,Schwanebecker Weg 1a Nauen 14641,52.5964807,12.8476551
+26,Böternhöfen 13 Hohenwestedt 24594,54.0797556,9.669234
+27,Glindersweg 80 Hamburg 21029,53.4857786,10.2360022
+28,Landgraf-Georg-Str. 100 Darmstadt 64287,49.8739094,8.6651328
+29,Paul-Zipp-Str. 171 Gießen 35398,50.5925001,8.6491239
+30,Appendorfer Weg 5 Osterweddingen 39171,52.0643429,11.5585496
+31,Sohnreystrasse 21 Lauenförde 37697,51.6656238,9.3891603
+32,Fendtstraße 1 Asbach-Bäumenheim 86663,48.675781,10.8146372
+33,Hafenweg 1 Wiesbaden 65201,50.0408298,8.21174
+34,Dieselstraße 1-7 Wölfersheim 61200,50.4235021,8.8515762
+35,Greizer Straße 62 Schleiz 7907,50.5802331,11.8295083
+36,John-Brinckman-Straße 8-10 Parchim 19370,53.4300054,11.8540303
+37,Im Stiefelfeld 1 Niederzissen 56651,50.4408413,7.230264
+38,Saalestr. 10 Ennepetal 58256,51.2932459,7.3259758
+39,Am Alten Flugplatz 1 Ludwigslust 19288,53.2989533,11.5166937
+40,Grosse Allee 84 Bad Arolsen 34454,51.379872,8.9994803
+41,Concordiastraße 32 Oberhausen 46049,51.4741667,6.8450217
+42,Häfnerschneise 0 Kelsterbach 65451,50.0270486,8.5069342
+43,Aachener Straße / B221 Geilenkirchen 52511,50.9573453,6.130357
+44,Am Hölzel 11 Landau 76829,49.2050785,8.1719353
+45,Bahnhofstraße 18 Niemegk 14823,52.0826866,12.7000789
+46,Hegenheimer Str. 22 Weil am Rhein 79576,47.6097123,7.5920199
+47,Carl-Arnold-Straße 25 Forchtenberg-Ernsbach 74670,49.2895714,9.5104558
+48,Max-Immelmann-Allee 25 Eschbach 79427,47.9043151,7.636591
+49,An der Heide/Straße A-Mitte Spremberg 3130,,
+50,Waldkraiburger Straße 5 Berlin 12347,52.4502014,13.4330549
+51,Mühlenweg 32 b Erndtebrück 57339,50.9960133,8.2596851
+52,Gartenstraße 7-17 Bonn 53229,50.7446225,7.1324409
+53,ATP Allee 4 Amt Creuzburg 99831,51.0733017,10.2776757
+54,ATP-Allee 10 Amt Creuzburg 99831,51.0716749,10.2853951
+55,Alte Grube Velsen 16 Saarbrücken 66127,49.2143605,6.8338053
+56,Geestemünder Str. 23 Köln 50735,51.0041039,6.9505938
+57,Bahnhofstraße 82 Uetze 31311,52.4170181,10.1789629
+58,Eginger Str. 40 Außernzell 94532,48.7245377,13.2088004
+59,Dammer Straße 79 Bohmte-Hunteburg 49163,52.4396209,8.2724053
+60,Borchersstraße 18 Aachen 52072,50.7886285,6.0645647
+61,In der Krümme 8-12 Weiterstadt 64331,49.8978411,8.6152185
+62,Knollstraße 50 Ludwigshafen 67061,49.4750518,8.4411553
+63,Kempener Str. 22 Tönisvorst 47918,51.30966,6.4313593
+64,Justus-von-Liebig-Straße 33 Neustadt am Rübenberge 31535,52.5114522,9.4694871
+65,Klövenhausen 20 Bassum 27211,52.8207703,8.7004884
+66,Hintere Marktstraße 4 Nürnberg 90441,49.4356059,11.0559544
+67,Westring 10 Ennigerloh 59320,51.8515719,8.0182764
+68,Am Trockenwerk - Hillerse 38543,52.4088084,10.3713993
+69,Nordstraße 94 Kamenz 1917,51.299612,14.0902681
+70,In der Mark 2 Rheda-Wiedenbrück 33378,51.8610952,8.3234884
+71,St. Primus Str. 1-5 Siegsdorf 83313,47.8122577,12.6152019
+72,Hardhofweg 40 Mosbach 74821,49.3470643,9.165658
+73,Tonwerkstraße 3 Großheirath 96269,50.1809173,10.9530998
+74,Märkerstraße 44 Alzenau 63755,50.0854449,9.0854511
+75,Wallenroderstraße 12 - 14 Berlin 13435,52.6044507,13.3432759
+76,Rähnitzer Allee 9 Dresden 1109,51.1269114,13.7423454
+77,Am Kieswerk 7 Karlstein 63791,50.0508892,9.0307691
+78,Herrenbergerstr 130 Böblingen 71034,48.677887,8.9801343
+79,Benzstraße 19 Grünstadt 67269,49.5615739,8.1827136
+80,Reherweg 57-59 Aerzen 31855,52.0385795,9.2530153
+81,Am Aesculap-Platz Tuttlingen 78532,47.9812143,8.8020374
+82,Elise-Averdieck-Strasse 17 Rotenburg 27356,53.10522,9.412896
+83,Kanzlerstraße 17 Pforzheim 75175,48.8922374,8.7187427
+84,Bahnhofstraße 35 Riegel 79359,48.1486721,7.757068
+85,Aldrup 3 Wildeshausen 27793,52.8318813,8.4422664
+86,Stau 199-203 Oldenburg 26122,53.1405489,8.2191922
+87,Lindenstraße 45 Fürstenwalde/ Spree 15517,52.3530855,14.0861871
+88,Alte Heerstraße E65 Dormagen 41540,51.0876905,6.8155332
+89,Stader Elbstraße 25 Stade 21683,53.628425,9.5131003
+90,Rechlinerstraße 1 Manching 85077,48.7089303,11.5097395
+91,Haunstetter Str. 225 Augsburg 86179,48.3176365,10.9094975
+92,Industriestr. 4 Donauwörth 86609,48.7074724,10.7727756
+93,Flupplatzstraße Calden 34379,,
+94,Kreetslag 10 Hamburg 21129,53.5373072,9.8483151
+95,Werkstr 1 Dillingen 66763,49.355597,6.7325219
+96,Düsseldorfer Str. 96-100 Hilden 40721,51.1642042,6.9130584
+97,Hubertus-Liebrecht-Str. 21 Biberach an der Riß 88400,48.1216268,9.8015431
+98,Bergratherstr. 66 Eschweiler 52249,50.8136199,6.273362
+99,Am Anschlag 4 Halver 58553,51.1648625,7.4807121
+100,Süntelstraße 11a Hamburg 22457,53.6308503,9.9047575
+101,Eckenbergstraße 16b Essen 45307,51.463914,7.0704732
+102,Schönthaler Str. 55-59 Langerwehe 52379,50.7928826,6.3413803
+103,Alfred-Ritter-Straße 25  Waldenbuch 71111,48.6384286,9.1234257
+104,Steinzeugstraße 50 Mannheim 68229,49.4481765,8.5673432
+105,Möllner Landstraße 15 Witzhave 22969,53.5663163,10.3306836
+106,Alt-Fechenheim 34 Frankfurt am Main 60386,50.1285878,8.767147
+107,Ursulasrieder Straße 2 Kempten 87437,47.7485332,10.3231556
+108,Rotlaymühle Bad Kreuznach 55545,,
+109,Kasteler Str. 45 Wiesbaden 65203,50.047631,8.2421634
+110,Salegaster Chaussee 1 Bitterfeld-Wolfen 6803,51.6598069,12.2975279
+111,Giulinistr.2 Ludwigshafen 67065,49.4537757,8.4285881
+112,"Haberstr. 9,  Berlin 12057",52.4628724,13.4626941
+113,Lehen 24 Pfaffing 83539,48.0249709,12.1124464
+114,Von Miller Straße 11 Kaiserslautern 67661,49.4405565,7.6610092
+115,Siegstraße 27 Netphen 57250,50.9129646,8.0469605
+116,Alte Leipziger Platz 1 Oberursel 61440,50.2119351,8.5746812
+117,Remsaer Straße 17-19 Altenburg 4600,51.0019828,12.4595329
+118,Wartenberger Chaussee 12 Bismark 39629,52.6565143,11.5458762
+119,Bahnhofstraße 48 Treuchtlingen 91757,48.958515,10.9092949
+120,Ebertallee 209 Dessau-Roßlau 6846,51.8439946,12.2038521
+121,Bahnhofstraße 43 Redwitz 96257,,
+122,Johann-Rathje-Köser-Straße 1 Stade-Bützfleth 21683,53.6490394,9.4913542
+123,Friedrichstraße 50 Rheinfelden 79618,47.5674084,7.7993295
+124,Uelzener Weg 36 Unna 59425,51.5393772,7.7055466
+125,Fabrikstr. 2 Unterneukirchen 84579,,
+126,Harald Friedrich Str. 2-8 Altenmarkt 83352,47.9993043,12.535904
+127,Claußallee 1 Freiberg 9599,50.9172813,13.3298087
+128,Alusingen-Platz 1 Singen (Hohentwiel) 78224,47.7621884,8.8542148
+129,Friedrich-Meyer-Strasse 23 Teningen 79331,48.1274859,7.8158571
+130,Gewerbepark 1 Trollenhagen 17039,53.5952977,13.2927464
+131,Krankenhausstraße 15 Dachau 85221,48.2654865,11.4281485
+132,Biomilchstraße 1 Andechs 82346,47.9653754,11.1918172
+133,Paitzdorfer Straße 62 Ronneburg 7580,50.8516803,12.203272
+134,Bahnhofstraße 31 Breuberg 64747,49.8139884,9.0381215
+135,Burdaper Heide 8 Borken 46325,,
+136,Harland 19  1/2 Zolling 85406,48.476834,11.758543
+137,Anton-Häring-Straße 1 Bubsheim 78585,48.1152787,8.8301905
+138,Friedrich-Schmidt-Str. 2 Waldkraiburg 84478,48.2200809,12.4128555
+139,Auwießenstraße 6 Deggendorf 94469,,
+140,Arthur-Hehl-Straße Loßburg 72290,48.4063654,8.4515547
+141,Prosperstr. 350 Bottrop 46238,51.5200972,6.9906271
+142,Dradenaustr. 33 Hamburg 21129,53.5248196,9.8998953
+143,Vohwinkel Straße 107 Duisburg 47137,51.4608896,6.7490597
+144,Ludwig-Hermann-Straße 100 Gersthofen 86368,48.4443416,10.8796851
+145,Rehlinger Str. 1 Langweid am Lech 86462,48.4870248,10.8657408
+146,Göttinger Chaussee 12-14 Hannover 30453,52.3482022,9.7143473
+147,Meißner Straße 35 Radebeul 1445,51.0969716,13.6927573
+148,Schledehauser Str. 133 Bad Essen 49152,52.3248449,8.3155517
+149,Wallenroderstraße 8 - 10 Berlin 13435,52.6036414,13.3412774
+150,Flurstraße 37 Zwickau 8056,50.7041731,12.4698772
+151,Im Scheid 1 Pronsfeld 54597,,
+152,Corveyer Allee 15 Höxter 37671,51.7775016,9.3904182
+153,Ferdinand-Porsche-Str. 6 Ellwangen 73479,48.9627064,10.1817119
+154,Uferstraße 105 Gelsenkirchen 45881,51.5282689,7.0582217
+155,Industriestraße 4 Lutherstadt Eisleben 6295,51.503729,11.5923765
+156,Industriestraße 6 Aschaffenburg 63741,50.0897123,9.2521213
+157,Brunnenallee 19 Bad Wildungen 34537,51.1171379,9.114575
+158,Lindenlohe 18 Schwandorf 92421,49.3609791,12.1518252
+159,Prenzlauer Chaussee 30  Pasewalk 17309,53.4893772,13.9856919
+160,Naumburger Straße 76 Weißenfels 6667,51.1939105,11.9568078
+161,Hubertusstraße 12-22 Birkenwerder 16547,52.6897186,13.2969799
+162, Paul-Ehrlich-Straße 1   Hamburg 22763,53.5549245,9.9023394
+163,Kaiser-Karl-V.-Allee 3  Bad Abbach 93077,48.9327619,12.0382252
+164,Am Klinikum 1 Schwedt 16303,53.0532176,14.275758
+165,Norderstrasse 81 Sylt / OT Westerland  25980,,
+166,Scharhof 1 Hirschau 92242,49.540394,11.9783395
+167,August-Winkhaus-Str. 31 Telgte 48291,51.9914096,7.7751249
+168,Kasseler Straße 113 Großalmerode 37247,51.2571338,9.7685286
+169,Büchlerhausen 14 Engelskirchen 51766,50.9863577,7.4483221
+170,Eggestraße 2 Warburg 34414,51.5565405,9.0484613
+171,Am Fohlengarten 14 Hermeskeil  54411,49.6718603,6.97068
+172,Paulinenweg 12 Halle (Westf.) 33790,52.0617423,8.3413256
+173,Dieselstraße 49 Meppen 49716,52.6587819,7.2955953
+174,Landsberger Straße 31-35 München 80339,48.1388841,11.5438939
+175,Hovestr. 50 Hamburg 20539,53.5215886,10.0333149
+176,Zweifaller Strasse 150 Stolberg 52224,50.7584717,6.234312
+177,Im Mittelbruch 1 Roßdorf 64380,,
+178,Lindenstr. 45 Lüneburg 21335,53.2436016,10.4064335
+179,Kap-Horn- Strasse 12 Bremen 28237,53.1158863,8.7373301
+180,Mittelstetter Str. 40 Rain 86641,48.695843,10.9338521
+181,Fabrikstraße 4 Ettringen 86833,48.1100901,10.6668066
+182,Bremenwörtstr. 5 Kehl 77694,48.5830122,7.8194338
+183,Hägenichstr. 14 Ottersweier 77833,48.674074,8.1178388
+184,Marie-Curie-Straße 6 Gronau 48599,52.2006769,7.0732107
+185,Kasseler Landstraße 23 Witzenhausen 37213,51.3195575,9.8488948
+186,Kampstraße 65 Horn-Bad Meinberg 32805,51.884243,8.9534585
+187,Oberer Ladenberg 18 Berggießhübel 1816,50.8830708,13.9601927
+188,Industriegebiet Pfieffewiesen Melsungen 34212,51.1091998,9.5580136
+189,Flehinger Straße 59 Oberderdingen 75038,49.067143,8.8028288
+190,Industriestrasse 149 Huerth 50354,50.8637696,6.8741944
+191,Schipkauer Straße 1 Schwarzheide 1987,51.4781963,13.8799719
+192,Große Drakenburger Straße 133 Nienburg (Weser) 31582,52.6472588,9.2098696
+193,Glasuritstrasse 1 Münster 48165,51.9013032,7.6509271
+194,Dr-Albert-Frank-Straße 32 Trostberg 83308,48.0219641,12.5537036
+195,Chemiestrasse 22 Lampertheim 68623,49.6177026,8.4383374
+196,HenkelstraÃe 67 Duesseldorf 40589,,
+197,Elastogranstraße 60 Lemförde 49448,52.4609559,8.3824706
+198,Carl-Bosch-Straße 38 Ludwigshafen 67056,49.4950285,8.4340721
+199,Schipkauer Straße 1 Schwarzheide 1987,51.4781963,13.8799719
+200,Rödemishallig 12 Husum 25813,54.4712788,9.0426064
+201,Krabbenkamp 11 Duisburg 47138,51.4552916,6.7816881
+202,Schlauden 26 Bielefeld 33719,52.0305305,8.6000855
+203,Zementfabrik Hardegsen 37181,51.6549985,9.8480986
+204,Kirchhoffstraße Gummersbach 51647,51.0497912,7.5404923
+205,Chemnitzer Straße 61b Frankenberg (Sa.) 9669,50.9057889,13.0214581
+206,Zeppelinstraße 28 Markgröningen 71706,48.9026972,9.0938815
+207,Wibschla 31 Lüdenscheid 58509,51.2260474,7.6652578
+208,Chemnitzer Straße 61b Frankenberg 9669,50.9057889,13.0214581
+209,An der Talle 27-31 Paderborn 33102,51.7498054,8.7554427
+210,Kirchstraße 5 Budenheim 55257,50.0265783,8.1749168
+211,Haifa-Allee 1 Mainz-Bretzenheim 55128,49.9674086,8.2281293
+212,ludwig-Guttmann-Str. 13 Ludwigshafen 67071,49.4856064,8.3886971
+213,Großenbaumer Allee 250 Duisburg 47249,51.3803084,6.7825641
+214,Bergedorfer Straße 10 Hamburg 21033,53.5063455,10.1767027
+215,Porf.-Künt.-Str. 8 Murnau 82418,,
+216,Am Stahlwerk 1 Freital 1705,51.0001465,13.6397959
+217,Eiserfelder Straße 62 Siegen 57072,50.8666059,8.0091556
+218,John-Deere Str 3 Bruchsal 76646,49.1307042,8.5658396
+219,Sansenhecken 1 Buchen 74722,49.5048008,9.3118602
+220,Rasselsteiner Str. 101 Neuwied 56564,50.4530892,7.4660098
+221,Paul Engel Str. 1 Weiherhammer 92729,49.6332597,12.0618708
+222,Obere Bauscherstr. 1 Weiden 92637,49.6667385,12.1553384
+223,Im Weinhof 36 Hagen 58119,51.3543999,7.5605577
+224,Ludwig-Thoma-Str. 9 Bayreuth 95447,49.9353593,11.570527
+225,In d. Au 20 Sinsheim 74889,,
+226,Senator-Apelt-Straße 90 Bremen 28197,53.0734631,8.767315
+227,Rathendorfer Str. Penig 9322,50.9900786,12.6944185
+228,Geisfelder Str. 85 Bamberg 96050,49.8898216,10.9198867
+229,Josef-Rethmann-Str. 4 Lünen 44536,51.6195271,7.4724246
+230,Aalener Str. 60 Gaildorf 74405,48.9757217,9.8073787
+231,Kreimershoek 11 Hörstel 48477,52.2715405,7.5658921
+232,Lorenzstraße 2-6 Stutensee 76297,49.0768489,8.4571652
+233,Hellerwald Boppard 56154,50.2100407,7.5555377
+234,Piepersberg 30 Solingen 42653,51.2136287,7.0678177
+235,Industriestraße 3 Kodersdorf 2923,51.225443,14.9130776
+236,Am Fliegerhorst 17 Bad Langensalza 99947,51.1241175,10.6298914
+237,Egellsstraße 21 Berlin 13507,52.5804329,13.2839757
+238,Roland-Schmid-Straße 1 Elsterwerda 4910,51.4682259,13.5011908
+239,Raffineriestraße 1 Lingen 49808,52.5576654,7.3085218
+240,Ohlerhammer 1 Wiehl 51674,50.946631,7.5652322
+241,Carl-Benz-Str. 30 Bremen 28237,53.1418449,8.6917622
+242,Robert-Bosch-Straße 16 Dillingen 89407,48.5841206,10.490598
+243,Beiersdorfstraße 1 Emmerich 46446,51.8417772,6.2727472
+244,Köpenicker Str. 32 Berlin 12489,52.4190124,13.5380352
+245,Jakob-Dieffenbacher-Str. 5 Eppingen 75031,49.1498754,8.921905
+246,Mathias-Blank-Straße 20 Freiburg 79115,47.9954005,7.8200944
+247,Carl-Benz-Str. 2 Weilheim an der Teck 73235,48.6227014,9.5464326
+248,Untere Strut 1 Bühl 77815,48.7116332,8.1351144
+249,Röntgenstr. 5 Verden 27283,52.8537948,9.2444851
+250,Im Pfarrwald 1 Badenweiler 79410,47.7995241,7.6730255
+251,Rothaus 1 Grafenhausen 79865,47.793995,8.2474841
+252,Graudenzer Str. 45 Kehl 77694,48.6001979,7.8221602
+253,Am Hilgenberg 1 Lingen (Ems) 49811,52.4735244,7.3249726
+254,Hermann-Bahlsen-Str. 12 Barsinghausen 30890,52.3140937,9.4668073
+255,Wollhausstraße 60-62 Heilbronn 74072,49.1387501,9.2299997
+256,Sägmühleweg 18 Baiersbronn 72270,48.4971313,8.3747163
+257,Gennaerstr  2-4 Letmathe 58642,51.3647078,7.6199028
+258,Bremer Feld 1-4 Delmenhorst 27749,53.0494577,8.6430469
+259,Emscherstraße 46 Gelsenkirchen 45891,51.5464847,7.0843139
+260,Rheinweg 7 Worms 67550,49.6907169,8.3539725
+261,Theresienstraße 32  Bamberg  96050,49.8874632,10.9136191
+262,Mannesmannstrasse 101 Duisburg 47259,51.3655,6.7193084
+263,Bockhoper Straße 7 Siedenburg 27254,52.6819246,8.9602933
+264,Wasastr. 10 Celle 29229,52.6432834,10.0985016
+265,Einsiedeldeich 7-9  Hamburg 20539,53.5285878,10.0285001
+266,Kofeld 4 Bodnegg 88285,47.7365431,9.7006206
+267,E.-C.-Baumann-Str. 5 Kulmbach 95326,50.1111964,11.4444045
+268,Nürnberger Str. 68 Alheim-Heinebach 36211,51.0409234,9.6712261
+269,Crailsheimer Straße 52 Schwäbisch Hall 74523,49.1128739,9.7466621
+270,"Veltener Straße, 12/13 Oranienburg 16515",52.7401388,13.176941
+271,Friedrich-Ebert-Alle 21 Bad Reichenhall 83435,,
+272,Rehainer Str. 5 Jessen 6917,51.7930429,12.949665
+273,Dostlerstraße 3 München 80809,48.1773054,11.5629168
+274,Badstraße 31 Bad Steben 95138,50.363634,11.6343373
+275,Am Blätterrangen Arzberg 95659,50.0745436,12.1725789
+276,Am Alten Bahndamm 7 Mühlhausen/Thüringen  99974,51.1950348,10.4779552
+277,Claude-Breda-Straße 6 Bernburg 6406,51.8042576,11.6977238
+278,Brunnenstraße 138 Lünen 44536,51.6168033,7.4634514
+279,Alfred-Lange-Str. 10 Freiberg 9599,50.9091499,13.3688139
+280,Hansastraße 40 Lippstadt 59557,51.6515431,8.3511098
+281,Berzeliusstraße 35 Hamburg 22113,53.5353361,10.0913641
+282,Königstraße 3 Barßel-Harkebrügge 26676,53.1334174,7.8084683
+283,Beneckeallee 40 Hannover  30419,52.4234832,9.7082971
+284,Niederdarmer Straße 5 Lingen 49811,52.4688578,7.3170652
+285,Weixlerstraße 16 Waging am See 83329,47.9345934,12.7312257
+286,Schernerweg 4 Gelsenkirchen 45894,51.5708201,7.0605878
+287,Marienthal 10 Bad Liebenstein 36448,50.8077714,10.3306036
+288,Lebensweg 1 Beckum 59269,51.7866548,8.005154
+289,Berkenhoffstraße 14 Heuchelheim 35452,50.58672,8.6189855
+290,Glienicker Weg 125 Berlin 12489,52.4335981,13.5569239
+291,Öschle 2 Kraftisried 87647,47.7680587,10.463465
+292,Graf Zeppelin Str25 Nagold 72202,48.5423374,8.7543287
+293,Mittlerer Weg 2 Philippsburg 76661,49.2214036,8.4720723
+294,Lloydstraße 6 Bremervörde 27432,53.489463,9.1175358
+295,Liebigstraße 64 Hamburg 22113,53.5324827,10.0937125
+296,Sulgenerstraße 21-23 Aichhalden 78733,48.258369,8.4107892
+297,Am Haag 11 Gräfelfing 82166,48.1246404,11.4501655
+298,Kölner Straße 92 Attendorn 57439,51.1187618,7.8921989
+299,Industriestrasse 10 Südlohn-Oeding 46354,51.9348606,6.821922
+300,Daimlerstrasse 20 Südlohn-Oeding 46354,51.9385412,6.8242591
+301,Lindenallee 2 Günzburg 89312,48.4592384,10.2963769
+302,Industriestraße 9 Kirchheim 36275,50.8316467,9.570522
+303,Einsteinstrasse 9 Kösching 85092,48.7936938,11.5092987
+304,An der Birkenpfuhlheide 1 Baruth 15837,52.0672656,13.5100878
+305,Grimmenstein 10 Wolfegg 88364,47.8248694,9.8101663
+306,Am Troistedter Weg 6 Nohra 99428,50.9606566,11.234354
+307,Xaver-Fendt-Straße 6 Buchloe 86807,48.0470235,10.716497
+308,Hinterberg 59 Friesoythe 26169,52.9790724,7.761002
+309,Buchenberg 80 Lünen 44532,51.6010662,7.5054243
+310,Luckenwalder Landstraße 2 Baruth 15837,52.0500779,13.4694284
+311,Auf dem Hals 16 Wölfersheim - Berstadt 61200,,
+312,Walter-Kersten-Straße 22 Aschersleben 6449,51.7750432,11.4384949
+313,Am Brenzer Kanal 11 Brenz 19306,53.3849793,11.6362443
+314,Knellwiese 1 Flechtingen 39345,52.3450859,11.2487108
+315,Groß Tessin 3 Reimershagen 18276,53.6802212,12.2318418
+316,Lange Lauchstädter Straße 53 Teutschenthal 6179,51.4291936,11.8347665
+317,Schlenzer Weg 20 Niederer Fläming OT Nonnendorf 14913,,
+318,Karstädter Chaussee 2 Putlitz 16949,53.2423857,12.0245092
+319,Zum Gewerbepark 11 Perleberg 19348,53.0982293,11.8416801
+320,Industriestraße 9 Seegebiet Mansfelder Land OT Stedten 6317,,
+321,Luckaitzer Straße 11 Luckaitztal /OT Schöllnitz 3229,,
+322,Loos 1 a Seelow 15306,52.5470872,14.4163707
+323,Weg nach Wulkow 91 Wuthenow 16818,52.9080377,12.8460728
+324,Dersewitz 1 a Dersewitz 17391,53.8698032,13.5059094
+325,Mertensdorfer Weg 12 Putlitz 16949,53.2418656,12.0573449
+326,Im Gewerbepark 5 Oberkrämer 16727,52.7098746,13.1154244
+327,Aurea 4 Rheda-Wiedenbrück 33378,51.8317645,8.2116887
+328,Am Harbarnser Bahnhof 1 31195 Lamspringe 31195,,
+329,Graf-Zeppelin-Straße 2 Liebenscheid 56479,50.7029076,8.0741001
+330,Gewerbepark am Wald 18-19 Ilmenau 98693,50.6945437,10.949007
+331,Vor der Thalebener Birke Menteroda 99996,51.3207046,10.5773545
+332,Kerschensteinerstraße 11-15 Neumarkt 92318,49.2634521,11.4687771
+333,Holzerweg 3 Wadern-Lockweiler 66687,49.522162,6.8944283
+334,Konrad-Adenauer-Straße 17 Ingelheim 55218,49.9820998,8.0498828
+335,Landsteinerstraße 10 Dreieich 63303,50.0065505,8.6997512
+336,Löherstraße 52 Fulda 36037,50.5469283,9.6742656
+337,Freiensteinauer Str. 27 Steinau an der Straße 36396,50.3979157,9.4270334
+338,Gewerbering 8 Görlitz 2828,51.1736499,14.9632393
+339,Industriestraße 1 Konzell 94357,49.0835188,12.7255008
+340,Rahestraße 47 Lengerich 49525,52.1789936,7.8592504
+341,Schreberstraße 17 Bitterfeld-Wolfen 6749,51.6312634,12.3257172
+342,Veritasring 6 Meßkirch 88605,48.003519,9.1521585
+343,Wilhelm Kraut Str 65 Balingen 72336,48.2681464,8.8515395
+344,Ülfe-Wuppertal-Straße 17-19 Radevormwald 42477,,
+345,Industriestr. 6-12 Bad Salzuflen 32108,52.0640783,8.7565456
+346,Ziegelstadel 1 Isny 88316,47.6877488,10.0591438
+347,Weserstraße 5 + 7 Limburg 65549,50.3819117,8.0506826
+348,Osterfeldstr.51 Wetter 58300,51.3982122,7.3498507
+349,Königswinkel 2  Blomberg 32825,51.9368459,9.0994465
+350,Von-Blücher-Str. 2 Premnitz 14727,52.5376895,12.3594859
+351,Freudenbergstrasse 45K Bochum 44809,51.4978962,7.197793
+352,An der Heide 17-19 Postbauer-Heng 92353,49.2768266,11.3410874
+353,"Hauptstraße, 34 Grabstede 26345",53.3660033,7.9928569
+354,Friedrichstraße 21 Oschersleben 39387,52.0320481,11.2307016
+355,Binger Str. 173 Ingelheim 55218,49.9727703,8.0362828
+356,Entenpfuhl 6 Waldfeucht 52525,51.0835752,6.0489814
+357,David-Hansemann-Straße 1-25 Übach-Palenberg  52531,50.9158711,6.1459052
+358,Eugen-Richter-Str. 27 Erfurt 99085,50.9922188,11.040849
+359,David-Hansemann-Straße 1-25 Übach-Palenberg 52531,50.9158711,6.1459052
+360,Wilhelmstraße 13 Lingen 49808,52.5245781,7.3153083
+361,Industriepark Brundorf 4 Schwanewede 28790,53.2326425,8.6939669
+362,Haiminger Strasse 1 Burghausen 84489,48.1989212,12.8363945
+363,Marnheimer Str. 85/87 Kirchheimbolanden 67292,49.6588275,8.0164095
+364,Nürnberger Straße 73 Gunzenhausen 91710,49.1231498,10.7651807
+365,Zum Eisengießer 1 Lohr am Main 97816,49.9994639,9.5757912
+366,Laaspher Straße 17 Eschenburg-Eibelshausen 35713,50.8171663,8.3368409
+367,Brandstr. 21 Lohne 49393,52.6662701,8.2141009
+368,An der Streue 2 Meschede 59872,51.3055356,8.1269551
+369,Am Kreuzberg 1 Titting 85135,48.9952316,11.2085721
+370,Augsburger Str. 14 Kutzenhausen 86500,48.3431081,10.6972763
+371,Langheimer Straße 14 Altenkunstadt 96264,50.1247268,11.2470589
+372,De-Vos-Straße 12 Itzehoe 25524,53.9063982,9.4869273
+373,Werner-von-Siemens-Strasse 18 Meitingen 86405,48.5556455,10.8645729
+374,Zur Hexenbrücke 16 Bremerhaven 27570,53.549147,8.6159271
+375,Justus-Kilian-StraÃe 1 Lollar 35457,,
+376,Einsteinstraße 157 Oranienbaum-Wörlitz 6785,51.8092396,12.3538739
+377,Herscheider Str. 81 Plettenberg 58840,51.2029131,7.8598288
+378,Max-Brose-Straße 1 Coburg 96450,50.2510729,10.9656734
+379,Eichholzer Str. 23 Marschacht 21436,53.4090843,10.3628189
+380,Fabrikstraße 6 Nortorf 24589,54.1740177,9.8503634
+381,Peter-Henlein-Str. 1 Regenstauf 93128,49.1089834,12.1185103
+382,Dillfeld 40 Wetzlar 35576,50.5731486,8.4851467
+383,Buderusstrasse 26 Breidenbach 35236,50.8855633,8.4531812
+384,Bonadiesstr. 3-5 Mannheim 68169,49.5050997,8.4504789
+385,Gutenbergstr. 1 Offenburg 77654,48.4846287,7.9551044
+386,Mainstr. 20 Nürnberg 90451,49.4144737,11.0518906
+387,Kartoffelweg 1 Neumarkt 92318,49.2556479,11.4393678
+388,Willi-Messerschmitt-Straße 10 Laupheim 88471,,
+389,Am Damm 26 Ottersberg 28870,53.1202715,9.1424296
+390,Rudolf-Diesel-Straße 2 Edingen-Neckarhausen 68535,49.4700548,8.5869334
+391,Georgestraße 5 Solingen 42719,51.1885224,7.0546381
+392,Stuttgarter Str. 17 Augsburg 82154,48.3983745,10.8738654
+393,Gewerbestraße 27 Guben 3172,51.9545843,14.6601726
+394,Im Schäwe 9 Beelitz 14547,52.2242069,12.9662084
+395,Rischenweg 1 Rosdorf 37124,51.5105236,9.9091716
+396,Daimlerstr. 9 Elsdorf 50189,50.9430514,6.5807736
+397,Breitscheidstraße 36 Löbau 2708,51.1027015,14.6710487
+398,Northeimer Str. 51 Warburg 34414,51.5302378,9.1307912
+399,Industriestraße 10 Garrel 49681,52.945635,8.0195245
+400,An den Eckwiesen 7 Bopfingen 73441,48.84697,10.3791484
+401,Bgm.-Xaver-Reinhard Straße 9 Monheim 86653,48.841982,10.8507825
+402,Gewerbestraße19-21 Nortmoor 26845,,
+403,Roßfelder Str. 59 Crailsheim 74564,49.1285933,10.036397
+404,"Bürgerhospital, Nibelungenallee 37-41 Frankfur am Main 60318",,
+405,Holzener Straße 72 Menden 58708,51.4395873,7.7608127
+406,Mangfallstraße 5 Gmund am Tegernsee 83703,47.7544217,11.7416493
+407,Sternstr. 10 Uelzen 29525,52.9707466,10.5488029
+408,Augsburgerstr. 67 Nördlingen 86720,48.8431279,10.5081494
+409,Ludwig-Hermann-Str. 100 Gersthofen 86368,48.4443416,10.8796851
+410,Industriestraße 2 Holzkirchen 83670,47.8788904,11.7180579
+411,Rossfelder Str. 52/5 Crailsheim 74564,49.1305442,10.0416931
+412,Frankfurter Chaussee Rüdersdorf 15562,52.4891745,13.8077695
+413,Am Globus 2 Hermsdorf 7629,50.8888003,11.8469281
+414,Robert-Bosch-Straße 23 Empfingen 72186,48.3905615,8.7269161
+415,Rigistr. 20 Göppingen 73037,48.6913684,9.6802984
+416,Im Steinig 8 - 18 Dusslingen 72144,48.4618041,9.0560778
+417,Griesbergstrasse 12 Bad Salzdetfurth 31162,52.0585148,10.0017452
+418,Halberstädterstr. 15-19 Paderborn 33106,51.6900966,8.7469494
+419,Mühlenwinkel 1 Harsewinkel 33428,51.9595328,8.2170581
+420,Neusser Landstraße 16 Köln 50735,51.004719,6.9374677
+421,Stig Husted-Andersen Straße 11 Lensahn 23738,54.2387059,10.8829366
+422,Ohlendorffstraße 29 Krefeld 47809,51.3371237,6.6714232
+423,Dechsendorfer Str. 11 Erlangen 91054,49.605057,10.9967241
+424,"Eisenbahnstraße 24, 66687 Wadern-Büschfeld Wadern 66687",49.4990841,6.8673911
+425,Waterbergstraße 14 Bremen 28237,53.1230522,8.7361256
+426,Reichsbahnstr. 99 Hamburg 22525,53.5965729,9.906515
+427,Emil-von-Behring-Straße 76 Marburg 35037,50.8204161,8.7483476
+428,Bremer Feld 1-4 Delmenhorst 27749,53.0494577,8.6430469
+429,Stephanstraße 4-8 Malsch 76316,48.888858,8.3119329
+430,Raiffeisenstr. 4 Lahr 77933,48.3425475,7.8328871
+431,Ottostraße 2 Radeburg 1471,51.2082207,13.734955
+432,Magdheide 7 Nordkirchen 59394,51.7341621,7.6132122
+433,Anne-Frank-Straße 1 Weira 7806,50.6792035,11.7190079
+434,Wernher-von-Braun-Str. 11 Neu-Isenburg 63263,50.0465023,8.7109097
+435,Holperdorper Str. 47 Lienen 49536,52.1622629,7.9701344
+436,Deutschmühlental 7 Saarbrücken 66117,49.2311846,6.9635981
+437,Canonstrasse 1 Gießen 35394,50.5924402,8.7382234
+438,Elisenstraße 119 Essen 45139,51.462571,7.0364278
+439,Selliner Straße 29 Dresden 1109,51.1207105,13.7833036
+440,Wymarstrasse 13 Jülich 52428,50.9024652,6.3498896
+441,Fabrikstraße Köditz OT Brunnenthal 95189,,
+442,Thiemstraße 111 Cottbus 3048,51.7406918,14.3204789
+443,Eisenbeissstr. 1 Lübz 19386,53.4616406,12.0194351
+444,Detmolder Straße 767 Bielefeld 33699,51.9812697,8.6476463
+445,Garn-stadter Straße 38 Ebersdorf 96237,,
+446,Alt-Fechenheim 34 Frankfurt am Main 60386,50.1285878,8.767147
+447,Castellweg 4 Krefeld 47809,51.3334034,6.6773505
+448,Steinbeisstrasse 1 Schorndorf 73614,48.8091526,9.5127966
+449,Carl-Benz-Str. 1  Mannheim 68167,49.5014241,8.473444
+450,Kasteler Straße 45 Wiesbaden 65203,50.0440163,8.2505637
+451,Dr.-Rudolf-Eberle-Str. 36 Albbruck 79774,47.6002296,8.1542465
+452,Carl-Zeiss-Straße 14-16 Kaltenkirchen 24568,53.8188848,9.9783156
+453,Brüningstr. 50 Frankfurt am Main 65926,50.097025,8.5427537
+454,Frielinghauser Str. 5 Hamm (Westfalen) 59071,51.6791554,7.9406996
+455,Hauptstraße 40 Rothenburg 2929,,
+456,Adenauerstraße 20 A Würselen 52146,50.804699,6.1526264
+457,CeramTec-Weg 1 Marktredwitz 95615,50.0110112,12.0909229
+458,Carl Otto Weg 21 Balzheim 88481,48.1859034,10.0808299
+459,Im Schleeke 78-91 Goslar 38642,51.9078381,10.4758079
+460,Kreuzauer Straße 46 Düren 52355,50.7793597,6.4889728
+461,Rheinstraße 27 Budenheim 55257,50.0302418,8.1746414
+462,An der Günz 1 Waldstetten 89367,,
+463,Glärbach 2 Balve 58802,51.3420383,7.8725575
+464,im Schleeke 78-91 38642 Goslar 38644,51.9117091,10.4642273
+465,Trifft 4 Ilsenburg 38871,,
+466,Am Haag 12 Gräfelfing 82166,48.1233024,11.4534317
+467,Reichenbacher Straße 89 Zwickau 8056,50.648171,12.4286838
+468,An der Birkenpfuhlheide 6 Baruth 15837,52.0764378,13.5179176
+469,Kevelaererstraße 78 Geldern 47608,51.5045133,6.2433487
+470,Spreewaldallee 26-28 Mannheim 68309,49.5198744,8.5531417
+471,Schwabenheimer Weg 105 Bad Kreuznach 55543,49.8458815,7.8771324
+472,Segelsbrück 7 Bremen 28309,53.0586475,8.8971063
+473,Kranstraße 34 Hamm 59071,51.6840689,7.9527876
+474,Hanauer Landstrasse 326 Frankfurt am Main 60314,50.1213243,8.7399131
+475,Popenser Str. 2 Aurich 26603,53.4616448,7.4927626
+476,Im Pottaschwald 5 St. Ingbert 66386,49.2702874,7.1268305
+477,"Berliner Straße, 60 Sulingen 27232",52.6866625,8.8289933
+478,Hammer-Tannen-Str. 11 Haselünne 49740,52.661085,7.4632287
+479,Hansastraße 10 Mettingen 49497,52.3134461,7.7990302
+480,Schlacht 2 Werdohl 58791,51.2533456,7.7538167
+481,Pettermandstraße 27 Wangen 88239,47.6786033,9.8494824
+482,Pirkmühle 14-16 Pirk 92712,49.6378019,12.1555923
+483,Marie-Curie-Str. 1 Lörrach 79539,47.5482904,7.740871
+484,Gothaer Strasse 6 Waltershausen 99880,50.8992456,10.5862691
+485,Breslauer Str. 14 Northeim 37154,51.6958773,9.9870842
+486,Kasseler Straße 11 Hann Münden 34346,51.412917,9.650594
+487,Continentalstr. 3-5 Korbach 34497,51.2801654,8.8737753
+488,Digitalstrasse 4 Hoppegarten 15366,52.5062372,13.6407226
+489,Breslauer Str. 14 Northeim 37154,51.6958773,9.9870842
+490,Dieselstraße 4 Karben 61184,50.2270035,8.7609669
+491,Continentalstraße 3 Korbach 34497,51.2801654,8.8737753
+492,Jäfekamp 30 Hannover 30419,,
+493,Esbachgraben 21 Bindlach 95463,49.9723661,11.6182881
+494,Brüningstraße 50 Frankfurt am Main 65929,50.0963086,8.5379968
+495,Glanzstoffstraße 1 Obernburg 63784,49.8275452,9.1520613
+496,Lützowstr. 1 Mühlhausen 99974,51.2175885,10.4904379
+497,Altdorfer Str. 6 Freimersheim 67482,49.2722153,8.2197173
+498,Wittener 271 Wuppertal 42279,51.3038167,7.2514388
+499,Stedinger Str.25 Emden 26723,53.3604208,7.1793
+500,Walther-Rathenau-Straße 38 Cottbus 3044,51.7863236,14.3337413
+501,Fährstraße 51 Brunsbüttel 25541,53.9014023,9.1861089
+502,Maximilianstr. 13 Schwandorf 92421,49.3418245,12.1219186
+503,Baruther Straße 18 Malschwitz 2694,51.2152226,14.5843399
+504,Groner Allee 76 Ibbenbüren 49479,52.2646275,7.7054635
+505,Crownstr. 1 Roding 93426,49.197942,12.5284207
+506,Bahnhofstraße 16 Aue 8280,,
+507,Robert-Bosch-Str. 15 Köln 50769,51.0353983,6.9223382
+508,Augustenstraße 46 Köthen 6366,51.7586112,11.982571
+509,Koppenstraße 3 Berlin 10243,52.5107813,13.4327196
+510,Nordring 26 Rülzheim 76761,49.1645794,8.298308
+511,Nordring 26 Rülzheim 76761,49.1645794,8.298308
+512,Rodetal 40 Bovenden 37120,51.6131491,9.991803
+513,Cafeastraße 1 Hamburg  21107,53.4774508,9.9925448
+514,Schulze-Delitzsch Straße  49 Stuttgart 70565,48.720532,9.1288296
+515,Alte Heerstraße 21 Goslar 38644,51.9367409,10.4156238
+516,Am DFS-Campus 3 Langen 63225,50.0083845,8.6502882
+517,Limbacher Straße 19 b Hartmannsdorf 9232,50.8830028,12.7926678
+518,Auhammer 1 Battenberg 35088,51.0341156,8.6255019
+519,Galileo-Galilei-Straße 10 Mainz 55129,49.9631485,8.2578169
+520,Werthauser Str. 182 Duisburg 47053,51.4223336,6.7419027
+521,Aukammallee 33 Wiesbaden 65191,50.0866068,8.2699314
+522,Heidbergtrift 1 Altentreptow 17087,53.717096,13.2456388
+523,Bahnstr 61 Remscheid 42859,51.1635922,7.2026958
+524,Wesselinger Straße 10-16 Brühl 50321,50.8319065,6.9274311
+525,Am Haupttor - Bau 3101 Leuna 6237,,
+526,Börnicker Straße 1a Nauen-Tietzow 14641,52.7052674,12.9353918
+527,Dr.-Johannes-Heidenhain-Str. 5 Traunreut 83301,47.9642633,12.5923907
+528,Philipp-Oehmigke-Str. Neuruppin 16816,52.8775976,12.7943956
+529,Georg-Drewsen-Weg 2 Lachendorf 29331,52.6259202,10.247775
+530,Bahnhofstraße 24 Kirchen 57548,50.8061329,7.8792628
+531,Philipp-Reis-Str. 5 Bautzen 2625,51.1950473,14.3436922
+532,Emil-Barell-Straße 3 Grenzach-Wyhlen 79639,47.549261,7.6684721
+533,Werderstr.36 Hornberg 78132,48.2068396,8.2315846
+534,Industriestr. 52 Haiterbach 72221,48.5035111,8.6328788
+535,Markgrafenstr. 41-43 Bruchsal 76646,49.104367,8.6403066
+536,Schanzenstraße 40 Köln 51063,50.9689779,7.0168218
+537,Mülheimer Strasse 26 Troisdorf 53840,50.8253373,7.1489133
+538,Tonstraße 78 Hüllhorst 32609,52.2726698,8.6916479
+539,Osteroder Straße 2 Bilshausen 37434,51.6403686,10.1623346
+540,Langwiesenstrasse 10 Güglingen  74363,49.0681301,9.0343933
+541,Göffinger Straße 6 Riedlingen 88499,48.1519716,9.4955376
+542,Waltersdorferstraße 2 Großschönau 2779,50.8951408,14.6599047
+543,Krokamp 35 Neumünster 24539,54.0490511,9.9840206
+544,Waldstrasse 7 Essen 49632,52.7323441,7.9106356
+545,Schwege 52 Dinklage 49413,52.6416024,8.0963483
+546,Georg-Bölts-Str. 10 Oldenburg 26135,53.1082944,8.2605327
+547,Maas 10 Husum 25813,54.4855197,9.0391488
+548,Koppelbergstraße 2 Teterow 17166,53.7561868,12.6088754
+549,Gervaisstraße 2 Ochsenfurt 97199,49.6780325,10.0323803
+550,Poststraße 2 Pfaffenhofen 85276,48.4338724,11.419821
+551,Grundhofstraße 49 a Lauchhammer 1979,51.4921872,13.7302257
+552,Oderstraße 25 A Teltow 14513,52.404744,13.2572609
+553,Mühlenstraße 2 Heidegrund 6722,,
+554,Brauereistraße 3 Dargun 17159,53.9043827,12.8708419
+555,Setzer Straße 6 Kreuztal 57223,50.9261759,8.0153966
+556,Hofmannstraße 13 Bad Windsheim 91438,49.5089377,10.4187119
+557,Rodheimer Str. 7 Rosbach 61191,50.2981464,8.6961488
+558,Heie-Juuler-Wäi 1 Risum-Lindholm 25920,54.7578719,8.8718118
+559,Melbacher Höhe 1 Erndtebrück 57339,50.9949823,8.3147392
+560,Unterm Ruhestein 3 35764 Sinn 35764,50.6530664,8.3219402
+561,Dübener str 33 Delitzsch 4509,51.5271948,12.3397863
+562,Hauptstraße 15 Nortrup 49638,52.6173664,7.8603496
+563,Beim Umspannwerk 11 Norderstedt 22844,53.7373659,9.9847571
+564,August-Bebel-Str. 2 Uslar 37170,51.657313,9.6474316
+565,Muenchner Ring 1 Noerdlingen 86720,48.8653444,10.5188607
+566,Gewerbering 19 Lohne 49393,52.6601218,8.2022142
+567,Nordhäuser Str. 2 Bleicherode 99752,51.4522693,10.5943468
+568,Richard-Oskar-Mattern-Str.6 Düsseldorf 40547,51.2451755,6.7364145
+569,Bahnhofstr. 21-39 Bad Lauterberg 37431,51.6257413,10.462909
+570,Mergenthalerallee 61  Eschborn 65760,50.1359276,8.5696832
+571,Schwanenstrasse 8 Hagen 58089,51.3585849,7.4588101
+572,Auestraße 4 Witten 58452,51.4336511,7.3247502
+573,Kupferstrasse 5 Emmerich am Rhein 46446,51.8278536,6.2651266
+574,Neusser Landstrasse 16 Köln 50735,51.004719,6.9374677
+575,Am Lunedeich 115 Bremerhaven 27572,53.5125641,8.589055
+576,Servaisstrasse 9-11 Alfter-Witterschlick 53347,50.6905995,7.027169
+577,Osterodaer Straße 8 Herzberg 4916,51.6969241,13.2559976
+578,Bundesstrasse 45a Hamburg 20146,53.5668648,9.9765854
+579,Staakener Straße 30 - 37 Berlin 13581,52.5358244,13.1737789
+580,Dexionstraße 1-5 Laubach 35321,50.5438516,8.9796648
+581,Werkstrasse 6 Peiting 86971,47.8188606,10.9377004
+582,Salvador-Allende-Str. 30 Neubrandenburg 17036,53.5446722,13.2939278
+583,Wichernstraße 40 Siegen 57074,50.8515103,8.0184
+584,Stadenstraße 60 Nürnberg 90491,49.4829576,11.1364294
+585,Freundschaft 1 Hohenberg 95691,50.0917852,12.217647
+586,Straße der Dichtungstechnik 2 Niederwinkling 94559,48.883257,12.7898585
+587,Erlensumpfstrasse 1 Rostock 18147,54.1314029,12.1585876
+588,Bruchweg 78 Bremen 28309,53.0528501,8.9009998
+589,Am Flugplatz 1 Laupheim 88471,48.2145628,9.9029245
+590,Frankfurter Straße 168 Kassel 34121,51.2950882,9.4763881
+591,Wilhelm-Fay-Straße 24  Frankfurt am Main 65936,50.1271732,8.5859753
+592,Weismüllerstrasse 1 Frankfurt am Main 60314,50.1185916,8.7329039
+593,Speefeld 7 Kempen 47906,51.3775839,6.451085
+594,Oesterstr. 18 Marne 25709,53.9542567,9.0128445
+595,In denGrupenäckern 3 Neustadt/Orla 7806,,
+596,Mittelweg 29 Neustadt/Orla 7806,50.741656,11.780673
+597,Im Altgefäll 12 Pforzheim 75181,48.8873859,8.7530824
+598,Stellmacherstraße 14 Norden 26506,53.5745674,7.2238847
+599,Industriestraße 8 Oer-Erkenschwick 45739,51.6357199,7.2752797
+600,Talstraße 9 Buchenbach 79256,47.9701054,8.0289886
+601,Mastenweg 3 Uetze 31311,52.4259667,10.1699012
+602,Altkrautheimer Str. 28 Krautheim 74238,49.3802774,9.6355779
+603,Spreestraße 2  Neuburg  86633,48.7399833,11.2493457
+604,Stoffelsberg 4 Nöedlngen 86720,,
+605,Barbyer Chaussee 3 Calbe (Saale) 39240,51.9216834,11.794027
+606,Rheinlanddamm 200 Dortmund 44139,51.4965148,7.4569324
+607,Amorbacherstr. 43 Walldürn- Rippberg 74731,49.6240826,9.2896741
+608,Faulhaberstr. 1 Schönaich 71101,48.6682995,9.0707285
+609,Treuener Höhe 6 Treuen 8233,50.5501797,12.2660128
+610,Tenholter Straße 148 Erkelenz 41812,51.0625791,6.3153608
+611,Scheffelstrasse 26 Solingen 42699,51.1522169,7.0125835
+612,Porscheplatz 1 Zuffenhausen 70435,48.8343985,9.151968
+613,Nürnberger Str. 30-32 Melsungen 34212,51.1225157,9.5391654
+614,Josef Suwelack Str. 1 Billerbeck 48727,51.9867639,7.2686856
+615,Liechtensteiner Str. 1 Apolda 99510,51.0055021,11.4598614
+616,Werner-von-Siemens-Straße 24-26 Diez 65582,50.3723894,8.04498
+617,Bahnstraße 29 Grefrath 47929,51.3324019,6.3474391
+618,Am Nordseekai 37-39 Plochingen 73207,48.7180374,9.398037
+619,Ulrichstraße 22 Altshausen 88361,47.92757,9.53903
+620,Gutenbergstraße 2 Radeburg 1471,51.209182,13.7315802
+621,Raiffeisenstraße 29 Lahr 77933,48.3357176,7.8300671
+622,Revalstraße 1 Lübeck 23560,53.8391984,10.6589257
+623,Frielinghauser Straße 5 Hamm 59071,51.6791554,7.9406996
+624,Lunestedter Str. 40 Loxstedt 27612,53.452325,8.6919661
+625,An der Heide B5 Spremberg 3130,51.5190103,14.3391971
+626,Robert-Bosch-Straße 4 Bramsche 49565,52.390658,7.9384435
+627,Atterstraße 72 - 74 Osnabrück 49090,52.2988864,8.0062496
+628,Du-Pont-Straße 1 Neu-Isenburg 63263,50.0457552,8.694026
+629,Ziegelstr.3 Meissen 1662,51.1604624,13.5194652
+630,Industriestraße 7 Deuna 37355,51.3571714,10.4882124
+631,Hüfinger Str. 24 Bräunlingen 78199,47.9293888,8.4618381
+632,Gartenstraße 13 Dahlenburg 21368,53.1885172,10.7413042
+633,Kreitzweg 10 Neuss 41472,51.1642764,6.6619914
+634,Dorfstraße 17 Neuenkirchen 21763,53.7781999,8.8951394
+635,Industriestr. 1 Bönen 59199,51.6100819,7.7636748
+636,Lemgoer Str. 9 Dörentrup 32694,52.0348609,8.9971031
+637,An der Sandgrube 1 Duingen 31089,52.0053991,9.6741698
+638,Hauptstraße 39-41 Laufach 63846,50.0102019,9.2785082
+639,Bildstraße 4 74564 Crailsheim 74564,49.1224815,10.0835019
+640,Erlenweg 2 Burg 39288,52.2504998,11.8923162
+641,Landkommissärstr. 16 Landau 76829,49.2034369,8.1648954
+642,Industriestraße 2-8 Altdorf 90518,49.3907418,11.3483519
+643,Rathausstraße 18 Stammbach 95236,50.1440377,11.6950121
+644,Bluthsluster Str. 24 Anklam 17389,53.8544881,13.7095172
+645,Blanc-und-Fischer-Platz 1-3 Oberderdingen 75038,49.0681083,8.8025285
+646,Blanc-und-Fischer-Platz 1-3 Oberderdingen 75038,49.0681083,8.8025285
+647,Ernst-Schering-Str.  8 Bergkamen 59192,51.6203116,7.6290087
+648,Brüsseler Platz 1 Essen 45131,51.4246218,6.9938968
+649,Zur Kesselwiese Kirchhain-Stausebach 35274,50.8326803,8.9058335
+650,Steinbacherstraße 60 Mudau 69427,49.536692,9.2206299
+651,Westring 10 Ennigerloh 59320,51.8515719,8.0182764
+652,Dieselstraße 30 Garching 85748,48.255873,11.617253
+653,Edekastraße 1 Striegistal OT Berbersdorf 9661,,
+654,Porsche Str.5 Estenfeld 97230,49.8393343,10.0094003
+655,Dieselstraße 5 Eching 85386,48.3089916,11.6352865
+656,Edekastr. 1 Heddesheim 68542,49.508093,8.6299254
+657,New-York-Ring 6  Hamburg 22297,53.6029492,10.0203832
+658,Münchnerstraße 5 Brehna 6796,,
+659,Iltishofweg 40 Göppingen 73037,48.6828863,9.6711372
+660,Am Kraftwerk 2 Büddenstedt 38372,52.1699388,10.9783674
+661,Dr.-Herbert-Rein-Str. 1 14727 Premnitz 14727,52.5295634,12.3581616
+662,Staffelberg 2-4 Pirmasens 66954,49.2283623,7.5946944
+663,Ahrensburger Weg 4 Stapelfeld 22145,53.6306875,10.2298458
+664,Schultetusstraße 43b Stavenhagen 17153,53.7065975,12.9094429
+665,Im Grünewald 2 Erndtebrück 57339,50.9809056,8.2295752
+666,Flüttenweg 10 Bevern 37639,51.8525139,9.4864523
+667,Im Kissen 19 Brilon 59929,51.4066685,8.5982354
+668,Am Haffeld 1 Wismar 23970,53.9110828,11.4537797
+669,Im Weilandmoor 2 Gifhorn 38518,52.4722048,10.5260759
+670,Kraftwerkallee 1 Mainz 55120,50.0258243,8.2436577
+671,Hindenburgstraße 116 Viersen 41749,51.2800356,6.3508205
+672,Mariabergstraße 30 Wiggensbach /Ermengerst 87487,47.7242076,10.2596843
+673,Röntgenstraße 38 Bad Salzuflen 32107,52.0623729,8.6589791
+674,Weinbergstraße 8 Riesa 1589,51.2959917,13.3104542
+675,Zur Steinagger 3 Reichshof-Eckenhagen 51580,50.9806796,7.6909268
+676,Heinrich-Hertz-Straße 1 Dortmund 44227,51.493415,7.4046007
+677,Boschstraße 25 Leinefelde-Worbis 37327,51.3833358,10.3359636
+678,Industriestr.21-23 Wuppertal 42327,51.2435703,7.090422
+679,Wetterstraße 111 Herdecke 58313,51.4035559,7.4156418
+680,Franziska-Braun-Strasse 8 Darmstadt 64287,49.862584,8.6810211
+681,In der Hinterbach 5 Hosenfeld 36154,50.5325028,9.4967251
+682,Halberstädter Straße 75 Paderborn 33106,51.6857473,8.7426485
+683,Auf dem Bruch 11 Sprockhövel 45549,51.3601138,7.2515436
+684,Friedrich-Bückling-Str. 8 Neuruppin 16816,52.8797758,12.8021932
+685,Günter-Wiebke Str. 1 Frechen 50226,50.9036751,6.7653921
+686,Lutherstraße 87 Chemnitz 9126,50.8189285,12.9255127
+687,Fauerbacher Straße 22 Friedberg (Hessen) 61169,50.330111,8.768902
+688,Mühlheimer Straße 425 Offenbach am Main 63075,50.1148099,8.8093144
+689,Zweite Allee 1 Rothenburg/Oberlausitz 2929,51.4102696,14.9498513
+690,Geschwister Scholl Straße 23 Wiesbaden 65197,50.089169,8.201984
+691,Am Gipswerk 300 Steinsfeld 91628,,
+692,Stadtlohner Straße 71 Gescher 48712,51.962787,6.9871678
+693,Schauensteiner Straße 1 Germersheim 76726,49.2325732,8.3749348
+694,Brüningstraße 50 Frankfurt am Main 65926,50.0963086,8.5379968
+695,Kurt-Eckelmann-Straße 1 Hamburg 21129,53.5233604,9.9237992
+696,Senator-Bortscheller-Straße 1 Bremerhaven 27568,,
+697,Bestener Straße 250 Dorsten 46282,51.6484105,6.9195354
+698,Dieselstraße 141 Halle 6130,51.4575737,11.9914932
+699,Vosmatenweg 6 Laar 49824,52.6444036,6.7430045
+700,Fritz-Züchner-Str. 8 Seesen 38723,51.8946974,10.1758164
+701,Kavernenweg 95 Leer (Ostfreisland) 26789,,
+702,Hollerlandstraße 82 Oldenburg 26135,,
+703,Siegener Straße 35 Frankenberg 35066,51.0515828,8.7804801
+704,Am Schwemmberg Serba 7616,,
+705,Katharinental Hennef (Sieg) 53773,50.8003025,7.3360888
+706,Muldenhütten 25 Freiberg 9599,50.9032296,13.3846921
+707,Siemensstraße 13 Hiddenhausen 32120,52.1670497,8.5971873
+708,Hütte 4-6 Altena 58762,51.299328,7.7235322
+709,Oberstdorfer Strasse 7 Kempten 87435,47.7043096,10.3122645
+710,Düren 5 Kisslegg 88353,,
+711,Gladbacher Strasse 23 Heinsberg 52525,51.0507295,6.1574861
+712,Ottostr. 5 Wackersdorf 92442,49.3287442,12.2216246
+713,Jülicher Landstraße 101 Neuss 41464,51.1850341,6.6821574
+714,Wastlmuehlstrasse 16 Hauzenberg 94051,48.6277308,13.643501
+715,Kumpenkampsheide 1 Hermannsburg 29320,52.8224016,10.080704
+716,Feldkasseler Weg 5 Köln 50679,51.0352384,6.926116
+717,Fuchsau 3 Markt Bibart 91477,49.6362185,10.440446
+718,Im Kissen 19 Brilon 59929,51.4066685,8.5982354
+719,1 Bückeburg 31675,52.2955962,9.0560247
+720,Bonzelerhammer  Lennestadt 57368,51.1108304,8.0332994
+721,Golsberger Straße 3 Lüdenscheid 58513,51.2492625,7.5894981
+722,Oberbettinger Str. 27 Lissendorf 54587,50.3133053,6.6141055
+723,Büchenberger Straße 32 Kalbach 36148,50.4197221,9.651448
+724,Papenstraße 4-7 Einbeck 37574,51.8161773,9.8653829
+725,Einsiedler Hauptstraße 144 Chemnitz 9123,50.7649727,12.9746338
+726,Eisbärstraße 1 Apensen 21641,53.4436718,9.6208954
+727,Industriestraße 9 Eisenberg 67304,49.5516537,8.0668669
+728,Duisburger Straße 35 Bielefeld 33647,51.9755056,8.505641
+729,Schonachbach 7 Triberg 78098,48.1461372,8.2428846
+730,In der Bahler Heide 5 Dinklage 49413,52.6730851,8.1302593
+731,Max- Planck- Str. 26 Villingen 78052,48.0836099,8.449201
+732,Kölnstraße 262-266 Brühl 50321,50.8427993,6.9135241
+733,Eisenwerk 2 Schwarzenbach 95126,50.2112907,11.9642035
+734,Grenzstraße 9 Coswig 1640,51.1186668,13.5785834
+735,Lichtlöcherberg 40 Hettstedt 6333,51.6257808,11.5024613
+736,Bodelschwinghstraße 1 Rothenburg o. d. T. 91541,,
+737,Dürener Str. 487 Eschweiler 52249,50.8242702,6.3047945
+738,Jasminstraße 23 Eckental 90542,49.5852904,11.1836135
+739,Straßburger Allee 8 Erkelenz  41812,51.0604429,6.3135618
+740,Zum Mühlenberg 10  Neustadt an der Orla 7806,50.742589,11.7735511
+741,Gildestraße 69 Ibbenbüren 49479,52.2724575,7.7481577
+742,Winterberg 1 Saarbrücken 66119,49.2216732,7.001683
+743,Oberste Elpersweide 3 Alsfeld 36304,50.7392864,9.2846682
+744,Stahlgruberring 19 München 81829,48.1323518,11.6675151
+745,Lindenstraße 61 Fürstenwalde/Spree 15517,52.3530802,14.0946474
+746,Wasserweg 5 Riesa 1591,51.3247985,13.279004
+747,Drewitzer Straße 50 Potsdam 14478,52.3610026,13.1110615
+748,Heinrich-Hertz-Straße 17 Schleswig 24837,54.7890254,9.4482528
+749,Koppelstraße 4 Stralsund 18437,54.2834557,13.0853683
+750,Robert-Bosch-Str. 8  Sulz am Neckar 72172,48.3537834,8.6378357
+751, Industriepark 10 Simmern 55469,49.9673903,7.5609622
+752,Industriestraße 4 Mörlenbach 69509,49.6005811,8.7390224
+753,Schleusenstraße 11 Dorsten 46282,51.6589439,7.0027944
+754,Pettenkoferstraße 23 Hagen 58097,51.3764771,7.4688773
+755,Am Seeufer 15 Wismar 23970,53.9187206,11.4757844
+756,Oststrasse 16 Wesel 46483,51.5008427,6.5927327
+757,Peter-Henleinstr. 10 Villingen-Schwenningen 78056,48.0692114,8.5648904
+758,Am Tidehafen 7 Elsfleth 26931,53.2227934,8.4589503
+759,Helmut-Neynaber-Straße 49 Loxstedt 27612,53.4833008,8.6488067
+760,Am Bahnhof 6 Bräunlingen-Döggingen 78199,47.8932212,8.4406731
+761,Obere Lerch 40 Georgensgmünd 91166,49.1767114,11.0043461
+762,Industriestr. 2 Hörselberg-Hainich 99820,51.0035912,10.4432871
+763,Langenberger Str.32 Velbert 42551,51.3356225,7.0555133
+764,Alsumer Str. 203-213 Duisburg 47166,51.4826961,6.7277604
+765,"Emslandstrasse, 58 Emlichheim 49824",52.6179686,6.8622
+766,Hauptstr. 200 Lippendorf 14575,,
+767,Durlacher Allee 93 Karlsruhe 76131,49.0063112,8.4375227
+768,Kreuzauer Straße 46 Düren 52355,50.7659096,6.4938101
+769,Panormastraße 76 Birkenfeld 75217,,
+770,Dieselstrasse 24  Gerlingen  70839,48.80681,9.0730746
+771,Jahnstr 19 Massenbachhausen 74252,49.174752,9.0442795
+772,Im Bach 26 Wechingen 86759,48.8925652,10.611043
+773,In der Hinterbach 5 Hosenfeld 36154,50.5325028,9.4967251
+774,Viktoriastraße 73 Lünen 44532,51.6092414,7.5070081
+775,Danziger Str. 31 Oberhausen 46045,51.4708524,6.8621667
+776,Dietzenbacher Str. 189 Heusenstamm 63150,50.0407412,8.7889622
+777,Am Mönchswinkel 3 Rochlitz 9306,51.0570168,12.7966386
+778,Heinrich-Schoormann-Weg 1 Hameln 31789,52.094966,9.3880193
+779,Waizendorf 3 Bechhofen 91572,49.1594861,10.531905
+780,Beim Postweg 2 Friedeburg 26446,53.4534566,7.9039116
+781,Großes Wert 25-27 Erbach 89155,48.3268074,9.9050664
+782,Reiersbacherstraße 34 Renchen-Ulm 77871,48.5747559,8.0544093
+783,Lauchaer Höhe 27-29 Waltershausen 99880,50.9144184,10.5546387
+784,Am Malzwerk 1 Erfurt 99086,51.0027341,11.0293457
+785,Am Weiher 133 Aufseß 91347,49.8812473,11.2267084
+786,Hafenstraße 19 Breisach 79206,48.044857,7.5776347
+787,Dechsendorfer Str. 11 Erlangen 91054,49.605057,10.9967241
+788,Jürgen-Graef-Allee 2 Hamm 59065,51.6876798,7.835153
+789,Hauptstrasse 106 Neufahrn 84088,48.7255495,12.1894903
+790,Kohlenstraße 1 Rodewisch 8228,50.5244047,12.4050441
+791,Bielsteiner Straße 108 Wiehl 51674,50.9624659,7.5011177
+792,Kölner Straße 1-5 Mudersbach 57555,50.8303592,7.9503777
+793,Floßhafenstr. 16 Neuss 41460,51.2097901,6.7172119
+794,Kommerzienrat-Disch  Strasse 1 Mainz-Kostheim 55246,,
+795,Sandhofer Straße 176 Mannheim  68305,49.5343014,8.4595007
+796,Kasseler Landstraße 21 Witzenhausen 37213,51.3232448,9.8491703
+797,Delmenhorster 22 Stuhr 28816,52.9949661,8.716967
+798,Pforzheimer Str. 202 Ettlingen 76275,48.9293498,8.4470529
+799,Hans-Böckler-Straße 30 Lüdinghausen 59348,51.7605729,7.4290039
+800,Euroglasstraße 101 Osterweddingen 39171,52.0567946,11.58777
+801,Dammühlenweg 60 Haldensleben 39340,52.2745502,11.4422048
+802,Kurallee 23 Bad Füssing 94072,48.3517655,13.3202334
+803,Europa-Park Straße 2 Rust 77977,48.2649865,7.720728
+804,Kurt-Vogelsang Str. 6 Hassmersheim 74855,49.3060912,9.1462792
+805,Holzkoppel 4 Schenefeld 22869,53.5880864,9.8311544
+806,Sandstr. 140 Mülheim an der Ruhr 45473,51.4375031,6.8762191
+807,Am Oberwald 4 Wörth am Rhein 76744,49.0667317,8.3004566
+808,Georg-Schwarz-Straße 49 Leipzig 4177,51.3424717,12.3193415
+809,Kriegerlindenstr. 3 Nürnberg 90427,49.4871922,11.0767152
+810,Steinweg 13 Oldenburg 26122,53.1426609,8.2049317
+811,Haselkamp 33 Hamburg 22359,53.6411202,10.1518478
+812,Fahrner Straße 133 Duisburg 47169,51.5150405,6.7658279
+813,4 Mettmann 40822,51.2519146,6.971066
+814,Schermbecker Landstraße 88 Wesel 46485,51.6596655,6.6545882
+815,Ernst-Günter-Albers-Str. 13 Meldorf 25704,54.0950361,9.0644471
+816,Straße der Deutschen Einheit 6 Triptis 7819,50.7462811,11.8857078
+817,Am Mühlenbach 1 Melle 49328,52.1943073,8.4608888
+818,Birkhof 1 Kastl 95506,49.8081622,11.8948682
+819,An der Suhl 1 Nüsttal 36167,,
+820,Esslinger Straße 102 Fellbach 70734,48.8096204,9.2676466
+821,Bürgermeister-Schmidt-Straße 17 Burscheid 51399,51.0807835,7.1156308
+822,Hugo-Küttner-Strasse 8 Pirna 1796,50.9560623,13.9152188
+823,Aachener Straße 1 06796 Brehna 6796,51.558335,12.1833761
+824,An der Asbacher Straße 22 Schmalkalden 98574,50.7188872,10.4782859
+825,Weinbergstr. 1 Eisenach 99817,50.9872763,10.2717304
+826,Senefelderstraße 3-11 Wemding 86650,48.8700433,10.7156991
+827,Industriestraße 8 Lennestadt 57368,51.1446878,8.0091767
+828,An der B5 Paulinenaue 14641,,
+829,Flurstraße 15-17 Mettmann 40822,51.2485204,6.9869694
+830,Julius-Bührer-Straße 12 Singen 78224,47.7600426,8.8457764
+831,Kleffstraße 1 Altena 58762,51.3059837,7.6665251
+832,Dieselstraße 11 Wölfersheim 61200,50.4232023,8.8496329
+833,An den Quellen 1 Eilenburg 4838,51.4726178,12.6069881
+834,Hellinger Str. 1 Königsberg i. Bay. 97486,,
+835,Hellinger Str. 1 Königsberg i. Bay 97486,,
+836,Friesenheimer Straße 19 Mannheim 68169,49.5153456,8.4591992
+837,Zweibrücker Straße 200 Pirmasens 66954,49.2216298,7.5934297
+838,In der Fleute 81-89 Wuppertal 42389,51.2783484,7.2550459
+839,Posthalterweg 10 Oldenburg 26129,53.1580402,8.1726781
+840,Carl-Dütting-Straße 1 Osnabrück 49090,52.3087258,8.0020233
+841,Ofenbauerstraße 1 Westerburg 56457,50.5566931,7.9555703
+842,Biberbachstraße 9 Augsburg 86154,48.4021903,10.8765669
+843,Engelschalkstraße 1 Friedberg 86316,48.3512494,10.9922663
+844,Industriestraße 38 Nürnberg 90441,49.4306565,11.0563989
+845,Engelschalkstraße 1 Friedberg 86316,48.3512494,10.9922663
+846,Hermann-Goetze-Str. 8 Herdorf 57562,50.7728487,7.938481
+847,Loddenkamp 10 Hamm 59075,51.7002712,7.7793961
+848,Gewerbestr. Süd 74 Erkelenz 41812,51.068102,6.3169054
+849,Ringstraße 13 Ohrdruf 99885,50.8416142,10.7096417
+850,Nordring 1 Bad Laer  49196,52.1163762,8.0883474
+851,Stolberger Straß3 351-353 Köln 50933,,
+852,Burg Gretesch 1 Osnabrück 49086,52.2758357,8.1199311
+853,Kastanienallee 4a Oberharz am Brocken OT Rübeland 38889,,
+854,Gewerbestraße 62 Bretten 75015,49.0542463,8.7474547
+855,Kilianstr. 96 Nürnberg 90425,49.4737651,11.0748361
+856,Bahnhofstraße 1 Schraplau 6279,,
+857,Magirusstraße 21 Ulm 89077,48.3970328,9.964712
+858,Forststraße 20 Winnenden 71364,48.8673835,9.3864797
+859,Werkstrasse 1 Dillingen 66763,49.355597,6.7325219
+860,Jürgen-Graef-Allee 2 Hamm 59065,51.6876798,7.835153
+861,An der Fine 4 Dessau-Roßlau 6842,51.8259424,12.2313765
+862,Michele-Ferrero-Straße 1 Stadtallendorf 35260,50.8186185,8.9952124
+863,Am Außenhafen 5-7 Duisburg 47059,51.4301441,6.7428244
+864,Nord-West-Ring 38 Augustdorf 32832,51.9054813,8.7075318
+865,Rothenburgstraße 27 Nordhausen 99734,51.4889563,10.8154844
+866,An der Birkenpfuhlheide 4 Baruth 15837,52.0735686,13.5161193
+867,Trift 10 Ilsenburg 6502,51.8757286,10.6899873
+868,Industriestraße 28 Stockach 78333,47.8428235,9.0023871
+869,Im Neuen Felde 87 Uelzen 29525,52.9853936,10.5571089
+870,Koblenzer Str.  48-56 Andernach 56626,50.4364114,7.4148431
+871,"August Moralt Str., 9 Peiting 82442",47.7817922,10.9397394
+872,Westicker Straße 53 Kamen 59174,51.5822979,7.6515604
+873,Gottlieb-Wagner-Str 2 Kleinheubach 63924,49.7192307,9.2141387
+874,Peter-Behrens-Straße 15 Berlin 12459,52.4548649,13.5274806
+875,Am Steinwerk 7 Finnentrop 57413,51.159823,7.9641575
+876,Uferweg 5 Sinsheim 74889,49.2538645,8.8685109
+877,Marie-Curie-Strasse  16 Rheinfelden 79618,47.5470969,7.744646
+878,Solarstraße 1 Torgau 4860,51.5754971,12.9977448
+879,Nürnberger Straße 140 Wernberg-Köblitz 92533,49.5365348,12.1485644
+880,Lebendorfer Straße 1 Könnern 6420,51.7259536,11.7723117
+881,Alte Braunschweiger Straße 31 Lehre 38165,52.3537666,10.7101136
+882,Frierichthaler Straße 8 Olpe 57462,,
+883,Stahlschmidtsbrücke 11 Hückeswagen 42499,51.1363498,7.3410667
+884,Unter dem Schöneberg 20 Melsungen (Adelshausen) 34212,51.1119983,9.5589191
+885,Am Schlachthof 1 Weißenfels 6667,51.2139422,11.9764078
+886,Eduard Zimmermann Strasse 29 Thannhausen 86470,,
+887,Dieselstraße 85 Herzebrock- Clarholz 33442,51.8830609,8.2217967
+888,Alfred-Flender-Straße 77 Bocholt 46395,51.8232761,6.6081153
+889,Große Drakenburger Str. 93-97 Nienburg 31582,52.6544178,9.2070994
+890,Van-den-Bergh-Straße 35 Kleve 47533,51.7913558,6.1494438
+891,Lindenstraße 170 Itzehoe 25524,53.933125,9.4894282
+892,Flughafenstra 105 Düsseldorf 47877,,
+893,Flughafenstraße 1-3 Hamburg 22335,53.6283374,10.0060746
+894,Petzelstraße 84 Langenhagen 30855,52.4620848,9.6979196
+895,Nordallee 25 München-Flughafen 85356,48.3537253,11.7856497
+896,Werksweg 2 Stulln 92551,,
+897,Am Schlifter 7 Roßleben-Wiehe / OT Roßleben 6571,,
+898,Heinrich-Follmann-Str. 1 Minden 32423,52.2992524,8.9552885
+899,Industriestr. 7 Vechta Langförden 49377,52.7912899,8.2532521
+900,Deichstraße 11 Rees-Haffen 46459,51.7342701,6.4600058
+901,Henry Ford Straße 1 Saarlouis Lack (1) 66740,,
+902,An der Schraube 28 Finsterwalde 3238,51.6366198,13.7132469
+903,Niedernfeldweg 14 Porta Westfalica 32457,52.2587035,8.9049246
+904,Schiettingerstraße 3 Brand 95682,49.9519439,11.903622
+905,Volkmarstr. 9-11 Berlin 12099,52.4544316,13.3970318
+906,Industriestraße 20 Preetz 24211,54.2553157,10.3004678
+907,Ebinger Str. 115 Winterlingen 72474,48.1798858,9.107321
+908,Bahnhofstr. 28 Rogätz 39326,52.32428,11.7617507
+909,Industriestraße 1 Niederwinkling 94559,48.8942666,12.8017196
+910,Hirschstraße 30 Striegistal 9661,51.0070021,13.218849
+911,Lebuser Chaussee 3 Frankfurt (Oder) 15234,52.3642291,14.5297267
+912,Leibnizstrasse 3 Regensburg 93055,48.9970654,12.1558144
+913,Oesterweg 16 Ense 59469,51.4927756,7.972759
+914,Gutenbergstr. 12 Gersthofen 86368,48.4330178,10.8617378
+915,Heidenhofstrasse 2 Freiburg 79110,48.0091575,7.8346918
+916,Lilienthalstraße 200 Mannheim 68307,49.5458481,8.467698
+917,Am Junger-Löwe-Schacht 5 Freiberg 9599,50.9030587,13.3574643
+918,Lindenallee 20 Burg 39288,52.2475024,11.8785357
+919,An den Heilquellen 4 Freiburg 79111,47.9835933,7.7677564
+920,Bugginger Straße 85 Freiburg 79114,47.9982492,7.8069818
+921,Frankenhammer 8 Bad Berneck 95460,50.0303718,11.6834729
+922,Frankfurter Straße 6-8 Sankt Wendel 66606,49.4652418,7.1463586
+923,Liebigstr. 2-8 Kaiserslautern 67661,49.4346961,7.6716942
+924,Freudenbergstr. 1 Neuenburg 79395,47.8060154,7.5518668
+925,Höhnerweg 2-4 Weinheim 69469,49.55473,8.6625086
+926,Achternbergstrasse 38a Gelsenkichen 45884,,
+927,Ruhrtal 2 Witten 58456,51.4246179,7.2885205
+928,Hauptstraße 84 Wagenfeld 49419,52.5437613,8.5883102
+929,Rothenburger Str. 1 Aub 97239,49.548867,10.0719206
+930,Papenweg 6 Extertal 32699,52.0675586,9.1058639
+931,Wiedenbrücker Str. 80 Lippstadt 59555,51.6884611,8.3434995
+932,Großheubacher Str. 4 Miltenberg 63897,49.7694707,9.2476434
+933,Kappelrain 4 Güglingen 74363,49.0712807,9.028707
+934,Am Königsfeld 15 Brakel 33034,51.7100986,9.1833174
+935,Richard-Wagner-Straße 24 Hamm 59063,51.6683441,7.8220068
+936,Am Hambuch 20 Meckenheim 53340,50.6508027,7.0261195
+937,Albert-Schweitzer-Str. 15 Stadtallendorf 35260,50.8230314,9.004425
+938,Siegenbeckstraße 15 Hamm 59071,51.6849842,7.9606977
+939,Rotkreuzstraße 5 Bühl 77815,48.7012165,8.1311251
+940,Raiffeisenstr. 4 Schneiderkrug 49685,52.8138887,8.2351695
+941,Am Stazelbach 1 Lamerdingen 86862,,
+942,Höhenbühlstrasse 55 Münsing 82541,47.8923387,11.3965591
+943,Stockstädter Str. 100 Großostheim 63762,49.9427661,9.0652468
+944,Saarower Chaussee 34 Fürstenwalde 15517,52.3292108,14.0788929
+945,Postplatz 1 Donaueschingen 78166,47.9515329,8.5000818
+946,Lübarser Straße 10-38 Berlin 13435,52.6010885,13.333911
+947,Äppelallee 69 Wiesbaden 65203,50.0459131,8.2157611
+948,EUREF-Campus 17 Berlin 10829,52.4815294,13.3565907
+949,Mengerser Straße 30 Eiterfeld 36132,50.77402,9.795526
+950,Klever Str. 135 Goch 47574,51.690318,6.1577499
+951,Askay 35 Attendorn 57439,51.138822,7.9323127
+952,Gammelsbacher Straße 2 Eberbach 69412,49.4667764,8.9636714
+953,Ernst-Röwer-Ring 2 Grambow 17322,,
+954,Kühnhofener Str. 42 Hersbruck 91217,49.5141097,11.4180385
+955,Rheinhold-Vöster-Straße 25 Leonberg 71229,,
+956,Dr.-Robert-Koch-Straße 18 Bergisch Gladbach 51465,50.9937714,7.1309545
+957,Asberger Str. 4 Moers 47441,51.4454023,6.6410419
+958,Telegrafenberg 1 Potsdam 14473,,
+959,Karl-Marx-Straße 24 Pößneck 7381,50.6920831,11.5766836
+960,Gewerbestraße 4 Westendorf 86707,48.5712342,10.8445362
+961,Breiter Weg 40 Bergneustadt 51702,51.0298879,7.6623074
+962,Zum Kalkberg 4 Elsterwerda 4910,51.4625805,13.5393708
+963,Hafenstr. 41 Trier 54293,49.7939809,6.6947498
+964,Am Fliegerhorst 9 Bad Langensalza 99947,51.1220764,10.6304891
+965,Hafenstraße 30 Schweinfurt 97424,50.0298864,10.2240917
+966,Probstzellaer Straße 50 Gräfenthal 98743,50.5306007,11.3213009
+967,Beunaer Straße 4 Merseburg 6217,51.3196644,11.9884797
+968,"Gemarkung Baasdorf, Flur 23, Flustück 1068 Köthen 6366",,
+969,Grenzstraße 4 Spremberg OT Sellessen 3130,,
+970,Industriestraße 1 Ludwigshafen am Rhein 67063,49.4850651,8.4229183
+971,Rotterdamer Str. 14-18 Mannheim 68219,49.4247275,8.5144131
+972,Siechen 11 Cham 93413,49.2282543,12.6795559
+973,Konrad‐Zuse‐Str. 4; Jena 7745,50.8852489,11.5988722
+974,August-Bebel-Straße 59 Rüsselsheim 65428,49.9827132,8.4251458
+975,9 Industriestraße Hardheim 74736,49.6036774,9.4754881
+976,Äußerer Ring 50 Baar-Ebenhausen 85107,48.6871264,11.4714776
+977,Bertrams-Jadgweg 12a Hürth 50354,,
+978,Max-Immelmann-Allee 3 Waldshut-Tiengen 79761,,
+979,Gaensefurth 4 Hecklingen 39444,51.8637487,11.5346188
+980,Holger-Crafoord-Str. 26 Hechingen 72379,48.3503856,8.9807613
+981,Bahnhofstraße 50 Niederstotzingen 89168,48.5333165,10.2351341
+982,Peterswörther Straße Gundelfingen 89423,48.5465905,10.3763445
+983,Kurpfalzring 109 - 113 Heidelberg 69123,49.4048849,8.6404207
+984,In der Grund 85 Achim/Embsen 28832,53.0289844,9.0194262
+985,Im Moore 1 Diepholz 49356,52.6171186,8.3103024
+986,Abelstraße 12 Wesel 46483,51.665907,6.6231795
+987,Kronprinzstrasse 40 Langenfeld 40764,51.1200237,6.96587
+988,Theuerbach 1 Pfullendorf 88630,47.9244001,9.2415638
+989,Hölker Feld 29-31 Wuppertal 42279,51.2950354,7.256346
+990,Trophagener Weg 25 Lemgo 32657,52.0202498,8.8887324
+991,Hauptstraße 250a Würselen 52146,50.8161158,6.1526274
+992,Mühlenstr. 4 Giesen 31180,52.1920431,9.9212589
+993,Hermann-WÃ¼sthof-Ring 15-17 Hamburg 21035,,
+994,Uracher Str. 95 Dettingen an der Erms 72581,48.5217844,9.3535624
+995,Eichholz 1 Halver 58553,51.1951545,7.5103987
+996,Schüttendeich 4 Radevormwald 42477,51.196952,7.386456
+997,Scharhof 1 Hirschau 92242,49.540394,11.9783395
+998,Am Eggenkamp 8-10 Greven 48268,52.1050659,7.6221893
+999,Trottäcker 69 Bad Säckingen 79713,47.5503691,7.9214965
+1000,Am Goldbach 1 Alzenau 63755,50.102031,9.1006892
+1001,Knabenweg Elsenfeld 63820,49.8471967,9.1612139
+1002,GLS-Germany-Straße 1-7 Neuenstein 36286,50.9082427,9.5869309
+1003,Poinstr. 1 Strullendorf 96129,,
+1004,Bahnhofstrasse 6 Mosbach-Neckarelz 74821,49.3452821,9.1085072
+1005,Nordring 67 Schüttorf 48465,52.3317586,7.247339
+1006,Neue Hüttenstraße 1 Georgsmarienhütte 49124,,
+1007,Oeslauer Str. 35 Rödental 96472,50.2918976,11.0416242
+1008,Loikumer Str.10 Hamminkeln - Dingden 46499,51.7711901,6.6055006
+1009,Vulkanring 6 Gerolstein 54567,50.2413928,6.6624428
+1010,Erich-Martens-Straße 26-32 Bünde 32257,52.1934512,8.6077904
+1011,Ruhrau 50 Essen 45279,51.439299,7.0882097
+1012,Rodenbacher Straße Lohr 97816,49.9877335,9.5773948
+1013,Tettaugrundstrasse 1 Tettau 96355,50.4592568,11.2641717
+1014,Obere Mäurichstr. 4 Neuenstadta.K. 74196,,
+1015,Senator-Weßling- Str. 1 Bremen 28277,53.0357981,8.8187376
+1016,Nordring 2 Bayreuth 95445,49.9558117,11.566922
+1017,Chaumontplatz 1 Bad Nauheim 61231,50.3571253,8.7291555
+1018,Hansestraße 2 Bremervörde 27432,53.4983524,9.1174757
+1019,Am Flugplatz 1 Gera 7546,50.882901,12.1288212
+1020,Höfener Straße 42 Nürnberg 90431,49.4558303,11.0095143
+1021,Karl-Kling-Straße 12 Gießen-Lützellinden 35398,50.5286942,8.6122295
+1022,Hofmannstraße 25a Bad Windsheim 91438,49.511508,10.4259292
+1023,L.-Girnghuber-Str.  Marklkofen 84163,48.54797,12.5481118
+1024,Giselherstrasse 11 Dortmund 44319,51.526759,7.6258083
+1025,Hüblteichstraße 17 Mitterteich 95666,49.9454436,12.2284127
+1026,Schützenstr. 1 Waldsassen 95652,50.0074737,12.3030938
+1027,Nienburger Straße 59 Estorf 31629,52.6021637,9.1598923
+1028,Ruhrstraße 4 Neuburg an der Donau 86633,48.7408906,11.2416174
+1029,Pirnaer Strasse Heidenau 1809,50.9656975,13.8871282
+1030,Hördenerstraße 5 Gernsbach 76593,48.77185,8.3384629
+1031,Industrieparkstraße 1 Burgkirchen 84508,48.1772898,12.7191883
+1032,Hahnestr. 3 Dassel 37586,51.7811031,9.6906067
+1033,Robert-Bosch-Str. 3 Frankfurt am Main 60386,50.118881,8.7546771
+1034,Südstraße 39 Osnabrück 49084,52.2718662,8.0985027
+1035,Nieder-Wippekühl 2-4 Schaksmühle 58579,,
+1036,Alt Salbke 6-10 Magdeburg 39122,52.0847917,11.6619392
+1037,Guterborn 1 Boden 56412,50.4759823,7.8548434
+1038,Zum Bahndamm 18 Treuen 8233,50.5509321,12.2804751
+1039,Industriestraße 10 Garrel 49681,52.9493555,8.0138603
+1040,Haupstraße 20 Siegen 57074,,
+1041,Hombuschstr. 5 Mannheim 68169,49.5159537,8.4636636
+1042,Trettaustr. 35 Hamburg 21107,53.4939885,9.9868023
+1043,Justus- Liebig-Straße 1 Wittlich 54516,49.982729,6.9064577
+1044,Kreuzauer Straße 46 Düren 52355,50.7793597,6.4889728
+1045,Waldemar-Estel-Straße Seehausen 39615,52.8787038,11.7367986
+1046,Otto-Graf-Straße 1 Herbolzheim 79336,48.2211497,7.7517847
+1047,Köferinger Straße 9-13 Kümmersbruck 92245,49.4162355,11.8733434
+1048,Gewerbegebiet Fichtig 2 Sonneberg 96515,50.4918313,11.258663
+1049,Egerländerstr.2 Reinheim 64354,49.8336884,8.8339288
+1050,Rothwiese 5 Hannover 30559,52.3684387,9.8635569
+1051,Riedhof 2 Bad Waldsee 88339,47.9050012,9.7187914
+1052,Bochumer Straße 267 Castrop-Rauxel 44575,51.5313997,7.2957934
+1053,Flutstraße 84 Wilhelmshaven 26386,53.5713436,8.1102953
+1054,Stein 22 Plößberg 95703,49.8248567,12.3258874
+1055,Maybachstraße 2 Frickenhausen 72636,48.5985446,9.3560565
+1056,Johann-Maus-Str. 3 Ditzingen 71254,48.8194641,9.0682858
+1057,Am Hohenstein 115 Schiltach 77761,48.2915362,8.3223371
+1058,Im Camisch 1 Kahla 7768,50.8218062,11.5823239
+1059,Hunteburgerstraße 32 Damme 49401,52.5175201,8.2008845
+1060,Industriestraße 18 Stockach 78333,47.8438936,9.0042903
+1061,Liebigstraße 3 Reinbek 21465,53.5215853,10.2338084
+1062,Forster Straße 72 Guben 3172,51.9227167,14.6956231
+1063,Siemensstraße 6 Herzberg 37412,51.6410035,10.3210032
+1064,Salzstraße 1 Reinsberg 9629,51.045164,13.3808892
+1065,Werner-von-Siemens-Straße 5 Stuhr 28816,53.0214271,8.7762674
+1066,Brunnenallee 1 Bad Driburg 33014,51.7361279,9.0303734
+1067,Ziegerlerstraße 6 Aachen 52078,,
+1068,Antoniusstr. 15 Kirchhundem 57399,51.0728847,8.0695037
+1069,Guardianstraße 1 Bitterfeld-Wolfen 6766,51.651914,12.2399582
+1070,Am Weiher 1 Neutraubling 93073,48.9828989,12.2238629
+1071,Göllstraße 8 Tittmoning 84529,48.0534598,12.7709818
+1072,Teplitzer Str. 20 Waldkraiburg 84478,48.2094389,12.4153794
+1073,IndustriestraÃe 10 Lienen 49536,,
+1074,Alte Heerstrasse 1 GeorgsmarienhÃ¼tte 49124,,
+1075,Hardter Straße 400 Viersen 41748,51.2246922,6.369757
+1076,Ronsdorfer Straße 174 Remscheid 42855,51.1992695,7.1965687
+1077,Uracher Str. 27 Hülben 72584,48.5180594,9.4046035
+1078,Eschenhausen 29 Bassum 27211,52.8407206,8.7387869
+1079,Bahnhofstraße 40 Eystrup 27324,52.7801842,9.2203473
+1080,Herderstraße 50-54 Albstadt/ Ebingen 72458,48.2096991,9.037553
+1081,Ziegeleiwiese 5 Güstrow 18273,53.7980718,12.1949426
+1082,Landstr. 1 Gutach 79261,48.1130264,7.9835469
+1083,Neuenkirchener Strasse 8 Salzbergen 48499,52.3170123,7.3518926
+1084,Neuhöfer Brückenstrasse 127 - 172 Hamburg 21107,53.5124734,9.9644391
+1085,Glashüttenweg 17 Lübeck 23568,53.89272,10.7068496
+1086,Gifhorner Str. 59 Knesebeck 29379,52.6771127,10.6962861
+1087,Alfred-Nobel-Straße 16 Unna 59423,51.532782,7.7193769
+1088,Haimendorfer Str. 58 Schwaig 90571,49.4671826,11.2144321
+1089,An der Roten Bleiche 2-3 Lüneburg 21335,53.2384146,10.4137829
+1090,Schützenwall 27 Norderstedt  22844,53.7101137,10.0248625
+1091,Vor dem Untertor 1 Wanfried 37281,51.1843273,10.1685661
+1092,Süd-Chemie-Str.3 Kelheim 93309,,
+1093,Werner-von-Siemens-Str. 23 Bad Rodach 96476,50.3364846,10.7873994
+1094,Oberrohner Strasse 11 Bad Salzungen 36433,50.8602501,10.2459128
+1095,Gebäude 1027 Hahn-Flughafen 55481,,
+1096,Rudolph-Glauber-Straße 6 Bitterfeld 6749,51.6193809,12.3078496
+1097,Dr.-Hans-und-Paul-Riegel-Str. 5 Grafschaft 53501,50.5756603,7.0874204
+1098,Wilhelm-Harting-Str. 1 Espelkamp 32339,52.3909348,8.6191266
+1099,Glashüttenplatz 1-7 Tettau - Kleintettau 96355,50.4713498,11.2824727
+1100,Am Hochkamp 21 Bad Schwartau 23611,53.9224163,10.6938415
+1101,Albert-Schweitzer-Weg 1 Northeim 37154,51.7298077,9.9788643
+1102,Ludwig-Erhard-Str. 100 Wiesbaden 65199,50.0658506,8.1914707
+1103,Holstenstraße 2 Hamburg 22767,53.5509665,9.9551452
+1104,Eisfelder Str. 41 Hildburghausen 98646,50.4252469,10.7443159
+1105,Friesener Straße 41 Kronach 96317,50.2438042,11.3323544
+1106,Große Parower Straße 47-53 Stralsund 18435,54.3284098,13.0816926
+1107,Altenwalder Chaussee 10 Cuxhaven 27474,53.8527502,8.6927855
+1108,Dr.-Frössel-Allee 1 Herzberg 37412,51.6693949,10.343182
+1109,August-Bebel-Straße 55a Burg 39288,52.2645074,11.8324047
+1110,Hallesche Straße 29 Köthen 6366,51.7469031,11.9725344
+1111,Wittgensteiner Platz 1 Leezen 19067,53.6603231,11.4909919
+1112,Krankenhausstraße 30 Rottweil 78628,48.1654267,8.6126921
+1113,Leipziger Str. 45 Schkeuditz 4435,51.3943344,12.230264
+1114,Mildred-Scheel-Straße 1 Nordenham 26954,53.4560589,8.4417178
+1115,Franz-Lust-Str. 30 Karlsruhe 76185,49.0182659,8.3759381
+1116,Am Beinschuh 2a Sangerhausen 6526,51.4720228,11.3096056
+1117,Ziegelkampstraße 39 Nienburg/Weser 31582,52.6357175,9.224454
+1118,Wismarsche Straße 393-397 Schwerin 19049,53.6514219,11.4082224
+1119,Gartenstraße 6 Aue-Bad Schlema 8280,50.5923472,12.7171102
+1120,Pieskower Str. 33 Bad Saarow 15526,52.2837363,14.0626258
+1121,Schwanebecker Chaussee 50 Berlin 13125,52.63108,13.5077143
+1122,Walterhöferstr. 11 Berlin 14165,52.422654,13.2541775
+1123,Nordhäuser Straße 74 Erfurt 99089,50.9923519,11.0124195
+1124,Campus 6 Gifhorn 38518,52.4971131,10.5482638
+1125,Heliosstraße 1 Gotha 99867,50.9284165,10.6776104
+1126,Senator-Braun-Allee 33 Hildesheim 31135,52.1513519,9.9766887
+1127,Lutherplatz 40 Krefeld 47805,51.3209451,6.5660868
+1128,Bergstr. 3 Meiningen 98617,50.5575191,10.3971342
+1129,Robert-Koch-Straße 2 Velbert 42549,51.3503039,7.0116891
+1130,Kanzlerstr. 2-6 Pforzheim 75175,48.8889734,8.7123224
+1131,Struppener Str. 13 Pirna 1796,50.9583827,13.9540004
+1132,Kattowitzer Straße 191 Salzgitter 38226,52.1547473,10.3189944
+1133,Dr.-Moeller-Straße 15 Schwelm 58332,51.2937365,7.3122248
+1134,Ringstraße 49 Siegburg 53721,50.7993029,7.2063182
+1135,Hüffertstr. 50 Warburg 34414,51.487456,9.1407719
+1136,Heusnerstraße 40 Wuppertal 42283,51.273968,7.1743249
+1137,Stader Strasse 203 c Hamburg 21075,53.4698687,9.9378098
+1138,Strümpellstr. 41 Leipzig 4289,51.3082257,12.4356877
+1139,Härlenweg 1 Überlingen 88662,47.7748076,9.1509019
+1140,Schillerstraße 22 Hünfeld 36088,50.6631439,9.7672048
+1141,Conringstraße 26 Helmstedt 38350,52.2318762,10.9993091
+1142,Röntgenstr. 2 Plauen 8529,50.4918867,12.1520372
+1143,Bürgerstraße 7 Freital 1705,50.9915096,13.6448433
+1144,Beckumer Straße 130 Lippstadt 59552,51.6811859,8.3216799
+1145,Maienbühlstraße 7 Wembach 79677,47.7720462,7.8862047
+1146,Gebr.-Uekermann-Straße 1 Hiddenhausen 32120,,
+1147,Heinrich-Hermann-Straße 14 Filderstadt 70794,48.6598934,9.2225103
+1148,Industriestrasse 64 Sulzbach An Der Murr 71560,49.0005736,9.5152844
+1149,Raffineriestraße 1 Wilhelmshaven 26388,53.6087379,8.0995541
+1150,Hagenstr. 2 Bad Arolsen 34454,51.3558438,8.9872913
+1151,Graf-Zeppelin-Straße 16-20 Bad Wünnenberg-Haaren 33181,51.5641973,8.7157124
+1152,Schäfergasse 1 Bad Salzungen 36433,50.8125696,10.2228971
+1153,Ernst-Blickle-Str. 21-25 Bruchsal 76646,49.1224335,8.576293
+1154,Boschstraße 15 Glauchau 8371,50.8327597,12.5327152
+1155,Kirrberger Straße Homburg 66424,49.31517,7.3428566
+1156,Marschgehren 13 Bremen 28779,53.1790176,8.5753568
+1157,Miraustraße 10-14 Berlin 13509,52.5796983,13.3139744
+1158,Werkstraße 3 Hagenow 19230,53.424673,11.1855249
+1159,Gewerbering 32 Hettstedt  6333,51.6382211,11.4815515
+1160,Mageburger Str. 3b Quedlinburg 6484,,
+1161,An der Bremecke 4 Brilon 59929,51.363742,8.6198292
+1162,Bontkirchener Straße 1 Brilon 59929,51.378685,8.6401959
+1163,Fraunhofer Str. 2 Leipzig 4178,51.3497853,12.2992162
+1164,Holy-Allee 3 Metzingen 72555,48.5469737,9.2686304
+1165,Alemannenweg 32 Hagen 58119,51.3675678,7.5527394
+1166,Wilhelm-Ruß-Str. 2 Coburg 96450,,
+1167,Riedstr. 1 Erdmannhausen 71729,48.9470532,9.2831154
+1168,Käfertaler Straße 318 Mannheim 68167,49.5025537,8.5024438
+1169,Im Rädchen 4-6 Nonnweiler-Otzenhausen 66620,49.60181,6.9997392
+1170,Landsteinerstraße 1+3 Leipzig 4103,51.316608,12.3914673
+1171,Buxtrup 3 Nottuln 48301,51.9140952,7.3880956
+1172,"Obersülzer Straße 16a Grünstadt, 23.04.2024 67269",,
+1173,Herdecker Str. 4-10 Hagen 58089,51.3858072,7.4467424
+1174,Zum Gunterstal 6 Blieskastel 66440,49.2331525,7.2743934
+1175,Hahnestr. 5 Dassel 37586,51.7799115,9.6906164
+1176,Weiherstr. 21 Hollenbach 86568,48.4687091,11.0492713
+1177,Auhofstraße 16 Mainburg 84048,48.6305076,11.77948
+1178,Freiimfelder Straße 74 Halle (Saale) 6112,51.4852357,11.9950402
+1179,ABC Straße 52 Hamburg 20354,53.5547035,9.987306
+1180,Messeplatz 1 Hamburg 20357,53.5631705,9.9754858
+1181,Alfred-Zingler-Straße 15 Gelsenkirchen 45881,51.540678,7.0824638
+1182,An der Heide B5 Spremberg 3130,51.5190103,14.3391971
+1183,Kuhlmannstr. 11 Hameln 31785,52.0969906,9.3793176
+1184,Ernst-Diederichs-Str. 1 Bad Münstereifel 53902,50.5940214,6.7837176
+1185,Dr.-Werner-Esser-Str. 1 Fridingen 78567,48.0306851,8.9397642
+1186,Oderstraße 45 Neumünster 24539,54.0441543,9.986014
+1187,Arthur-Handtmann-Straße 25-31 Biberach an der Riß 88400,48.0819019,9.8126387
+1188,Hanno Ring 3 - 5 Laatzen 30880,52.275592,9.8546449
+1189,Bergstraße 114 Bötzingen 79268,48.0762672,7.7046347
+1190,Bererbachstr. 19 Abenberg 91183,,
+1191,Adelindastrasse 15 Kaufbeuren 87600,47.89716,10.6201572
+1192,Memminger-Str. 25 Buxheim 87740,47.9937047,10.1408226
+1193,Münchner Str. 35 Friedberg 86316,48.3498157,10.9913335
+1194,Nöldekestraße 4 Hamburg 21079,53.450281,9.9877193
+1195,Kreuzwegstraße 41 Offenburg 77656,48.4363834,7.9345377
+1196,Sonnenallee 17-21 Bitterfeld-Wolfen 6766,51.6409443,12.2206234
+1197,Asdorfer Straße 60 Freudenberg 57258,50.8891288,7.8723594
+1198,Wuppertaler Straße 76 Solingen 42653,51.1958821,7.0801478
+1199,Industriestraße 2 Wiesau 95676,49.9104129,12.1922521
+1200,Robert-Bosch-Straße 1 Groß Ippener 27243,52.9776435,8.6202345
+1201,Gottlieb-Daimler-Str. 8 Soltau 29614,52.9973089,9.9201871
+1202,Am Bergwerk 12 Schirnding 95706,50.0851589,12.2454409
+1203,Eimterstrasse 204 Herford 32049,52.1398382,8.6785229
+1204,Walkenrieder Straße 32 Walkenried 37445,51.6115577,10.6264931
+1205,Ernst-Hatz-Str. 16 Ruhstorf an der Rott 94099,48.4341649,13.3345017
+1206,Rabenhorststraße 1 Unkel 53572,50.6030958,7.2211657
+1207,Neufnachstraße 32 Fischach 86850,48.2886154,10.6455288
+1208,Straße der Einheit 138 a Falkensee 14612,52.5541999,13.1077202
+1209,Börnicker Straße 1 Nauen-Tietzow 14641,52.7071327,12.9351308
+1210,Postbergstraße 14-16 Kissenbrück 38324,52.1177832,10.5700405
+1211,Virchowstraße 10 Singen 78224,47.759353,8.8215343
+1212,Kapellenstraße 31 Gailingen 78260,47.6909473,8.768008
+1213,Oberes Moos 3 Pilsting 94431,48.6992282,12.6883757
+1214,Dieselstr. 10 Schwaigern 74193,49.138481,9.0704679
+1215,Schmidmühlener Straße 30 Burglengenfeld 93133,49.2118004,12.0293684
+1216,Gutenbergring 19 Wiesloch 69168,49.2883828,8.6604573
+1217,Lether Gewerbestraße 2 Großenkneten 26197,52.8994835,8.1879557
+1218,An Gut Nazareth 73 Düren 52353,50.8122948,6.4554604
+1219,Am Mühlkanal 3 Pforzheim 75172,48.8853864,8.6691124
+1220,Industriestraße 7 Ansbach 91522,49.2923234,10.6093861
+1221,Möhlendyck 11 Geldern 47608,51.4876812,6.2999637
+1222,Großharrier Weg 48 Neumünster 24536,54.1238055,10.0086702
+1223,Stiftsstrasse 1 Neuwied 56566,50.4547613,7.5349094
+1224,Großröhrsdorfer Straße 15 Radeberg 1454,51.1271084,13.9424243
+1225,Eggeroder Straße 8 Schöppingen 48624,52.0853479,7.2317269
+1226,Brachwitzer Str. 21 Halle 6118,51.5233614,11.945066
+1227,Beimoorweg 11 Ahrensburg 22926,53.6805349,10.2511333
+1228,Wirthstraße 5 Blankenhain 99444,50.8600537,11.3392756
+1229,Martin-Luther-Str. 49 Lengerich 49525,52.1987379,7.84337
+1230,Alte Kölner Straße 9 Wipperfürth 51688,51.1131661,7.3854849
+1231,Hansteinstraße 29 Kassel 34121,51.3115612,9.4542854
+1232,Steinerweg 5 München 81241,48.1444878,11.4542841
+1233,Dieselstraße 185 Duisburg 47166,51.490144,6.7606062
+1234,Von-Hompesch-Straße 1 Bonn 53123,50.7076941,7.0319544
+1235,Hagenskamp 34 Uelzen 29525,52.9719771,10.5322858
+1236,Albertus-Magnus-Straße 33 Duisburg 47259,51.3645829,6.7546805
+1237,Josefstr. 3 Oberhausen 46045,51.4617695,6.8544789
+1238,Kissinger Str. 150 Bad Kissingen 97688,50.1897358,10.0828244
+1239,Dortmunder Straße 5 Bremen 28199,53.0604853,8.7807693
+1240,Bautzner LAndstrasse 400 Dresden 1328,51.0596113,13.9475559
+1241,Am Zugmantel  Taunusstein-Orlen 65232,50.189008,8.1974267
+1242,Gewerbering 14B Holzkirchen 83607,47.8809013,11.7165648
+1243,Martin Adolff Str. 44  Dietenheim 89165,48.2066477,10.0782071
+1244,Lauchaer Straße 1 An der Poststraße OT Klosterhäseler 6647,,
+1245,Nienkamp 55-85 Münster 48147,51.9837147,7.6120291
+1246,Heraeusstraße 12-14 Hanau 63450,50.1317729,8.9255364
+1247,Heraeusstraße 0 Bitterfeld-Wolfen 6803,51.640889,12.2958231
+1248,Reinhard-Heraeus-Ring 29 Kleinostheim 63801,50.0224705,9.0433153
+1249,Gewenn Herborn-Seelbach 35745,50.7000834,8.3371465
+1250,August-Borsig-Str. 3 Amberg 92224,49.4851373,11.8781464
+1251,Am Mühlenberg 4 Neustadt a. d. Orla 7806,,
+1252,Fabrikstraße 3 Achern 77855,48.6057866,8.0919306
+1253,Amboßweg 1 Remscheid 42855,51.1952893,7.1992348
+1254,Am Häselberg 1 Lauterhofen 92283,,
+1255,Hans-Urmiller-Ring 52 Wolfratshausen 82515,47.903695,11.4322083
+1256,Osterbrooksweg 47-53 Schenefeld 22869,53.5912213,9.8343926
+1257,Industriestraße 1 Dersum 26906,52.9634939,7.2750372
+1258,Eichenallee 71-77 Ahaus 48683,52.0993717,6.9821046
+1259,Rottweg 75 Ahaus 48683,52.0839292,7.0319515
+1260,Descostr. 3-11 Karlsbad 76307,48.8822018,8.5119701
+1261,Georgstraße 11 Bad Oeynhausen 32545,52.1921357,8.795334
+1262,Westfalenstrasse 109 Münster-Hiltrup 48165,51.908847,7.6344033
+1263,Stümpellstraße 39 Leipzig 4289,,
+1264,Dieter-Liphardt-Str. 9-11 Großalmerode 37247,51.2439292,9.7794672
+1265,Bertramstraße 8 Frankfurt am Main 60320,50.1354057,8.6763761
+1266,Am Datacenter-Park 1 Falkenstein/Vogtland 8223,50.4785188,12.3373191
+1267,Brüningstraße 50 Frankfurt 65929,50.0963086,8.5379968
+1268,Heubachstraße 7 Langelsheim 38685,51.9317785,10.3449671
+1269,Industriestraße 1 Miehlen 56357,50.2189708,7.8396164
+1270,Sigmundstraße 31 Nürnberg 90429,49.4608096,11.022229
+1271,Salegaster Chaussee 1 Bitterfeld-Wolfen 6803,51.6598069,12.2975279
+1272,Albert-Einstein Straße 1 Gerolzhofen 97447,49.908637,10.3457548
+1273,Am Trippelsberg 48 Düsseldorf 40589,51.165983,6.8424923
+1274,Hiltistraße 6 Kaufering 86916,48.083275,10.8612009
+1275,Martin-Hilti-Weg 1 Nersingen 89278,48.4156948,10.1524226
+1276,Windmühle 2 Sulzbach-Laufen 74429,48.9406583,9.8558985
+1277,Dr.-Manfred-Hirschvogel-Strasse 6 Denklingen 86920,47.9288199,10.8621821
+1278,Lohfelder straße 19-21 Bad Honnef 53604,50.640779,7.2194553
+1279,Regenstraße 1 Nürnberg 90451,49.4078032,11.066298
+1280,Kemptener Straße 17 Heimenkirch 88178,47.6279753,9.9066509
+1281,Menninger Straße 1 Polling 84570,48.2380855,12.5821726
+1282,Am Sauerbrunnen 25 Schwollen 55767,49.7062444,7.1736291
+1283,Bernbeurener Str. 13 Schongau 86956,47.8115943,10.8755882
+1284,Lembacher Straße 2 Oberstenfeld 71720,49.0193218,9.3174908
+1285,Wolfenbütteler Straße 39 Braunschweig 38102,52.2473433,10.5309739
+1286,Münchener Straße 75 Neuburg an der Donau 86633,48.7312041,11.1883544
+1287,Adelbert-Hofmann-Straße 6 Boxberg-Schweigern 97944,49.4930817,9.6686848
+1288,Holter Straße 200 Schloß Holte-Stukembrock 33758,,
+1289,Durmersheimer Straße 28 Malsch 76316,48.9058311,8.3056167
+1290,Maria-Merian-Straße 1 Kirchheim/Teck 73230,48.6444599,9.4282343
+1291,Hollager Straße 106 Wallenhorst-Hollage 49134,52.33782,7.9488685
+1292,Kleine Heide 2 Bornhöved 24619,54.0482335,10.2387074
+1293,Am Haidelspfad 4 Melsungen 34212,51.1031391,9.5512036
+1294,Boschstrasse 15 Westerburg 56457,50.5460039,7.9495013
+1295,Unterm Ruhestein 1 35764 Sinn 35764,50.6536397,8.3220675
+1296,Oderberger Strasse 19 Bralitz 16259,52.846638,14.0260864
+1297,Am Haidelspfad 2 Melsungen 34212,51.1038418,9.5574551
+1298,Zehdenicker Straße 27 Templin 17268,53.1089129,13.4828311
+1299,Kappel 28 Eberhardzell 88436,47.9876005,9.8239212
+1300,Freie Flur 3 Geithain 4643,51.0594664,12.6961464
+1301,Max-Breiherr-Str. 20 Pfarrkirchen 84347,48.4295293,12.9281886
+1302,Hohentanner Str. 30 Vilshofen 94474,48.6315561,13.1100611
+1303,Niederlosheimerstr. 109 Losheim am See 66679,49.505379,6.7814624
+1304,Carl-Legien-Str. 30 Offenbach/Main 63073,50.0848715,8.8394615
+1305,Frankfurter Straße 45-65 Raunheim 65479,50.0177786,8.4619489
+1306,Tonbachstr. 237 Baiersbronn 72270,48.5370201,8.3580829
+1307,Gewerbering 8 Arzberg 95659,50.0652308,12.1784273
+1308,Bad Bertricher Str. 6-9 Alf 56859,50.0593667,7.1042088
+1309,Hafenringstrasse 1 Osnabrück 49090,52.3069615,8.006758
+1310,Römerstraße 733 Moers 47443,51.4697128,6.6466888
+1311,Gründelbusch 27a Hagen 58099,51.3828153,7.5211295
+1312,Aluminiumstraße 2 Grevenbroich 41515,51.0797206,6.6207079
+1313,Am Mühlholz 1 Bellenberg 89287,48.250615,10.0999391
+1314,Talstraße 105 Lüdenscheid 58515,51.2054608,7.6099755
+1315,Industriestraße 10 Offenburg 77656,48.4414897,7.9304227
+1316,Werkstraße 3 Rödinghausen 32289,52.2433891,8.5173405
+1317,Im Gehrnfeld 7 Tübingen 72070,48.4950181,8.9952356
+1318,Dreiangelstraße 29 Remscheid 42855,51.199655,7.1594046
+1319,Oberscheidstraße 25 Bochum 44807,51.51729,7.2169032
+1320,Zillenhardtstr. 31 Göppingen 73037,48.6676408,9.6799367
+1321,Neustraße 91-97 Velbert 42553,51.3177699,7.0597541
+1322,Erich-Hoepner-Ring 10 Wuppertal 42369,51.2396291,7.200042
+1323,Thalheimer Straße 5 Chemnitz 9125,50.8002581,12.9314588
+1324,Clemens-Winkler-Straße 1 Chemnitz 9116,50.811566,12.8624643
+1325,Säckinger Straße 51 Laufenburg 79725,47.5592298,8.0486123
+1326,Dr.-von-Fromm Str 5 Weiden 92637,49.6884078,12.0984807
+1327,Offenbacher Landstraße 105 Hainburg 63512,50.0742564,8.9290228
+1328,Ginsheimer Straße 2  Ginsheim-Gustavsburg 65462,49.9920052,8.3245861
+1329,Horststraße 17 Steinhagen 33803,51.986324,8.3432433
+1330,In der Bruchwiese 2 Nohfelden 66625,49.5857072,7.0756275
+1331,Sälzerstraße 12-14 Ransbach-Baumbach 56235,50.4761195,7.7524713
+1332,Ehinger Straße 200 Duisburg 47259,51.3740024,6.7322485
+1333,Salegaster Chaussee 1 Bitterfeld-Wolfen 6803,51.6598069,12.2975279
+1334,Donaustr. 4 Bocholt 46395,51.8208323,6.6151749
+1335,In der langen Else 3 Erfurt 99098,50.9808798,11.1114274
+1336,Siedlerweg 11 Rüdersdorf 15562,52.4876397,13.8286649
+1337,Lehmkuhlenweg 77 Peine 31224,52.3161245,10.2746647
+1338,Hentrichstraße 68 Krefeld 47809,51.3393742,6.6787768
+1339,Heinrich-Hertz-Straße 16 Donaueschingen 78166,47.9582999,8.5075131
+1340,Alte Strasse 201 Köln 50769,51.0674437,6.8463858
+1341,Römerstr. 733 Moers 47443,51.4697128,6.6466888
+1342,Alte Straße 201 Köln 50769,51.0674437,6.8463858
+1343,Schipkauer Str. 1 Schwarzheide 1987,51.4781963,13.8799719
+1344,Ludwigstrasse 12 Rheinberg 47495,51.5613297,6.5774635
+1345,Zum Eisenhammer 23 Oberhausen 46049,51.4854312,6.8464844
+1346,Zur Hafenspitze 15 Wittenberge  19322,52.9876457,11.7777632
+1347,Wilfried-Pergande-Platz 1 Südliches Anhalt 6369,51.6664141,12.076908
+1348,Lichtenfelser Straße 20 Kulmbach 95326,50.1059535,11.4401798
+1349,Rottweg 22 Ahaus 48683,52.0836441,7.0269672
+1350,Otto-Hahn-Str. 5 Kassel 34123,51.2803018,9.5053328
+1351,ISRINGHAUSEN-Ring 58 Lemgo 32657,52.0241284,8.875443
+1352,Im Wasen 1 Röttingen 97285,49.5201632,9.9645295
+1353,Theumaer Str. 9 Oelsnitz/V. 8606,,
+1354,Ihlenberg 1 Selmsdorf 23923,53.8720503,10.877425
+1355,Am Haffeld 2 Wismar 23970,53.9094075,11.4629396
+1356,ranz-Kollmann-Str. 5 Landsberg am Lech 86899,,
+1357,Gewerbepark am Wald 18-19 Ilmenau 98693,50.6945437,10.949007
+1358,Veckenstedter Weg 10 Ilsenburg 38871,51.8668178,10.6872668
+1359,Ferroweg 1 Laufenburg 79725,47.5574627,8.0380752
+1360,Äußere Regensburger Str. 121 Tirschenreuth 95643,49.8627901,12.3387935
+1361,Burgkemnitzer Straße 17 Gräfenhainichen (Zschornewitz) 6772,51.720077,12.4045523
+1362,Königstraße 63 Berlin 14109,52.4196273,13.1639762
+1363,Bahnhofstrasse 22 Schlüchtern 36381,50.348738,9.5184452
+1364,Otto-Hahn-Straße 1 Biebesheim 64584,49.7798115,8.4943492
+1365,Max-Fischer-Str. 11 Bobingen 86399,48.2684558,10.7994977
+1366,Borsigstraße 30 Aurich 26607,53.4967827,7.5008426
+1367,Große Drakenburger Str.  93-97 Nienburg 31582,52.6544178,9.2070994
+1368,"Am Haupttor, Bau 4310 Leuna 6237",,
+1369,Industrieparkstraße 1 Burgkirchen 84508,48.1766297,12.7181259
+1370,Kasteler Str. 45 Wiesbaden 65203,50.047631,8.2421634
+1371,Industriepark Höchst Frankfurt am Main 65929,50.0858144,8.5408475
+1372,Grüner Deich 110  Hamburg 20097,53.5425625,10.029845
+1373,Im Oberen Weidig 6 Grabfeld 98631,50.4415641,10.4692533
+1374,Mühlenstr. 7 Frankenberg/Sa. 9669,50.9114039,13.0289509
+1375,Gierlichstrasse 10 Troisdorf 53840,,
+1376,Am Gewerbepark 16 Windischeschenbach 92670,49.8031706,12.1869241
+1377,Eupener-Str. 70 Düsseldorf 40549,51.2293227,6.6915413
+1378,Robert-Bosch str.5 Damme 49401,52.5120395,8.2030606
+1379,Bahnhofstraße 94 Großaitingen 86845,48.2224679,10.8014829
+1380,Südl. Hauptstraße 38 Wehringen 86517,48.2427753,10.797335
+1381,Hofgut Petersau Frankenthal 67227,49.5717734,8.4160021
+1382,Am Recyclingpark 1 Liebenau 31618,52.5968667,9.1105397
+1383,Paul-Baumann-Str. 1 Marl 45772,51.6762164,7.0967501
+1384,Rückmarsdorfer Str. 31 Leipzig 4179,51.3430022,12.304462
+1385,Ringstraße 3 Boizenburg 19258,53.3767603,10.7643701
+1386,Schwanenkirchnerstraße 28 Hengersberg 94491,48.7693588,13.0594299
+1387,Zum alten Bergwerk 0 Grossrosseln 66352,49.1819107,6.8122853
+1388,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1389,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1390,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1391,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1392,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1393,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1394,Saarbruecker Str. 135-137 Voelklingen-Fenne 66333,49.2464589,6.8999416
+1395,Seiterswaldstrasse 0 Neunkirchen 66539,49.3586381,7.2350949
+1396,Schiffweiler Strasse 0 Neunkirchen-Wiebelskirchen 66540,49.3694751,7.1544942
+1397,Waldstraße 52 Netphen 57250,50.8844852,8.1328059
+1398,"Andresenstr. 6 Bitterfeld-Wolfen, OT Wolfen 6766",,
+1399,Minvervastraße 1 Isselburg 46419,,
+1400,51 Marschstr. Meldorf 25704,54.0834426,9.0808834
+1401,Kemptener Strasse 6-8 Obergünzburg 87634,47.8450557,10.417213
+1402,Holzmühle 1 Rosenberg 73494,49.0148439,10.061465
+1403,Kemmannstr. 90 Wuppertal 42349,51.2037684,7.1404716
+1404,Rahmedestraße 399 Altena 58762,51.2552719,7.6442052
+1405,August-Wagner-Str. 1 Helmbrechts 95233,50.2404146,11.7203213
+1406,Zeißstraße 1-7 Lübeck 23560,53.8464403,10.6705264
+1407,St. Pöltener Straße 43 Heidenheim 89522,48.6745778,10.1571038
+1408,Eberlestr. 28 Augsburg 86157,48.3668175,10.8735702
+1409,Ritzlebener Str. 1 Arendsee 39619,52.8654068,11.3460589
+1410,August-Moralt-Str. 1-3 Oettingen 86732,48.9432847,10.6057842
+1411,Groß-Berliner Damm 82A Berlin 12487,52.4414881,13.5180601
+1412,Ritter-Heinrich-Straße 2 Laupheim-Baustetten 88471,48.209843,9.8813859
+1413,Hüttenstr 1a Ilsenburg 38871,51.8747554,10.7072105
+1414,Im Schleeke 108 38640 Goslar 38640,51.9139055,10.4580684
+1415,Oskar-von-Miller-Weg 3 Herbrechtingen  89542,48.6281448,10.1994557
+1416,Georges-Imbert-str.1 Ettenheim 77955,48.2731303,7.7837491
+1417,Diedenhofener Straße 20-30 Trier 54294,49.7265969,6.6126933
+1418,Ziegelhüttenstraße 40-42 Wöllstein 55597,49.8160841,7.9571374
+1419,Gottlieb-Daimler-Straße 11 Kernen 71394,48.8144339,9.3196958
+1420,Stauderstr. 88 Essen 45326,51.4965548,7.0205224
+1421,Nobelstraße 1 Berlin 12057,52.4603493,13.4674396
+1422,Hoffnungstal  3 Almersbach 57610,,
+1423,Am Griesebach Seesen 38723,51.840787,10.1912533
+1424,Daimlerstraße 18-20 Weißenhorn 89264,48.3057867,10.1395337
+1425,Averbeck 51 Heek 48619,52.1132924,7.1301414
+1426,Weidehorst 28 Hüllhorst 32609,52.2494496,8.6949513
+1427,Eulerstraße 8 Ransbach-Baumbach 56235,50.4607241,7.7271649
+1428,Am Weidenhof 3 Heinsberg 52525,51.0470785,6.1540275
+1429,Azendorf 63 Kasendorf 95359,50.0273227,11.3085029
+1430,Robert-Koch-Straße 1 Norderstedt 22851,53.6865222,10.0469639
+1431,Wardstraße 17 Emmerich am Rhein 46446,51.8344697,6.2312796
+1432,Gutenbergstraße 9 Gummersbach 51645,51.0031928,7.6021897
+1433,Fähnrichstüttem 15 Wipperfürth 51688,,
+1434,Auf der Endert 1 Lennestadt 57368,51.181191,8.1105398
+1435,Fraunhoferstraße 5 Landshut 84030,48.5506295,12.1514958
+1436,Industriegebiet Süd Kleinheubach 63924,49.7109729,9.2199791
+1437,Gewerbering 1 Jueterbog 14913,52.0054496,13.0890909
+1438,Staatsstraße 37 - 41 Neidenfels 67468,49.3918917,8.0389274
+1439,Auwanne 19 Karlstein 63791,50.0442474,9.0358519
+1440,Fruchtstrasse 28 Düsseldorf 40223,51.2052674,6.7822948
+1441,Pauschwitzer Str. 45 Trebsen 4687,51.2823074,12.7661394
+1442,Kappeler Str. 51 Düsseldorf 40597,51.1659511,6.859713
+1443,Gutenbergstrasse 3 Herzberg 37412,51.642299,10.3168344
+1444,Bolksbuscher Str. 27 Mönchengladbach 41239,51.1651489,6.4275123
+1445,Hafenstraße 21 Hamm 59067,51.6795774,7.7958788
+1446,Hellenberg 20 Diemelstadt 34474,51.4883814,9.0042105
+1447,Bahnhofstr. 13 Walsrode-Bomlitz 29699,52.9047124,9.6583416
+1448,Griesbergstr. 8 Bad Salzdetfurth 31162,52.0586721,10.0040791
+1449,Hattorfer Str. 78 Philippsthal 36269,50.8461015,9.9628654
+1450,Raiffeisenstr. 8 Radevormwald 42477,51.2049553,7.3806157
+1451,Carl-Kaeser-Str. 29 Coburg 96450,50.2827741,10.9602232
+1452,Dr.-Rudolf-Kellermann-Straße 2 Homberg (Ohm) 35315,50.7220558,9.0060237
+1453,Nippesstr. 5 Düren 52349,50.7929897,6.4854736
+1454,Josef-Henle-Straße 8 Illertissen 89257,48.2333692,10.1071515
+1455,Gottlieb-Daimler-Straße 5 Hüttlingen 73460,48.8947338,10.114577
+1456,Gewerbepark Ost 55 Mertingen 86690,48.6672226,10.8230232
+1457,Gartenstraße 90 Kassel 34125,51.3241907,9.5202679
+1458,Flurweg 15 Porta Westfalica 32457,52.2616065,8.8948614
+1459,Im Keitelsberg 1 Trierweiler 54311,49.77119,6.5893093
+1460,9 Am Kreuzacker Eichenzell 36124,50.483797,9.725483
+1461,Industriestraße 6 Wächtersbach 63607,50.2523366,9.2961586
+1462,Ziegeleiweg 1b Natrup-Hagen 49170,52.2207481,7.9218254
+1463,Henricistr. 92 Essen 45136,51.4416251,7.030449
+1464,Industriestraße 2 Geraberg 99331,50.721879,10.8337479
+1465,Munninger Straße 4 Oettingen i.Bay. 86732,48.9408761,10.5984474
+1466,Friedrich Ebert Str. 208 Osterode am Harz 37520,51.7457299,10.2882668
+1467,Siemensring 32 Kall 53925,50.5426032,6.581197
+1468,Haßlachweg 2 Pressig 96332,50.3422187,11.3063893
+1469,Am Knappschaftskrankenhaus 1 Dortmund 44309,51.5200629,7.5320074
+1470,Rinklinger Strasse 10 Bretten 75015,49.0356808,8.6882214
+1471,Klosterstraße 29 Osnabrück 49074,52.2822698,8.0502413
+1472,Lichtlöcherberg 40 Hettstedt 6333,51.6257808,11.5024613
+1473,Oberkamper Str. 13 Wuppertal 42349,51.2111709,7.1456787
+1474,Lauterstraße 50 Wolfstein 67752,49.5904389,7.6033897
+1475,Peschstr. 5 Leverkusen 51373,51.0279029,6.9869921
+1476,Leopoldstaler Straße 195 Steinheim 32839,51.8257655,8.9763506
+1477,Im Vorwerk 30 Barchfeld-Immelborn 36456,50.7961039,10.3124484
+1478,Kieswerk 5  Kerpen 50171,50.8422681,6.6252286
+1479,Am Bahnhof 14 St. Leon-Rot 68789,49.2421218,8.6465649
+1480,Hafenstraße 25 Neckarsulm 74172,49.1943371,9.2194347
+1481,Bahnhofsplatz 1 Pegnitz 91257,49.5123983,11.2779153
+1482,Cheruskerring 38 Hildesheim 31137,52.1617321,9.9371118
+1483,Zum Vogelsberg 12 Haltern am See 45721,51.7919363,7.2213938
+1484,Rheinau 39 Mülheim-Kärlich 56218,50.4059933,7.4982754
+1485,Projensdorfer Straße 324 Kiel 24106,54.367784,10.1069335
+1486,Talweg 9-13 Offenau 74254,49.2388827,9.1670367
+1487,An der B14 Emmingen-Liptingen 78576,,
+1488,Steinzeugstrasse 92 Mannheim 68229,49.445675,8.5666056
+1489,Schwerter Straße 263 Hagen 58099,51.4051333,7.4906125
+1490,Oberer Markt 1 Neuhaus a. d. Pegnitz 91284,49.62843,11.5500569
+1491,Jägersgrund 12 Erndtebrück 57339,50.9943648,8.3042803
+1492,An der L3042 Breitscheid 35767,52.3427519,14.5434432
+1493,Hahnenfurth 5 Wuppertal 42327,51.248197,7.0421083
+1494,Neuenkirchener Straße 400 Rheine 48432,52.2633783,7.396214
+1495,Am Güterbahnhof Bad Hönningen 53557,50.5103791,7.3151266
+1496,Am Güterbahnhof Bad Hönningen 53557,50.5103791,7.3151266
+1497,Am Güterbahnhof Bad Hönningen 53557,50.5103791,7.3151266
+1498,Kupferstr. 1 Emmerich am Rhein 46446,51.8265916,6.2693538
+1499,Callenberger Str. 52 Coburg 96450,50.2658814,10.9586243
+1500,Beiersdorfstraße 1 Heitersheim 79423,47.8735172,7.6467362
+1501,Georg-Kramer-Straße 7-9 Biedenkopf 35216,50.9010375,8.5391854
+1502,Kupfermuehle 0 Bischheim 67294,49.670412,8.041529
+1503,Benzstraße 13 Neunkirchen 57290,50.7804728,7.9817007
+1504,Zeller Straße 14 Biberach 77781,48.3352117,8.0373073
+1505,Werkstraße 14a Mamming 94437,48.6647256,12.5823451
+1506,Rechenweg 2 Assamstadt 97959,49.4294158,9.6973107
+1507,Sulgener Straße 19-23 Aichhalden 78733,48.258369,8.4107892
+1508,Imbser Weg 5 Dransfeld 37127,51.5031065,9.7544656
+1509,Karlsbergstraße 62 Homburg 66424,49.3239321,7.3466719
+1510,Rotenhagener Str. 47 Werther 33824,52.1022305,8.4127417
+1511,Hauptstraße 96 Karstädt OT Dallmin 19357,,
+1512,Hagentalstr. 2 Delligsen 31073,51.9158794,9.7744834
+1513,Karwendelstraße 6-16 Buchloe 86807,48.0323849,10.7063625
+1514,Rudolf-Winkel-Straße 6 Göttingen 37079,51.5457636,9.903593
+1515,Liliencronstrasse 130 Hamburg 22149,53.5873149,10.1649951
+1516,Alfredstraße 9 Hamburg 22087,53.559033,10.0307399
+1517,Hospitalweg 6 Olpe 57462,51.0279527,7.8465133
+1518,Regensburger StraÃe 60 Abensberg 93326,,
+1519,Hauptstr. 2 Weisenbach 76599,48.7237229,8.3558444
+1520,Am Forum 1 Wetzlar 35576,50.5647706,8.5054202
+1521,Georg-Zimmerer-Straße 15 Sigmaringen 72488,48.0850045,9.2121815
+1522,Dieselstraße 1 Bad Dürrheim 78073,48.0308128,8.5254502
+1523,Ruhrstraße 5 Waiblingen 71332,48.8168724,9.3003422
+1524,Schleswiger Straße 130 Flensburg 24941,54.7616382,9.4312337
+1525,Kiewer Straße 30 Leipzig-Schönau 4205,51.3240359,12.2766137
+1526,Straße E 9 Hoyerswerda 2977,51.4314481,14.2864035
+1527,Romain-Rolland-Straße 13 Berlin-Heinersdorf 13089,52.5644094,13.444985
+1528,Dr.-Adolf-Schneider-Straße 20 Ellwangen 73479,48.952858,10.168524
+1529,Braunschweiger Straße 83-88 Halberstadt 38820,51.8986234,11.0400189
+1530,Thomas-Mann-Platz 1 1c Chemnitz-Hilbersdorf 9130,50.8448268,12.9383123
+1531,Schöneberger Straße 7 Berlin-Tempelhof 12103,52.4682536,13.3770527
+1532,Zollrain 9 Halle 6124,51.4717167,11.9249007
+1533,Gewerbering 2 Annaberg-Buchholz 9456,50.5977276,13.0208597
+1534,Dresdner Straße 80 Leipzig-Reudnitz-Thonberg 4317,51.3366849,12.4050393
+1535,Weilimdorfer Straße 93+95 Gerlingen 70839,48.8071645,9.0799389
+1536,Friedrich-Schmelzer-Straße 2 Haldensleben 39340,52.283528,11.4318343
+1537,Peschelstraße 33 Dresden-Kaditz 1139,51.0840439,13.6964199
+1538,Mevissenstraße 60 Krefeld 47803,51.3454202,6.5329026
+1539,Bismarckstraße 39 Bitterfeld-Wolfen 6749,51.6166231,12.3183825
+1540,Landsberger Chaussee 17 Eiche 16356,52.5479907,13.6013782
+1541,Rheindorfer Straße 48-56 Langenfeld 40764,51.0953177,6.9507662
+1542,Johannes-Scheiffele-Straße 3-7 Dillingen a.d.Donau 89407,48.5785783,10.4783371
+1543,Krefelder Straße 131 Mönchengladbach-Eicke 41063,,
+1544,Olgastraße 4 Langenau 89129,48.4918143,10.1190278
+1545,Carl-Benz-Straße 22 Konstanz 78467,47.6769748,9.1486739
+1546,Bohmsiel 1 Bremerhaven 27572,53.4911656,8.6011204
+1547,Raiffeisenstraße 4 Nördlingen 86720,48.8577753,10.4804374
+1548,Carl-Thiersch-Straße 4 Erlangen 91052,49.5938652,11.0259938
+1549,Karl-Heinz-Kipp-Straße 23 Alzey 55232,49.745862,8.1385094
+1550,Friedrichstraße 152 Düsseldorf-Friedrichstadt 40217,51.2089549,6.7780738
+1551,Spitzkrugring 1a Frankfurt (Oder) 15234,52.3625204,14.5257512
+1552,Rudolf-Diesel-Straße 26 A Weiterstadt 64331,49.9023925,8.6080079
+1553,Willinghusener Weg 1 Oststeinbek 22113,53.5476895,10.1552668
+1554,Husener Straße 121 Paderborn-Kernstadt 33100,,
+1555,Bramfelder Dorfplatz 18 Hamburg-Bramfeld 22179,53.6123857,10.0780474
+1556,Margot-Kalinke-Straße 4 München-Schwabing 80939,48.1944371,11.5977156
+1557,Hans-Hayder-Straße 2 Regensburg-Reinhausen 93059,49.0339919,12.1126738
+1558,Münsterstraße 183 Hamm-Heessen 59073,51.7023224,7.7998142
+1559,Braunstr. 17 Aschaffenburg 63741,49.9710573,9.1089094
+1560,Industriestraße 2 Mallersdorf-Pfaffenberg 84066,48.7723572,12.2710893
+1561,Industriestraße 1 Ringe 49824,52.6120212,6.9545329
+1562,Regensburger Strasse 109 Kelheim 93309,48.9055048,11.9030877
+1563,Adam Hönig Straße 1 Kempten 87435,47.7105961,10.2889896
+1564,Altweiherstraße Ebermannstadt 91320,49.7857572,11.1807678
+1565,Vennekenweg 12 Raesfeld 46348,51.7763432,6.8324036
+1566,Pankofen-Bahnhof 1 Plattling 94447,48.8003722,12.894388
+1567,Bruchheide 18 Bohmte 49163,52.3831471,8.3049257
+1568,Mindener Straße 208 Bad Essen 49152,52.3089389,8.4538959
+1569,Carl-Spaeter-Straße 17 Koblenz 56070,50.3936864,7.5816354
+1570,Bielsteiner Str. 122 - 130 Wiehl - Bielstein 51674,50.9653853,7.4886696
+1571,Wittener Str. 238 Wuppertal 42279,51.2994313,7.2503591
+1572,Geschwister-Scholl-Str. 2 Leutersdorf 2794,50.9607912,14.6457157
+1573,Meinersdorfer Straße 29 Burkhardtsdorf 9235,50.7233852,12.8929092
+1574,Riedericher Str. 84 72766 Reutlingen-Mittelstadt 72766,48.5605688,9.2456819
+1575,Otto-Hahn-Straße 12-14 Radevormwald 42477,51.2060143,7.3721741
+1576,Römerstraße 14 Waiblingen 71336,48.8857597,9.3171823
+1577,Brede 1 Werne 59368,51.6657216,7.6760043
+1578,Doktor-Werner-Klingele-Straße 1 Weener 26826,,
+1579,Peterstraße 45 Hückeswagen 42499,51.1478542,7.3477598
+1580,Hüttenstr. 36 Haiger 35708,50.7451856,8.2172581
+1581,Krankenhausstraße 45 Erlenbach 63906,49.8109038,9.1658383
+1582,Söllnerstraße 16 Weiden 92637,49.6810074,12.1664352
+1583,Dr. Gutermann Straße 2 Kaufbeuren 87600,47.8880549,10.610978
+1584,KrankenhausstraÃe 6 Freyung 94078,,
+1585,Neufelder Straße 34 Köln 51067,50.9666916,7.0589502
+1586,Am Waldessaum 10 Altenburg 4600,50.9723974,12.4410229
+1587,Am Hasenkopf Aschaffenburg 63739,49.9756414,9.1866962
+1588,Lindigallee 3 Bad Salzungen 36433,50.8032602,10.2185891
+1589,Preuschwitzer Straße 101 Bayreuth 95445,49.9436118,11.5323659
+1590,Postbrookstraße 103 Bremerhaven 27574,53.5377643,8.6367596
+1591,Beurhausstr. 40 Dortmund 44137,51.5084552,7.4576213
+1592,Alois-Steinecker-Straße 18 Freising 85354,48.4050378,11.7446064
+1593,Pacelliallee 4 Fulda  36043,50.5470173,9.7048471
+1594,Mainaustraße 43b Konstanz 78464,47.6721645,9.1895112
+1595,Bodelschwinghstraße 11 Landau 76829,49.2058562,8.1038746
+1596,Bajuwarenstraße 5 Erding 85435,48.2945618,11.8964404
+1597,Bürgermeister-Dr.-Hartmann-Straße 50 Landsberg am Lech  86899,48.0480389,10.8566236
+1598,Augustenstraße 35 - 37 Leer 26789,53.2358734,7.4582287
+1599,Balger Str. 50 Baden-Baden 76532,48.7843063,8.216508
+1600,Mariahilfbergweg 7 Amberg 92224,49.4478642,11.8669538
+1601,Dorstener Strasse 151 Recklinghausen 45657,51.6199679,7.1760656
+1602,Juliuspromenade 19 Würzburg 97070,49.7975241,9.9314951
+1603,Dornierstraße 11 Hörstel 48477,52.3123853,7.6133468
+1604,Bergheider Straße 1 Lichterfeld 3238,51.5912391,13.7779808
+1605,Fackeldeystraße 80 - 100 Emmerich am Rhein 46446,51.8349909,6.2186559
+1606,Seilerweg 29 Bad Hersfeld 36251,50.8759431,9.7134361
+1607,Am Langen Berg 30 Pottenstein 91278,49.7643629,11.4063373
+1608,Industriestraße 3-5 Heiligenroth 56412,50.4484914,7.8465408
+1609,Bahnhofstr. 25 St. Egidien 9356,50.7903764,12.6237406
+1610,Im Ostfeld 1 Iserlohn 58642,51.3639609,7.5929221
+1611,Dieselstraße 27 Leingarten 74211,49.1472428,9.1231856
+1612,Hammerwiese 3 Gummersbach 51647,51.0358169,7.5871865
+1613,Am Hälshof 31-33 Sonsbeck 47665,,
+1614,An der Bahn 80 Osterode 37520,51.7515005,10.2160116
+1615,Mylauer Str. 4 Greiz 7973,50.6375887,12.2080962
+1616,Bremenwörtstr. 4 Kehl 77694,48.5842784,7.8199647
+1617,Hauptstr. 2 Oberkirch 77704,48.5269421,8.0871599
+1618,Mainstr. 6-10 Kriftel 65830,50.0790787,8.4731394
+1619,Kitzinger Straße 60 Würzburg 97076,49.7903558,9.9968133
+1620,Forststr. 16 Düsseldorf 40597,51.1675651,6.8750524
+1621,Ludwigstraße 1 Schweinfurt 97421,50.0436834,10.225196
+1622,Salinenstarße 1 Weißbach 74679,,
+1623,Mammostraße 1 Memmingen 87700,47.9906242,10.1995427
+1624,Wilhelm-Conrad-Röngten-Str. 1 Kaisersesch 56759,,
+1625,Industriestraße 3 Wassenberg 41849,51.1025167,6.138081
+1626,Düsseldorfer Straße 182 Neuss 41460,51.2198426,6.6978812
+1627,Glanzstoffstraße 1 Obernburg a. Main 63784,49.8275452,9.1520613
+1628,Norbert-Kerkel-Platz Hausham 83734,47.768863,11.8271916
+1629,Ladeburger Straße 17 Berlin 16321,52.6832448,13.582028
+1630,Roonstr. 30  Düren 52351,50.8081239,6.4978758
+1631,Hamburger Straße 41 Reinbek 21465,53.5097359,10.2406578
+1632,Hohler Weg 9 Attendorn 57439,51.126038,7.8974842
+1633,Schwachhauser Heerstrasse 54 Bremen 28209,53.0827154,8.8365414
+1634,Nordallee 1 Trier 54292,49.7621512,6.6405709
+1635,Seebad 82-83 Rüdersdorf 15562,52.4546413,13.7728508
+1636,Lohweg 39 Hannover 30559,52.3770076,9.8706568
+1637,Krauss-Maffei-Straße 1 Laatzen 30880,52.2987017,9.8376295
+1638,Dr.-Goldbogen-Str. 10 Waldbröl 51545,,
+1639,Steinenbergstraße 31 Reutlingen 72764,48.483878,9.218334
+1640,Forststr. 9 Frankenberg 35066,51.0619825,8.7918885
+1641,Donatsring 20 Freiberg 9599,50.9206902,13.3516027
+1642,Hauptstr. 160 Heiligenhaus 42579,51.3257848,6.9697515
+1643,Krombacher Straße 1 Kreuztal 57223,50.9899326,7.9608924
+1644,Böhmerwaldstraße 5 Neutraubling 93073,48.9838975,12.1917882
+1645,Im Bocketal 21-29 Tecklenburg 49545,52.2427715,7.7503613
+1646,Coesterweg 31 Soest 59494,51.5619158,8.1325252
+1647,Fliegerweg 2 Helmbrechts 95233,50.2306113,11.7254113
+1648,Obersülzer Straße 45 Grünstadt 67269,49.5636724,8.1825478
+1649,Waldheim Strasse 8 Kierspe 58566,51.1222382,7.5927235
+1650,Im Seefeld 3 Rodenberg 31552,52.3093581,9.3662763
+1651,Oelsnitzer Straße 55 Falkenstein 8223,50.4589241,12.3316073
+1652,Hoechst Industrial Park Frankfurt am Main 65929,,
+1653,Im Welschen Feld 1-3 Wurmberg 75449,48.8765705,8.8025639
+1654,Hinter den Höfen 2 Meißner 37290,51.2062151,9.9080978
+1655,Am Kögel-Werk 1 Burtenbach 89349,48.350547,10.4501986
+1656,Grünstraße 4 Gengenbach 77723,48.4036782,8.0100969
+1657,Nordenhamer Straße 141 Delmenhorst 27751,53.061369,8.6474097
+1658,Augsburger Str. 41 Fürstenfeldbruck 82256,48.1828638,11.2528821
+1659,Bahnhofstraße 4 Diespeck 91456,49.5954306,10.6250013
+1660,Zeppelinstraße 18 Waiblingen 71332,48.8316164,9.3001765
+1661,Salzstraße 131 Heilbronn 74076,49.1614134,9.2144438
+1662,Sebastian-Hausler-Straße 1 Schierling 84069,48.8274531,12.1497028
+1663,Im Sande 3 Ladbergen 49549,52.1429833,7.7503882
+1664,Rudolf-Strunz-Straße 5 Rehau 95111,50.2543285,12.0214523
+1665,Rheinuferstrasse 7 Krefeld-Uerdingen 47829,51.3681578,6.6626017
+1666,Ernst-Schering-Str. 14 Bergkamen 59192,51.6207817,7.6285786
+1667,Möllensdorfer Str. 13 Lutherstadt Wittenberg 6886,51.8825164,12.5807164
+1668,Faktor-Rothe-Straße 6 Olbernhau 9526,50.6458466,13.3648483
+1669,Faktor-Rothe-Straße 8 Olbernhau 9526,50.6452523,13.3659719
+1670,Am Haupttor Leuna 6237,51.3249425,12.0130658
+1671,Schwabacher Straße 482 Fürth 90763,49.4401429,10.9905563
+1672,An der Lände 3 Roth 91154,49.243297,11.1426452
+1673,"Am Haupttor, Bau 6619 Leuna 6237",,
+1674,Wertinger Straße 28a Höchstädt 89420,48.6072717,10.5756134
+1675,Bauernallee 9 Ludwigslust 19288,53.3146195,11.4834085
+1676,Zeulenrodaer Str. 49 Pausa 7952,50.5833088,11.9981827
+1677,Dr.-Winterling-Str. 40 Viechtach 94234,49.0635999,12.8910626
+1678,Brauereistraße 2 Malsfeld 34323,51.0923934,9.542205
+1679,In der Helle 7 Kierspe 58566,51.1215834,7.5885525
+1680,Zur Selkeaue 1 Hoym 6467,51.783012,11.3320756
+1681,Marchioninistraße 15 München 81377,48.1107056,11.4693622
+1682,Eyber Str. 81 Ansbach 91522,49.3004661,10.5899112
+1683,Justus-von-Liebig-Straße 41 Landsberg am Lech 86899,48.0670312,10.8572574
+1684,Lohmannstraße 2 Andernach 56626,50.418596,7.4116415
+1685,August-Wessels-Str. 5 Augsburg 86154,48.3858332,10.8720686
+1686,"Mangelsfeld 4, 5, 6 Bad Bocklet-Großenbrach 97708",,
+1687,Engterstraße 34 Bramsche 49565,52.40283,7.996597
+1688,Feldstraße 5 Kaltenkirchen 24568,53.8226435,9.9813954
+1689,Meiereistraße 5 - 7 . Leezen 23816,53.8692443,10.2487776
+1690,Schneidheimer Straße 2 Bopfingen / Kerkingen 73441,48.9078863,10.3569234
+1691,Forsthausstr. 1 bis 3 Wetzlar 35578,50.5385139,8.5346537
+1692,Auf Brühl 15-27 Lahnstein 56112,50.3057217,7.6047326
+1693,Alte Poststr. 81 Passau 94036,48.5798767,13.3694437
+1694,Sportplatzweg 14 Durach 87471,47.6986962,10.331868
+1695,Reister Berg 2a Eslohe 59889,51.2532825,8.2102137
+1696,Dautenheimer Landstraße 66 Alzey 55232,49.7409767,8.1315463
+1697,Dorfstraße 2 Holtsee 24363,54.3984375,9.8546691
+1698,Wimpfenerstraße 125 Heilbronn 74078,49.1794333,9.2008699
+1699,Büsumer Str. 96 Rendsburg 24768,54.3114527,9.620293
+1700,Krüserstraße 2 Krefeld 47839,51.3699543,6.5049922
+1701,Am Kraftwerk 1 Boxberg/O.L. 2943,51.4132098,14.5824479
+1702,Am Güterbahnhof 3 Adorf 8626,50.3232568,12.2602017
+1703,Zollhausstrasse 30 Nürnberg 90469,49.4007627,11.1187743
+1704,Franz-Leiber-Straße 1 Bramsche 49565,,
+1705,Göttinger Chaussee 12-14 Hannover 30453,52.3482022,9.7143473
+1706,Ziegeleistr. 15 Vatersdorf 84172,48.427861,12.0432645
+1707,Markgrafenstr. 36-39 Nürnberg 90459,49.4310104,11.0761321
+1708,Gustav-Adolf-Str. 8 Schweinfurt 97422,50.0517105,10.2438682
+1709,Bonner Str. 498 Köln 50968,50.9004241,6.9645261
+1710,Industriestraße 2 Hallerndorf 91352,,
+1711,Gewerbepark Am Wald 17 Ilmenau 98693,50.6975388,10.9437819
+1712,Siemensstraße 1 Stadtlohn 48703,51.9819821,6.9063829
+1713,Lilienthalstr. 13-15 Grevenbroich 41515,51.089624,6.6140823
+1714,Kreuzäcker 8 Deggendorf 94469,48.8044599,12.8783749
+1715,Im Elchgrund 12 Bad Schussenried 88427,47.994201,9.6650149
+1716,Liebherrstraße 1 Rostock 18147,54.154437,12.1165857
+1717,Memmingerstraße 120 Biberach an der Riss 88400,48.0839642,9.8090639
+1718,An d. Wethmarheide 21 Luenen 44536,51.5982322,7.4840443
+1719,Justus-von-Liebig-Straße 5 Sulzbach/Saar 66280,49.2917372,7.0811502
+1720,Am Brunnenforum 1 Bad Gögging 93333,48.818762,11.7885536
+1721,Auf den Delben 35 Bremen 28237,53.1388149,8.7116139
+1722,Carl-von-Linde-Straße 25 Unterschleißheim 85716,48.2848819,11.5739481
+1723,Wailandtstraße 13 Aschaffenburg 63741,49.9482716,9.0973696
+1724,Breitendieler Straße 20 Weilbach 63937,49.6721686,9.2149126
+1725,Borkshagenstraße 4-6 Arnsberg 59757,51.4283752,7.9531658
+1726,Färberstraße 10 Aalen 73432,48.8127279,10.1257606
+1727,Lange Länge 5 Dettelbach 97337,,
+1728,Bahnhofstraße 29 Arnstorf 94424,48.5621529,12.8110162
+1729,Alter WEg 57 Detmold 32760,,
+1730,Schlossmattenstraße 2 Bötzingen 79268,,
+1731,Radebeulstraße 1 Staufen im Breisgau 79219,47.8890826,7.7263581
+1732,Industriestrasse 2 Altendorf 96146,49.7957623,11.0152096
+1733,Otto-Hahn-Straße 13 Neuenburg 79395,47.8097401,7.5542193
+1734,Industriestraße 5 Meßkirch 88605,47.9980531,9.1226076
+1735,Glanzstoffstr. 1 Obernburg 63784,49.8275452,9.1520613
+1736,Max-Planck-Str. 6 Ritterhude 27721,53.191543,8.7034191
+1737,Lebacher Straße 1-3 Saarlouis 66740,49.3264907,6.7661388
+1738,Zimmerstr. 1 Herford 32051,52.1157965,8.6575138
+1739,Weg beim Jäger 193 Hamburg 22335,53.6208432,9.9960507
+1740,Rudolf-Diesel-Straße 10 Alzey 55232,49.7498013,8.1433633
+1741,Sulzbacher Str. 121 Amberg 92224,49.4494545,11.8523292
+1742,Sieboldstraße 10 Nürnberg 90411,49.4793619,11.1223283
+1743,August-Läpple-Platz 1 Teublitz 93158,49.2149895,12.0835276
+1744,Etzelstraße 25 Heilbronn 74076,49.1517671,9.2181091
+1745,Nils-Bohr-Ring 38 Lübeck 23568,,
+1746,Feldmühlestraße 3 Niederkassel 53859,50.8263515,7.0291353
+1747,Industriestraße 4 Neustadt 53577,50.5947371,7.4500876
+1748,Stormarnstraße 30 Frielendorf 34621,50.9373897,9.374029
+1749,An der Hanfröste 4 Schrobenhausen 86529,48.575176,11.270963
+1750,Weimarer Strasse 20 München 80807,48.185316,11.5887464
+1751,Wehrstapeler Str. 12 Meschede-Wehrstapel 59872,51.3525805,8.3390362
+1752,Markschell 3 Sörup 24966,54.719032,9.6816683
+1753,Frombachstraße 27 Hornberg 78132,48.2016083,8.2337773
+1754,Im Wiegenfeld 10  Markt Schwaben  85570,48.1877966,11.850367
+1755,Güglingstraße 94 Schwäbisch Gmünd 73529,48.7973579,9.8726396
+1756,Industriestrasse 1 Elsendorf 84094,48.7173684,11.7983901
+1757,Mauserstr. 3 Stuttgart 70469,48.8186215,9.1730711
+1758,Gewerbering 2 Heinsdorfergrund 8468,50.6013984,12.3251349
+1759,Fischbachweg 19 Zell im Wiesental 79669,47.7051522,7.8446642
+1760,"Wetro, Siedlung Nr. 15 Puschwitz 2699",,
+1761,Dachauerstr. 667 München 80995,48.2183373,11.4771166
+1762,Obere Bahnstraße 13 Aalen 73431,48.8314716,10.0896287
+1763,Heilbronnerstraße 25 Pforzheim 75179,48.9063647,8.6479392
+1764,Klosterstrasse 16 Marienheide 51709,51.0866774,7.5345377
+1765,Lange Str. 6 Nordhausen 99734,51.4933405,10.7918032
+1766,Brezelstr. 17 Schliengen 79418,47.7621003,7.5728542
+1767,Hagenauer Forst 27 Schrobenhausen 86529,48.5742953,11.2156206
+1768,Dr. Robert-Koch-Straße 2-4 Ebersbach-Neugersdorf 2727,50.9856574,14.605658
+1769,Rudolf-Caracciola-Straße 1 Kölleda 99625,51.1911287,11.210263
+1770,Am Galluner Kanal Zossen OT Schöneiche 15806,,
+1771,Reheiner Straße 11 Jessen 6917,,
+1772,Am Frauenholze 2 Weißenfels 6667,51.1789337,11.9292056
+1773,Zum Plom 35 Neunsalz 8541,,
+1774,Südstrasse 44 Roßbach 6242,51.2451045,11.895299
+1775,Altungstraße 13 Altusried 87452,47.8035914,10.2191026
+1776,Megglestraße 12 Wasserburg am Inn 83512,48.0517164,12.1839661
+1777,Am Kanal 45 Ladbergen 49549,52.1582693,7.7111275
+1778,Paul-Tosse-Str. 8 Eiterfeld 36132,50.783119,9.7965661
+1779,Rosengartenweg 7 Kirchheim an der Weinstraße 67281,49.5536956,8.1899911
+1780,Hermann-Gebauer-Platz Bottrop 46238,,
+1781,Am Lausbach 2 Hamm 59075,51.6803661,7.7440155
+1782,Im Eisholz 12 Leverkusen 51373,51.0444823,7.0034892
+1783,Heddernheimer Landstraße 157 Frankfurt am Main 60439,50.1616361,8.6367029
+1784,Friedrich-Ochs-Str. 2 Weiden 92637,49.6606569,12.1518538
+1785,Am Hastebach 8 Hameln 31789,52.0907593,9.3756762
+1786,Miraustr. 42 Berlin 13509,52.5835213,13.3106545
+1787,Diedenhofener Straße 7 Trier 54294,49.7286318,6.6149848
+1788,Düsseldorferstrasse 182-184 Neuss 41460,51.2166288,6.6953127
+1789,Lugwaldstr. 10 Mühlacker 75417,48.955717,8.8727113
+1790,Markscheiderstraße 38 Berlin 13407,52.5810595,13.3593145
+1791,Neuenbühlstraße 6 Trossingen-Schura 78647,48.0429063,8.6383976
+1792,Max-Planck-Str. 15 78713 Schramberg 78713,48.2327067,8.426969
+1793,Eltzstraße 65  Trier 54293,49.7901812,6.6908767
+1794,Franz-Josef-Strauß-Straße 5 Augsburg 86153,48.3845181,10.900552
+1795,Dachauer Str. 665 München 80995,48.2136889,11.4809341
+1796,Münchner Str. 31 Langenhagen 30855,52.4463933,9.7074573
+1797,Donaubogen 11 Neumünster 24539,54.0361571,9.9902644
+1798,Pereser Straße 1 Neukieritzsch OT Lippendorf 4575,,
+1799,Schelpmilser Weg 30 Bielefeld 33609,52.0426027,8.6064797
+1800,Immenburgstr. 22 Bonn 53121,50.733928,7.0775849
+1801,Am Hagelkreuz 22 Eschweiler 52249,,
+1802,Zur Wetterwarte 21 Dresden 1109,51.1305663,13.7814654
+1803,Calbenser Straße 5 Barby 39249,51.9601375,11.8741837
+1804,Limmerstraße 2 Korbach 34497,51.2837518,8.8670172
+1805,Ludwig-Hermann-Str. 100 Gersthofen 86368,48.4443416,10.8796851
+1806,An der B91 Tor 12 Bau 1216 Leuna 6237,,
+1807,Lütticher Str. 5 Troisdorf 53842,50.8395332,7.1112042
+1808,Overweg 24 Soest 59494,51.5533016,8.1537423
+1809,Werdauer Allee 4 Meerane 8393,50.8288,12.452325
+1810,Hermann-Hagenmeyer-Str. 1 Neuenstein 74632,49.2097933,9.5851895
+1811,Industriestraße 3 Assamstadt 97959,49.4272139,9.6999324
+1812,Primtalstraße 2 Rottweil 78628,48.1507851,8.6449946
+1813,"Julius-Hofmann-Straße, 2 Gochsheim 97469",50.0244716,10.2599732
+1814,"Hugo-Eckener Ring, Geb. 173 Frankfurt am Main 60549",,
+1815,Hofmark 1 Schierling 84069,48.8383656,12.2491708
+1816,Malzstr. 8 Laupheim 88471,48.2008226,9.8904971
+1817,Borngasse 4-12 Pfungstadt 64319,49.8021585,8.5971215
+1818,Benkhauser Str. 42 Mamming 94437,48.656745,12.6163566
+1819,"Kollbacher Straße 31, 84163 Marklkofen, Marklkofen 84163",48.5507996,12.5610972
+1820,Mendener Str. 51 Troisdorf 53840,50.8015882,7.1658947
+1821,"Vaue Park, Bau Z20 Schkopau 6258",,
+1822,Waldecker Straße 15 Blankenhain 99444,50.860121,11.3516153
+1823,Bertram-Schaefer-Str. 11 Kirchhain 35274,50.8228131,8.9378989
+1824,Milchweg 69 Geldern 47608,51.4953651,6.2763576
+1825,Tübinger Straße 123 Reutlingen 72762,48.4981516,9.191014
+1826,Palettenwerkstraße 3 Wismar 23970,53.9155699,11.4746186
+1827,Klosterhof 1 Gammertingen-Mariaberg 72501,48.2766873,9.214193
+1828,Josef-Albers-Straße 70 Bottrop 46236,51.5344955,6.9180811
+1829,Bischhofstraße 1 Osnabrück 49074,,
+1830,Neufelder Schanze 2 Cuxhaven 27472,53.8549017,8.7284713
+1831,Adolf-Oesterheld-Str. 28 Wunstorf 31515,52.4189171,9.4607
+1832,Tillystr. 17-19 Hannover 30459,52.3373529,9.7176842
+1833,Othestrasse 19 Bergneustadt 51702,51.0185475,7.6495951
+1834,Fritz Honsel Straße 30 Meschede 59872,51.3490798,8.2917281
+1835,Koelner Straße 110 Bergheim 50127,50.9459406,6.6665669
+1836,Auguste-Kessler-Str. 20 Aalen 73433,48.8578373,10.104064
+1837,Matheus-Müller-Platz 1 Eltville 65343,50.024434,8.1170935
+1838,Bahnhofstraße 21 Moschheim 56424,50.4819012,7.8398447
+1839,Seebeckstraße 5 Kaltenkirchen 24568,53.8168499,9.9721947
+1840,Messerschmittstr. 28 Neu-Ulm 89231,48.3802416,10.0230758
+1841,Robert-Rössle-Straße 10 Berlin 13125,52.624447,13.5019264
+1842,Ladestraße 1 Königswinter 53639,50.6823015,7.1914077
+1843,Brandensteiner Weg 1 Krölpa 7387,50.6809337,11.5479734
+1844,Industriestraße 1 Olsberg 59939,51.363979,8.4557728
+1845,Am Torney 14 Wismar 23970,53.9089568,11.4688457
+1846,Örlingerstraße 1 Ulm 89073,48.4066765,10.0045018
+1847,Zum Eichberg 2 Berlingerode 37339,51.4625915,10.2501183
+1848,Daimlerstraße 14 Aurich 26607,53.5065844,7.4901899
+1849,Am alten Bahndamm 115 Waren 17192,53.5237972,12.6829815
+1850,Teterower Str. 1 Waren 17192,53.5222651,12.6783704
+1851,Auf dem Säer 1 Nürtingen 72622,48.6291919,9.3564167
+1852,Donatsring 20 Freiberg 9599,50.9206902,13.3516027
+1853,Im alten Haferland 6 Friesoythe 26169,52.9882337,7.7567199
+1854,Zwickauer Str. 94 - 98 Meerane 8393,50.83185,12.4712987
+1855,Angermünder Str. 68 Eberswalde 16225,52.851499,13.7756818
+1856,Hasslocher Straße 19 Gebesee 99189,51.1138271,10.9230394
+1857,Leipziger Straße 100-103 Hessisch Lichtenau 37235,51.1984494,9.7356874
+1858,Edelzellerstraße 44 Fulda 36043,50.5438634,9.6812749
+1859,Meicastrasse 6 Edewecht 26188,53.11469,7.9750212
+1860,Isarstraße 20 Neumünster 24539,54.0390908,9.9975291
+1861,Ringstraße 99 Minden 32427,52.2992728,8.9054008
+1862,Bismarckstr. 04. Okt Melle 49324,,
+1863,Leipziger Straße 7-13 Dresden 1097,51.065424,13.7343069
+1864,Industriestraße 16 Kevelaer 47623,51.5827714,6.275205
+1865,Mercedesstr. 120 Untertürkheim 70372,48.7873393,9.2368829
+1866,Zum Industriepark 10 Ludwigsfelde 14974,52.3195142,13.2644213
+1867,Hauptstraße 16 Rosenthal am Rennsteig 7366,50.4034903,11.7007578
+1868,Forstweg 1 Torgau 4860,51.5540492,12.9530664
+1869,Frankfurter Straße 250 Darmstadt 64293,49.8954246,8.6536359
+1870,Frankfurter Straße 250 Darmstadt 64293,49.8954246,8.6536359
+1871,Frankfurter Straße 250 Darmstadt 64293,49.8954246,8.6536359
+1872,Frankfurter Straße 250 Darmstadt 64293,49.8954246,8.6536359
+1873,Rheingau Straße 190-196 Wiesbaden 65203,50.0333856,8.245367
+1874,Mainzer Str. 41 Gernsheim 64579,49.7688599,8.4782373
+1875,Ludwig-Merckle-Straße 3 Blaubeuren 89143,48.4002924,9.7661491
+1876,Am Kalvarienberg 23 Pfreimd 92536,49.4851964,12.1890498
+1877,Im Gewerbegebiet 1 Lenzkirch 79853,47.8753033,8.1923294
+1878,Messedamm 22 Berlin 14055,52.5012426,13.2742108
+1879,Stockumer Kirchstraße 61 Düsseldorf 40474,51.2588547,6.7418362
+1880,Ludwig-Erhard-Anlage 1 Frankfurt am Main 60327,50.1118436,8.6508509
+1881,Reichsstraße 80 Plettenberg 58840,51.2338866,7.8780501
+1882,Am Anger 16 Gütersloh 33332,51.900515,8.3999299
+1883,Buchenwaldstraße 2 Zell am Harmersbach 77736,48.3494774,8.0789931
+1884,Bontkirchener Straße 1 Brilon 59929,51.378685,8.6401959
+1885,Bahnhofstraße 82 Sulz am Neckar 72172,48.3702581,8.6471075
+1886,Veldenerstrasse 121 -131 Düren 52349,50.809333,6.4741563
+1887,Nordwerk 5 Blumberg  78176,47.8507999,8.5534585
+1888,Hinterm Holze 10 Twistringen 27239,52.8101829,8.6670631
+1889,Brennerstraße 17-19 Bamberg 96052,49.9052052,10.8967816
+1890,Michelinstrasse 1 Bad Kreuznach 55543,49.8562094,7.8864231
+1891,Freiberger Straße 7 Weißenborn 9600,50.8746191,13.3986745
+1892,Carl-Miele-Straße 29 Gütersloh 33332,51.9113181,8.3985178
+1893,Industriestr. 4 Bürgstadt 63927,49.7335552,9.2733998
+1894,Cafeastraße 1  Rathenow 14712,52.6181538,12.3477232
+1895,Austr. 1 Scheßlitz 96110,49.9730479,11.0248277
+1896,Hardtstraße 15 Crailsheim 74564,49.1353402,10.0606721
+1897,Heerener Str. 49 Stendal 39576,52.5902392,11.8739726
+1898,Reuttier Strasse 142 Neu-Ulm 89231,48.3826099,10.0263805
+1899,Kemptener Straße 91 Leutkirch 88299,47.8224652,10.0508198
+1900,Im Tal 12 Altenstadt 89281,48.1456076,10.1223322
+1901,Gneisenauallee 0 Dortmund 45739,51.5652678,7.5056754
+1902,Badstraße 41 Bad Teinach-Zavelstein 75385,48.6886108,8.685084
+1903,Fackelstraße 0 Kamp-Lintfort 47475,51.5192551,6.464401
+1904,Hansaring 2-4 Lotte 49504,52.2794515,7.9038547
+1905,Kasteler Str. 45 Wiesbaden 65203,50.047759,8.2416013
+1906,Mittelrheinstraße 2-4 Koblenz 56072,50.3470662,7.4935117
+1907,Koblenzer Straße 69 Andernach 56626,50.4373854,7.4189696
+1908,"Wildecker Str. 12 Berka, Werra 99837",50.9470902,10.0758313
+1909,Otto-Hahn-Strasse 41 Hanau 63456,50.1078599,8.897388
+1910,Am Schanzberg 1 Eilenburg 4838,51.4644617,12.588417
+1911,Stockholmer Str. 40 Bad Bentheim 48455,52.3145001,7.0502691
+1912,Dr.-Berns-Str. 23 Moers 47441,51.460702,6.6119398
+1913,Carl Bertelmann Str. 161 Gütersloh 33311,,
+1914,Zollerstrasse 7 Aretsried 86850,48.3089289,10.6535951
+1915,Am Mühlberg 2 Bissingen 86657,48.7104245,10.6306191
+1916,Handwerkerstraße 23 Rosendahl 48720,52.0135201,7.1236883
+1917,Milchstraße 1 Freising 85354,48.3796285,11.7303659
+1918,Borsigstrasse 1-7 Geesthacht 21502,53.4218637,10.4167835
+1919,Angererstraße 25 Raubling 83064,47.795265,12.1240646
+1920,Am Schäfersbruch 2 Sinsheim 74889,49.2447701,8.8822671
+1921,Teplitzerstraße 27 Waldkraiburg 84478,48.2126565,12.4171941
+1922,Noltinastr. 29 Berkatal 37297,51.2388557,9.8892969
+1923,Trienzer Straße 1 Elztal 74834,49.4284351,9.1973263
+1924,Ernst-Hatz-Str. 16 Ruhstorf an der Rott 94099,48.4341649,13.3345017
+1925,Kölner Straße 75 Attendorn 57439,51.121311,7.9006732
+1926,Neuhaus 17 Aldingen 78554,48.1106505,8.6947959
+1927,Schwalbenstadt 1 Dettingen/Erms 72581,48.5160616,9.3601583
+1928,Waldhäuser Straße 41 Aalen 73432,48.8161235,10.132391
+1929,Heßlingsweg 30 a Dortmund 44309,51.535888,7.5458084
+1930,Sandstrasse 140 Mülheim a.d. Ruhr 45473,51.4374925,6.8762839
+1931,Dr.-Bergius-Str. 16-24 Elsteraue 6729,51.0725231,12.1975126
+1932,Weiherstraße 8 Blaustein 89134,48.4227983,9.9058495
+1933,Oskar-Märker-Straße 24 Harburg 86655,48.776626,10.6975477
+1934,Grisutenstraße 13 Premnitz 14727,52.5358556,12.362795
+1935,Güterbahnhofstraße 6 Heidenau 1809,50.9790536,13.8589268
+1936,Kupferhammer Bielefeld 33649,51.9878983,8.483058
+1937,Ringstraße 14 Ohrdruf 99885,50.8395759,10.7155755
+1938,Hans-Nolte-Straße 1 Minden 32429,52.2612461,8.8890891
+1939,Auf der Bleiche 24 Wetter-Wengern 58300,51.3966787,7.3568118
+1940,Remchinger Straße 5 Königsbach-Stein 75203,48.9633928,8.597235
+1941,Birkenweg 52 Sundern 59846,51.3722755,7.9821691
+1942,Portlandstraße 4 Steinfeld 49459,52.5911085,8.2083027
+1943,Am Lossewerk 8 Kassel 34123,51.3159132,9.5321022
+1944,Kraftwerk-Privatweg 7 Magdeburg 39126,52.1841518,11.6767805
+1945,Theodor-Heuss-Ring 30 Kiel 24114,54.3079914,10.1136352
+1946,Sanatoriumsplatz 2 München 81545,48.0856455,11.5572092
+1947,Apfelring 1 Gierstädt 99100,51.0443795,10.8258217
+1948,Reeser Str. 235 Emmerich am Rhein 46446,51.8280132,6.2975227
+1949,Breslauer Str. 2 Selb 95100,50.1764526,12.146867
+1950,Rodenbacher Chaussee 1 Hanau 63457,50.1204463,8.9615106
+1951,Northeimer Str. 51 Warburg 34414,51.5302378,9.1307912
+1952,Schelthofer Straße 80 Tönisvorst 47918,51.3220344,6.480951
+1953,Siemensstraße 12 Altheim 84051,48.5862058,12.2093344
+1954,Hohe-Schaar-Kamp 3 Hamburg 21107,53.4938272,9.9721283
+1955,Bei den Froschäckern 1 a Erfurt 99098,50.976705,11.1224671
+1956,Wörmlitzer Str. 3 Magdeburg 39126,52.2056311,11.6687079
+1957,Manfred-Roth-Str. 1 Dummerstorf 18196,54.0226517,12.2282101
+1958,Am Gäuseberg 1 Erndtebrück 57339,50.9962742,8.3186775
+1959,Hanauer Landstraße 320 Frankfurt am Main 60314,50.121432,8.7386105
+1960,Eschborner Landstrasse 100 Frankfurt am Main 60489,50.128063,8.6013212
+1961,Landshuter Strasse 7 Unterschleissheim 85716,48.2927217,11.5739428
+1962,An der Lände 2 Roth 91154,49.2412256,11.139673
+1963,Alustr. 50 - 52 Schwandorf 92421,49.3114326,12.0831915
+1964,Gierlichsstraße 17 Troisdorf 53840,50.8249752,7.1457126
+1965,Paul-Baumannstr. 1 Marl 45772,51.6762164,7.0967501
+1966,Zum Floßgraben 60 60 Markranstädt OT Quesitz 4420,,
+1967,Werner-von-Siemens-Str. 1 Butzbach 35510,50.4316657,8.6849497
+1968,Friedrichstraße 16 Eberbach 69412,49.46413,8.9858965
+1969,Westiger Straße 62 Altena 58762,51.3003394,7.6951203
+1970,Talstr 3 Beckingen 66701,49.389353,6.6944274
+1971,Klosterstraße 13 Saarlouis 66740,49.3236595,6.7629502
+1972,Weidacher Str. 30 Feldkirchen-Westerham 83620,47.8942705,11.842649
+1973,Marie-Curie Straße Dillingen 66763,49.3640796,6.7032962
+1974,Gießerweg 10 Wernigerode 38855,51.8393443,10.7700633
+1975,Rheinwaldstraße 10 Neuenburg 79395,47.8218235,7.5567694
+1976,Ölstr. 18 Hoogstede 49846,52.5735305,6.9961537
+1977,Tullastraße 10 Lahr 77933,48.3383698,7.8267037
+1978,Füssener Str. 1 Biessenhofen 87640,47.8323629,10.64329
+1979,Dr.-Wander-Str. 11 Osthofen  67574,49.7031226,8.3350765
+1980,Albert-Latz-Str. 6 Euskirchen 53879,50.649305,6.8009002
+1981,Ostende 5 Leipzig 4288,51.2862899,12.4744609
+1982,Wilhelm-Maybach Str 15 Rottenburg 72018,48.4792622,8.9538515
+1983,Hinterer Bahnhof 17 Hausach 77756,48.2839264,8.182682
+1984,Stresemannallee 101 Hamburg 22529,53.5835289,9.9565177
+1985,Rudolf-Breitscheid-Str. 65-75 Aue-Bad Schlema 8280,50.5868294,12.7038606
+1986,Industriestr. 44 St. Katharinen 53562,50.5940224,7.3623312
+1987,Am Holtmannshof 1 Moers 47447,51.4010356,6.6116486
+1988,Bahnhofstraße 40 Lauterecken 67742,49.6557527,7.5930238
+1989,Alte Rothenfelder Str. 23 Georgsmarienhütte 49124,52.2372201,8.0710464
+1990,Industriestraße 6 Üxheim 54579,,
+1991,Im Roth 3 Münnerstadt 97702,50.237285,10.1787878
+1992,Lauchaer Höhe 13 Waltershausen 99880,50.9153047,10.5535644
+1993,Daimlerstrasse 8 Aschersleben 6449,51.7698083,11.4793943
+1994,Über den Gleisen 2 Boffzen 37691,51.7544571,9.3995841
+1995,Gewerbegebiet Nord 3 Mildenau 9456,50.5997142,13.0609496
+1996,Brückenstraße 2 Katlenburg-Lindau 37191,51.652804,10.1223278
+1997,Am Twäschenberg 1 Upahl 23936,,
+1998,Neufundland Straße 1 Bremerhaven 27572,53.5035444,8.5874635
+1999,Rolf-Hövelmann-Straße 1 Falkenhagen 16928,53.2053983,12.217586
+2000,Industriestrasse 61 - 65 Hamburg 21107,53.5089272,9.9832265
+2001,Gasereistraße 1 Magdeburg 39126,52.1823033,11.6709879
+2002,Pinnauallee 4 Uetersen 25436,53.679241,9.6772197
+2003,Untere Hauptstr. 34 Dillingen 89407,48.5834133,10.4740141
+2004,Süden 11 Witzwort 25889,54.3937114,8.9814842
+2005,Magdeburger Landstraße 1-5 Wanzleben-Börde 39164,52.0708884,11.3907237
+2006,Edisonstr4 Maintal 63477,,
+2007,Carl-von-Linde-Str. 3 Aichach 86551,48.3988968,11.0872572
+2008,Zum Tanklager 5 Rostock 18147,54.149038,12.1385587
+2009,Hünstein 63 Bleicherode 99752,51.4275131,10.7175704
+2010,An der Plüschweberei 50 Grefrath 47929,51.3410431,6.3336173
+2011,Öflinger Str. 44 Wehr 79664,47.6195523,7.9048783
+2012,1 Gaterslebener Straße Seeland OT Nachterstedt 6469,,
+2013,Hannoversche Str. 1 Göttingen 37075,51.5491627,9.9309818
+2014,Gaterslebener Str. 1 Seeland 6469,51.8162404,11.318732
+2015, Schüttensteiner Straße 26    Isselburg 46419,51.8242156,6.5038342
+2016,Industriestraße 12 Brackenheim 74336,49.0818141,9.0971497
+2017,In den Langen Stücken 6 Halberstadt 38820,51.9024327,11.0844817
+2018,Unterzeiler Weg 5 Leutkirch 88299,47.837205,10.0136404
+2019,Guttenhofen 1 Hutthurm 94116,48.7150301,13.5210647
+2020,Klever Straße 48 Goch 47574,51.6878157,6.1589753
+2021,Fischkuhle 37 Menden 58710,51.4103541,7.8300314
+2022,7 An den Kanitzen /04910 Elsterwerda 4910,51.4631671,13.5429018
+2023,Athenslebener Weg 51b Staßfurt 39418,51.8997763,11.6273578
+2024,Alter Postweg 3 Holzmnden 37603,,
+2025,Nobelstraße 7 Hörstel 48477,52.3099584,7.6216867
+2026,Fichtenstraße 55 Landau 76829,49.2113652,8.1394756
+2027,Woessinger Str. 2 Walzbachtal 75045,49.0150898,8.6042492
+2028,Am Johannisberg 9 - 13 Oelsnitz 8606,50.4265975,12.1827325
+2029,Spittelbronner Weg 87 Villingen-Schwenningen 78056,48.0685154,8.570557
+2030,Röntgenstraße 5 Günzburg 89312,48.4715402,10.2729014
+2031,Heiligenstr. 70 Viersen 41751,51.2588778,6.3402323
+2032,Derschlager Straße 26 Meinerzhagen 58540,51.1067171,7.6393656
+2033,Gewerbepark Grünewald 10 Meinerzhagen 58540,51.0860716,7.6915854
+2034,Großoberfeld 9 Karlsruhe 76135,48.9860636,8.3700225
+2035,Steinräum 10 Föritztal 96524,50.3445256,11.2131678
+2036,Meusselsdorfer Str. 27 Marktredwitz 95615,49.9991179,12.0694916
+2037,Elisabethenstr Ravensburg 88212,47.7876625,9.6225036
+2038,Wolfgang-Marguerre-Allee 1 Springe 31832,52.1942022,9.5638359
+2039,Dr.-F.-A.-Freundt-Straße 3 Amorbach 63916,49.6467587,9.2212891
+2040,Glückaufstraße 20 Georgsmarienhütte 49124,52.2071432,8.0706207
+2041,Otto-Kollmar-Strasse 1 Oettingen i. Bay. 86732,48.9390448,10.5992873
+2042,Entenseestraße 1 2 Hagenbach 76767,49.0117779,8.2543457
+2043,Flomersheimer Str. 2-4 Ludwigshafen-Oggersheim 67071,49.4910691,8.3538473
+2044,Buchholz 1 Drolshagen 57489,51.0555104,7.7564732
+2045,"Zur Fleischmehlfabrik, 1 Friesoythe-Kampe 26169",53.0765902,7.8260287
+2046,Wehdestraße 125 Oldenburg 26123,53.1438563,8.2431976
+2047,Nordstr. 40  Brake (Unterweser) 26919,53.349354,8.4892779
+2048,Industriestraße 10 Emmerich am Rhein 46446,51.8315606,6.2558557
+2049,Friesenstraße 9 - 11 Vechta 49377,52.7111886,8.2798643
+2050,Johannastrasse 1 Nordenham 26954,53.5069637,8.5093682
+2051,Hüttenstraße 38 Olsberg 59939,51.3549683,8.4986276
+2052,Schulstraße 1 Oberharz am Brocken OT Königshütte 38875,,
+2053,Kuehnstrasse 61 Hamburg 22045,53.5783461,10.1191276
+2054,Benzstrasse 25 Herrenberg 71083,48.6013318,8.8677582
+2055,Am Tidehafen 5 Elsfleth 26931,53.2252135,8.4579309
+2056,Dessauer Straße 128 Lutherstadt Wittenberg 6886,51.8693439,12.5878682
+2057,Leininger Straße 1 Zolling 85406,,
+2058,Bahnhofsplatz Rüsselsheim am Main 65423,49.9920389,8.4138627
+2059,An den Breiten 2 Leppersdorf 1454,51.1554055,13.9720604
+2060,Orafolstraße 1 Oranienburg 16515,52.7764273,13.2615918
+2061,Harry-Kloepfer-Straße 1 Köln 50997,50.8752039,6.9190561
+2062,Kerrygoldstrasse 1 Neukirchen-Vluyn 47506,51.468587,6.5920654
+2063,Über dem Dieterstedter Bache 14 Apolda 99510,51.0077569,11.462815
+2064,Liechtensteiner Strasse 5 Apolda 99510,51.0040265,11.4560521
+2065,Kalkwerkstraße 1 Jahnatal 4749,51.2025746,13.1684515
+2066,Molkereistraße 1 Wismar 23970,53.8937395,11.4869359
+2067,Hüttenstraße 31 Düren 52355,50.7635007,6.4800599
+2068,Werner-Otto-Straße 1-7 Hamburg 22179,53.6011382,10.0707503
+2069,Bahnhofstraße 31 Miltach 93468,49.1641988,12.767061
+2070,Steller Straße 34 Delmenhorst 27755,53.0169968,8.6562225
+2071,Jägerhausstraße 22 Simmerath 52152,50.6492078,6.2721821
+2072,Berliner Str. 21 Neutraubling 93073,48.9799891,12.1898011
+2073,Max-Näder-Str. 15 Duderstadt 37115,51.5144597,10.2366279
+2074,Paul-Oventrop-Straße 1 Olsberg 59939,51.3600217,8.4793407
+2075,Mühlstraße 118 Walluf 65396,50.0424549,8.1424624
+2076,Kettlerstraße 40 Goch 47574,,
+2077,Große Drakenburger Straße 43 Nienburg 31582,52.6494763,9.2088674
+2078,Oststraße 1 Bitterfeld 6749,51.6194935,12.4111272
+2079,Gothaerstrasse 39 Gotha 99885,50.8380304,10.7373141
+2080,Gewerbegebiet 4 Großbreitenbach 98701,50.587134,10.9959078
+2081,Greschbachstraße 5 Karlsruhe 76229,49.0276071,8.4720457
+2082,Langlachweg 20 Mannheim 68229,49.4471784,8.5699515
+2083,Am Neuen Rheinhafen10 Speyer 67346,,
+2084,Lindenstr. 4 Lederhose 7589,50.8076192,11.9226509
+2085,Münchenerstr 101 Ismaning 85737,48.2083705,11.6558435
+2086,Köthener Straße 11 Südliches Anhalt 6369,51.6825901,11.8745188
+2087,Alte Papiermühle Hämmern 10 Wipperfürth 51668,51.1277827,7.3587411
+2088,Bahnhofstraße 21 Mühltroff 7919,,
+2089,Gewerbegebiet Ost Postbauer-Heng 92353,49.3000454,11.3629288
+2090,Prefagstrasse 4 Walzbachtal 75045,49.0076241,8.6104832
+2091,Saalfelder Straße 41-43 Pößneck 7381,50.6852406,11.5606802
+2092,Hasslinger Weg 31 Wagenfeld 49419,52.5517828,8.5941461
+2093,An der K62 Andernach 56626,,
+2094,Industriestraße 12 Schwepnitz 1936,51.3306338,13.9495597
+2095,Halberstädter Straße 45 Paderborn 33106,51.6869312,8.7447546
+2096,Zarnekowstraße 3 Loitz 17121,53.9743448,13.1398684
+2097,Mührigweg 1 Siegelsbach 74936,49.2721332,9.0785137
+2098,Am Oberwald 2 Wörth am Rhein 76744,49.0682747,8.303657
+2099,Kerastraße 1 Leisnig 4703,51.157008,12.9093501
+2100,Kirchhagenscher Weg 1 Bleicherode 99752,51.4381382,10.5883611
+2101,Fraunhoferstr. 8 Itzehoe 25524,53.9600928,9.4899934
+2102,"An der Heinzebank, 15 Wolkenstein / Hilmersdorf 9429",,
+2103,Hans-Georg-Mettler-Str. 8 Morbach 54497,49.7977449,7.107686
+2104,Hans-Georg-Mettler-Str. 8 Morbach 54497,49.7977449,7.107686
+2105,Dresdner Straße 321 Freital 1705,50.9870545,13.6390192
+2106,Esinger Straße  5 Tornesch 25436,53.6886026,9.7246502
+2107,Windener Weg 1 Kreuzau 52372,50.7449818,6.4876702
+2108,Am Oberwald 2 Wörth am Rhein 76744,49.0682747,8.303657
+2109,Asseler Str. 110 Drochtersen 21706,53.694418,9.4278386
+2110,Schönenbach Straße 1 Neureichenau 94089,48.7446454,13.7514483
+2111,Thomas-Dachser-Allee 1c Schönefeld 12529,52.3872546,13.4956714
+2112,Richard-Köberlin-Str. 11 Döbeln 4720,51.1176372,13.1532203
+2113,Robert-Bosch-Str. 5 Herbrechtingen 89542,48.6319655,10.1974669
+2114,Paul-Kleinknecht-Weg 1 Kupferzell 74635,,
+2115,Mälzereistrasse 31 München 81249,48.1765606,11.4338744
+2116,Dirk-Kollmar-Strasse 2 Gotha 99867,50.9354321,10.6822237
+2117,Gerhard Lucas Meyer Str. 10 Peine 31226,52.3156721,10.2414379
+2118,An der Talle 20 Paderborn 33102,51.7467925,8.7507494
+2119,Behringstraße 2 Rodgau 63110,49.991689,8.8706799
+2120,Engesserstraße 8 Freiburg 79108,48.0207286,7.8457477
+2121,Kimmerle-Ring 14 Günzburg 89312,48.4318656,10.2967407
+2122,Rudolf-Diesel Straße 19 Weißenhorn 89264,48.3056536,10.1428711
+2123,Neuenburger Str. 9 Müllheim 79379,47.8102797,7.5948045
+2124,Peter-Greven-Str. 20-30 Bad Münstereifel 53902,50.5786468,6.7665996
+2125,Alt Fechenheim 34 Frankfurt 60386,50.1285878,8.767147
+2126,Schlachthofstr. 36 Memmingen 87700,47.9922258,10.1842439
+2127,Im Fuchsloch 16 69123 Heidelberg 69123,49.4082267,8.6410127
+2128,"Weinstrasse, 100 Klingenmünster 76889",49.1390628,8.0171133
+2129,Louis-Schuler-Straße 1 Waghäusel 68753,49.2459523,8.5044025
+2130,An den Sieben Stücken Könnern 6420,51.6997576,11.7601232
+2131,Mühlenstraße 7 Unterbernbach 86556,48.528982,11.1715865
+2132,Am Hällstein 1 Lauterbach 36341,50.662511,9.3546329
+2133,Bahnhofstraße 63 Schlitz 36110,50.683454,9.5703647
+2134,Schorrental 41 72297 Seewald-Schorrental 72297,48.5844786,8.4393693
+2135,Steinheimer Straße 45 Heidenheim 89518,48.6793352,10.1161332
+2136,An der Tagweide 5 Karlsruhe 76139,49.0232866,8.4596596
+2137,Westring 19 - 21 Arnsberg 59759,51.4292978,8.0157124
+2138,An der Birkenpfuhlheide Baruth/Mark 15837,52.078726,13.5191297
+2139,Stadtring Nordhorn 61 Gütersloh 33332,51.9156497,8.3997795
+2140,Wurzacherstraße 32 Leutkirch 88299,47.8291867,10.0170904
+2141,Ingolstädter Str. 51 Neumarkt 92318,49.2630553,11.4613601
+2142,Ernst-Pflitsch-Str. 1 Hückeswagen 42499,51.1539865,7.3414365
+2143,Jechtinger Straße 6 Freiburg im Breisgau 79111,47.9880878,7.7900596
+2144,Görzhäuser Hof 1 Marburg 35041,50.8305495,8.7167499
+2145,Dornbergsweg 35 Wernigerode 38855,51.8486814,10.7849542
+2146,Rosenheimer Str. 43 Raubling 83064,47.8149903,12.1193307
+2147,Neuköllnische Allee 80 Berlin 12057,52.4655858,13.4644895
+2148,Röntgenstraße 24 Hamburg 22335,53.6225714,10.0135441
+2149,Flachsmarktstraße 8 Blomberg 32825,51.9349004,9.1046875
+2150,Oberes Feld 1 Paderborn 33106,51.7038268,8.712578
+2151,Gustav-Töpfer-Straße 4 Bad Blankenburg 7422,50.6839117,11.2801961
+2152,Gustavstraße 3 Lüdenscheid 58511,51.2108841,7.6492746
+2153,Königswinkel 10 Blomberg 32825,51.9348991,9.1004669
+2154,Stromberger Straße 201 Beckum 59269,51.7603431,8.0732526
+2155,Maria-Reiche-Str. 4 Dresden 1109,51.1249468,13.7837966
+2156,Im Westfeld 2 Olsberg 59939,51.3099028,8.5003637
+2157,Industriestraße 43 Neuss 41460,51.2053622,6.6930022
+2158,Flachglasstrasse 3 Weiherhammer 92729,49.6248772,12.0672739
+2159,Gyula-Horn-Straße 20 Wertheim 97877,49.7576627,9.4900605
+2160,Hoechster StraÃe 48-60 Breuberg 64747,,
+2161,Siebenbürgerstraße 23 DE-86983 Lechbruck am See 86983,47.702563,10.7962235
+2162,Duderstädter Straße 17 Herzberg 37412,51.6431101,10.3312601
+2163,Ostritzer Allee 8 Zittau 2763,50.9082581,14.8438419
+2164,Ahlhorner Straße 98a Visbek 49429,52.84531,8.3001585
+2165,Pferdsdorfer Weg 6 Amt Creuzburg 99831,51.0493819,10.2187607
+2166,Limesstraße 15 Aschaffenburg 63741,49.9687301,9.0991642
+2167,Vinkrather Str. 43 Grefrath 47929,51.3417429,6.3358416
+2168,Riedbahnstraße 70 Weiterstadt 64331,49.8934188,8.6158677
+2169,Bayreuther Str. 40 95478 Kemnath 95478,49.8689042,11.8767127
+2170,Carl-Benz-Str. 3 Kaltenkirchen 24568,53.8258432,9.9701893
+2171,Irisstraße 1 Vetschau 3226,51.7796509,14.101454
+2172,Benzstraße 14 Erbach 89155,48.3288667,9.9070301
+2173,Porschestr. 1 Leipzig 4158,51.4098793,12.2953368
+2174,Hüchtchenweg 1 Erwitte 59597,51.5948339,8.3354842
+2175,Bahnhofstraße 25 Erbendorf 92681,49.844168,12.0486252
+2176,In der Geist 120 Oelde 59302,51.8113051,8.1320751
+2177,Am Düngemittelkai 5 Rostock 18147,54.1537517,12.1199848
+2178,Industriestraße 68 Velbert 42551,51.3476135,7.068859
+2179,Köthensche Str. 3a Bernburg 6406,51.7976876,11.7491783
+2180,Auf der Plaße 1 Petershagen 32469,52.379806,9.0100764
+2181,Hauptstraße 30 Mainz 55120,50.0201426,8.237059
+2182,Schweinfurter Straße 5-9 Bad Neustadt 97616,50.3199576,10.2090718
+2183,Viehweg 12 Lichtenfels 35104,51.1962487,8.8096745
+2184,Westring 24 Leopoldshöhe 33818,51.9819293,8.6582208
+2185,Wiedenbrücker Str. 155 33449 Langenberg 33449,51.791797,8.3182452
+2186,Emil-Hoffmann Str. 04. Okt Koeln 50996,,
+2187,Franz-Brombach-Str. 1 Erding 85435,48.3153274,11.8913876
+2188,Herrenhäuser Straße 83-99 Hannover 30419,52.3912275,9.7024996
+2189,Salzburger Str. 17 Petting 83367,47.8858616,12.8497279
+2190,Wettringer Strasse 58 48485 Neuenkirchen 48485,52.2336795,7.3589468
+2191,Fronhofener Straße 3 Fronreute-Baienbach 88273,47.8531756,9.5690419
+2192,Falckentsteiner Straße 2 Kiel 24159,,
+2193,Braun-Straße 1 Walldürn 74731,49.5710397,9.361401
+2194,Frankfurter Straße 145 Kronberg 61476,50.1725837,8.5295184
+2195,Eschenweg 7 Burg  39288,52.2528676,11.8891382
+2196,Oderlandstraße 109 Eisenhüttenstadt 15890,52.173636,14.6402819
+2197,Gewerbestraße 5 Möckern OT Theeßen 39291,,
+2198,Düppelstraße 16 Gronau 48599,52.2088701,7.0701265
+2199,Industriestrasse 34 Neuss 41460,51.2016542,6.6967865
+2200,Kielweg 17 Diepholz 49356,52.6032163,8.3478212
+2201,Richard Bullinger Straße 77 77 Schwäbisch Gmünd 73527,48.8100999,9.8175994
+2202,Herrenpfad-Süd 46 Nettetal 41334,51.3242318,6.2188653
+2203,PÃ¶ppelmannstraÃe 5 Lohne 49393,,
+2204,Hermann-Staudinger-Str. 1 Lohne 49393,,
+2205,Dieselstraße 1 Geisenhausen 84144,48.4810548,12.2440201
+2206,Triptiser Straße 22 Auma-Weidatal 7955,50.7075289,11.891593
+2207,Robert-Friese-Straße 4 Hermsdorf 7629,50.8987332,11.8513495
+2208,Porschestrasse 7 Hückelhoven 41836,51.0343483,6.2545812
+2209,Straße der Einheit 15 Staßfurt 39418,51.8741728,11.5392608
+2210,"Gewerbegebiet Oestlich der Heidenheimer Strasse, Max-Planck-Strasse 9 Guenzburg 89312",,
+2211,Fohlenhof 21 Windsbach 91575,49.2506513,10.8406909
+2212,Brennereistr. Neustadt bei Coburg 96465,50.289617,11.1086093
+2213,Braustraße 19 Weißenbrunn 96369,50.19945,11.3486116
+2214,Söllerstrasse 33 Lauenburg 21481,53.3679989,10.5783252
+2215,Straubinger Str. 48 Regensburg 93055,49.0134676,12.147412
+2216,Hellefelder Str. 51 Arnsberg 59821,51.391857,8.0713021
+2217,Neuer Kamp 1 Kellinghusen 25548,53.9409656,9.7252094
+2218,Ravensburger Strasse 128-134 Berg 88276,47.8158336,9.6035403
+2219,Lechfelder Straße 20 Schwabmünchen 86830,48.1866542,10.7614588
+2220,Rothenfelder Str. 57 Versmold 33775,52.0527189,8.1536651
+2221,Am Goldenen Feld 8 Kulmbach 95326,50.1021317,11.435711
+2222,Hermann-Staudinger-Straße 6 Helmbrechts 95233,,
+2223,Höckendorfer Straße 91 Königsbrück 1936,51.202511,13.8370303
+2224,Capeller Strasse 147 Werne 59368,51.6832687,7.6152813
+2225,Am Wasserturm 4 Kupferzell 74635,49.2248303,9.6800052
+2226,Walter Münch Str 19 Schwarzenbach am Wald 95131,50.2853492,11.6326141
+2227,An der Staustufe 3 Kitzingen 97318,49.7219804,10.1529321
+2228,Tonstraße 1 Erftstadt 50374,50.8393022,6.8310033
+2229,Ostertweute 1 Brunsbüttel  25541,53.895241,9.1821965
+2230,Butterwecker Weg 6 Staßfurt 39418,51.8718308,11.5822102
+2231,Stuttgarter Straße 83 Waiblingen 71332,48.8248141,9.3071577
+2232,Gögginger Strasse 73 Augsburg 86159,48.3538527,10.8830093
+2233,Horchheimerstraße 50 Worms 67547,49.6191667,8.3479781
+2234,Tonstraße 1a Erftstadt 50374,50.8491761,6.8154123
+2235,Brunnenstrasse 138 Lünen 44536,51.6168033,7.4634514
+2236,Anzinger Str. 13 München 81671,48.1217262,11.6082256
+2237,Dr.-C.-Otto-Str. 222 Bochum 44879,51.4331559,7.1319767
+2238,Graf-Zeppelin-Str. 1-5 Altenkirchen 57610,50.6901108,7.6733066
+2239,Siegener Straße 31 Dietzhölztal-Rittershausen 35716,50.8385971,8.2924316
+2240,Industriestraße 24 Hof 56472,50.6639686,8.0152296
+2241,Rudolph-Loh-Straße 2 Haiger 35708,,
+2242,Auf dem Stützelberg Herborn 35745,50.6755173,8.3176742
+2243,Rossbacher Weg 5 Michelstadt 64720,49.6717401,8.9956556
+2244,Am Windmühlenstein 15 Kalefeld 37589,51.7994474,10.0605923
+2245,Oststraße 17 Kehl 77694,48.5893366,7.8164858
+2246,Forsthausstraße 3 Rheinau 77866,48.6535927,7.932183
+2247,Werkstr 1 Dillingen 66763,49.355597,6.7325219
+2248,Widdersdorfer Straße 211 Köln 50825,50.9448498,6.9013981
+2249,Barentsstraße 10 Euskirchen 53881,50.6866526,6.8292112
+2250,Stockheimer Str. 30 Mellrichstadt 97638,50.4358376,10.3027716
+2251,Industriestraße 3 Kutenholz 27449,53.4998968,9.3086073
+2252,Scharnhölzstr.340 - 342 Bottrop 46240,51.547222,6.9629431
+2253,Zum Silberstollen 10 Saalfeld 7318,50.6554924,11.3186986
+2254,Appenweierer Str. 54 Oberkirch 77704,48.5356756,8.0662185
+2255,Schüttorfer Straße 100 Lingen 49808,52.4810347,7.3022644
+2256,Am Kraftwerk 17 Eschweiler 52249,50.8348077,6.3281245
+2257,Rheinstraße 16 Bamberg 96052,49.9090772,10.8508447
+2258,Dr.-Eugen-Kersting-Straße 6 Wipperfürth 51688,51.1179142,7.3962333
+2259,In den Folgen 3 Ilmenau 98693,50.6758109,10.9705596
+2260,Meldorfer Straße 43 Hemmingstedt 25770,54.160869,9.0844516
+2261,Konrad-Adenauer-Str. 39-41 Twistringen 27239,52.7925438,8.642069
+2262,Varziner Straße 49 Duisburg 47138,51.4728486,6.7979234
+2263,Uferstraße 65a Kiel  24106,54.3677548,10.1179381
+2264,An den Flugzeughallen 3 Rathenow 14712,52.5730103,12.3394024
+2265,"Im Rohrbach, 14+16 Balingen 72336",48.2527012,8.8574524
+2266,Paul-Ernst-Metzler-Straße 1 Föritztal-OT Heinersdorf 96524,,
+2267,Industriestraße 1 Veilsdorf 98669,50.4176654,10.8198118
+2268,EPS Anlage I-119 Schkopau 6258,,
+2269,Jahnstraße 10 Ravensburg 88214,47.7799123,9.6049481
+2270,Helmut-Neynaber-StraÃe 49 Loxstedt 27612,,
+2271,Artlandstr. 57-59 Quakenbrück 49610,52.6705386,7.9258057
+2272,Herderstraße 2 Wasserburg 83512,48.047387,12.2159363
+2273,Mettinger Straße 135 Recke 49509,52.3396067,7.7392049
+2274,Niederahrer Straße 2 Boden 56412,50.4815672,7.8611219
+2275,Imhoffstraße 44 Langenhagen 30853,52.4456048,9.7326419
+2276,Veldener Straße 121-131 Düren 52349,50.8107827,6.4728617
+2277,Alte Münzesheimer Str. 13 Kraichtal 76703,49.110063,8.7397832
+2278,Barkhausener Str. 55 Melle 49328,52.2398394,8.3995164
+2279,Das Neue Land 5 Calvörde 39359,52.3894527,11.3054188
+2280,Peter-May-Straße 27 Erftstadt 50374,50.8306115,6.8034346
+2281,Industriestraße 25 Bruchsal 76646,49.1316805,8.5551972
+2282,Geiselharz 21 Amtzell 88279,47.7007067,9.7635392
+2283,Rosenauer Str. 32 Dörfles-Esbach 96487,50.2881165,11.0036511
+2284,Spicher Str. 46 Troisdorf 53844,50.8084299,7.1255999
+2285,Spicher Str. 46 Troisdorf 53844,50.8084299,7.1255999
+2286,Krackser Str. 191 Bielefeld 33689,51.9425976,8.5598806
+2287,Ob. Stahlindustrie/ 4 Bochum 44793,51.4736774,7.1941461
+2288,Reinzstraße 3-7 Neu-Ulm 89233,48.4210801,10.0270548
+2289,Engterstraße 101 Belm-Icker 49191,52.3432421,8.109734
+2290,Boklunder Weg Jagel 24878,54.4408366,9.5472547
+2291,Hesedorfer Weg 76 Rotenburg 27356,53.1788825,9.3147883
+2292,Juliusmühle 3 Einbeck 37586,51.8197598,9.7893905
+2293,Erwin-Rentschler-Straße 21 Laupheim 88471,48.2359584,9.875466
+2294,Hans-Böckler-Str. 4 Groß-Umstadt 64823,49.8617099,8.9232051
+2295,Ullersreuth 61 Hirschberg 7927,50.4297593,11.8258771
+2296,Industriestraße 1 Ramstein-Miesenbach 66877,49.4349177,7.5221778
+2297,Industriestraße 1 Wilburgstetten 91634,49.0328979,10.3784037
+2298,Industriestraße 1 Betzdorf 57518,50.8009921,7.8552476
+2299,Mauerfeldchen 25 Würselen 52146,50.8151704,6.1429153
+2300,Am Molenkopf 3 Köln 50735,50.9793706,6.9845752
+2301,Untere Kanalstraße 3 Rheinfelden 79618,47.5680492,7.8049933
+2302,Mainzer Straße 164 Bingen 55411,49.9685075,7.9224215
+2303,Zülpicher Straße 10 Düsseldorf 40549,51.2341297,6.6987248
+2304,Meiersberger Str. 91 Wülfrath 42489,51.2895611,7.0074234
+2305,Siegener Straße 1  Lennestadt 57368,51.1402492,8.0219466
+2306,Brüggeweg 54 Bremen 28309,53.0553106,8.8965822
+2307,Hamburgring 45 Mönchengladbach 41179,51.1471502,6.3531581
+2308,Luxemburger Straße 2a Erftstadt 50374,50.8222954,6.8197309
+2309,Brohltalstrasse 2 Burgbrohl 56659,50.4573326,7.2869137
+2310,Harbacher Weg 66 Künzell 36093,50.5376164,9.7233737
+2311,Frankfurter Straße 4A Fulda 36037,50.546442,9.6747463
+2312,Industriestraße 5 Schwabach 91126,49.3206185,11.0407959
+2313,Karl-Eibl-Straße 44+48 Neustadt an der Aisch 91413,49.5777863,10.585166
+2314,Hinterer Bahnhof 15 Hausach 77756,48.2828603,8.1821059
+2315,Hoffmannstraße 44 Reutlingen 72770,48.5035382,9.1804588
+2316,Hagenfeldstr. 11-13 Oberderdingen 75038,49.0672372,8.8087967
+2317,Bahnhofstraße 100 Katzhütte 98746,50.56031,11.0595882
+2318,Kaufbeurer Str. 55 Schwabmünchen 86830,48.1684746,10.7577807
+2319,Rösseweg 5-7 Nufringen 71154,48.6206436,8.9040017
+2320,Sametwiesen 2 Marsberg 34431,51.4833007,8.8173386
+2321,Schultetusstraße 37 Stavenhagen 17153,53.7047891,12.9084221
+2322, John-F.-Kennedy-Straße 43 Salzgitter 38228,,
+2323,Robert Bosch Allee 1  Eisenach 99817,50.993365,10.3498252
+2324,Max-Lang-Strasse 40 - 46 Leinfelden-Echterdingen 70771,48.6980861,9.1433807
+2325,Robert-Bosch-Ring 1 Dresden 1109,51.1286214,13.7418153
+2326,Am Stadtwald 2 Eschenbach i.d.Opf. 92676,49.7609616,11.843605
+2327,Kaikenrieder Straße 27 Teisnach 94244,49.0294953,12.9999607
+2328,Rohde-und-Schwarz-Str. 1 Memmingen 87700,47.9748702,10.1929197
+2329,Daimlerstraße 12 Kaarst 41564,51.2133929,6.6313082
+2330,Reitweg 9 Veitsbronn 90587,49.5059376,10.8721524
+2331,Friedrich-List-Straße 8 39122 Magdeburg 39122,52.0905269,11.6525902
+2332,Eschenweg 11 Blankenfelde-Mahlow 15827,52.3085213,13.4389602
+2333,Rotthofer Str.  8 Ruhstorf 94099,48.429647,13.3245737
+2334,Ostpreußenstraße 9 Burgau 89331,48.4297423,10.4221596
+2335,Rittweg 1 Ditzingen 71254,48.8384809,9.0025958
+2336,Magdeburger Chaussee 27 Halle 6118,51.5240052,11.9503741
+2337,August-Roßwag-Straße 1 Pfinztal 76327,48.9584056,8.5434247
+2338,St.-Pauli-Deich 24 Bremen 28199,53.0691693,8.8026272
+2339,Heerweg 21 Meppen 49716,52.717911,7.2182172
+2340,Ostenfelder Str. 51-61 Ennigerloh 59320,51.8477424,8.0458772
+2341,Friedrich-Ebert-Str. 78-84 Bayreuth 95448,49.9468899,11.5872591
+2342,Mühlendorfer Straße 10 Engelsberg 84549,,
+2343,Altvaterstraße 58-64 Geretsried 82538,47.8553443,11.4858466
+2344,Osterfeld 1 Sundern 59846,51.3280779,8.0733382
+2345,Eilper Str. 126-128 Hagen 58091,51.3486956,7.4861702
+2346,Pawiker Strasse 30 Gelsenkirchen 45896,51.5969042,7.032092
+2347,Schaffhausenstraße 101 Tübingen 72072,48.5175656,9.0768768
+2348,Swalmerner Straße 3 Brüggen 41379,,
+2349,Sustaplast-Str. 1 Lahnstein 56112,50.3190599,7.5939961
+2350,Röchlingstraße 1 Haren 49733,52.8350734,7.1277778
+2351,Höchsterstraße 100 Brensbach 64395,49.77384,8.8866616
+2352,Winter-Ring 3 Weidenberg 95466,49.9411482,11.736601
+2353,Römerstraße 109 Duisburg 47179,51.5240386,6.7251458
+2354,Rheinallee 92 Mainz 55120,50.0191498,8.2483474
+2355,Hausen 1 Bad Staffelstein 96231,50.1294898,11.0077667
+2356,Hafenstr. 9 Magdeburg 39106,52.149451,11.6582254
+2357,Dieselstraße 9 Dettingen unter Teck 73265,48.6276131,9.4518905
+2358,Egelser Straße 111 Aurich 26605,53.46825,7.5119384
+2359,Straße der Jugend 10  Saßnitz 18546,54.5085007,13.6318316
+2360,An der Mühle 1  Bad Zwischenahn 26160,53.1744582,8.0599446
+2361,Hauptstraße 26 Bessenbach 63856,49.9781834,9.255554
+2362,Nikolausstraße 1 Stolberg 52222,50.7846934,6.2194684
+2363,Feldhauser Str. 261 Gelsenkirchen-Scholven 45896,51.5883508,7.0264914
+2364,Dr.-Patt-Str. 7-11 Stockstadt 63811,49.9694048,9.0796295
+2365,SAP-Allee 28 St. Leon-Rot 68789,49.2443547,8.6414917
+2366,Vesmolder Straße 150 Dissen 49201,,
+2367,Erzstraße 9 Halsbrücke 9633,50.9568061,13.3361789
+2368,Fridauer Str. 75 Marktredwitz 95615,50.018399,12.1517955
+2369,Ludwig-Hüttner-Str. 3  Waldershof 95679,49.984464,12.0711715
+2370,Am Industriepark 1 Wiesau 95676,49.9084057,12.1959376
+2371,Basteistraße 60 Pirna 1796,50.9800192,13.9419128
+2372,Hüttenstraße 1 Grünenplan 31073,51.9550973,9.7384118
+2373,Im Käppeleacker 2 Müllheim 79379,47.832482,7.6205262
+2374,Otto-Schott-Straße 13 Jena 7745,50.9226464,11.5761912
+2375,Altenburger Chaussee 3 Bernburg 6406,51.8051328,11.7372007
+2376,Kasteler Str. 45 Wiesbaden 65203,50.047631,8.2421634
+2377,Eisenacher Landstraße 70 Waltershausen 99880,50.9077923,10.5597031
+2378,Frankenstraße 15 Hamminkeln 46499,51.7781732,6.6123489
+2379,Frankenstr. 4-5 Bocholt 46395,51.8286981,6.6075504
+2380,Ernst-Blickle-Straáe 1 Graben-Neudorf 76676,,
+2381,Weiherweg 12-16 Babenhausen 87727,48.1408531,10.2471401
+2382,Werner-von-Siemens-Strasse 18 Meitingen 86405,48.5556455,10.8645729
+2383,Werner-von-Siemens-Strasse 18 Meitingen 86405,48.5556455,10.8645729
+2384,Siemensring 24 Willich 47877,51.2688101,6.5151071
+2385,"Trierer Str., 148 Merzig 66663",49.4571859,6.6315777
+2386,Stiewingstraße 111 Aalen 73433,48.8556605,10.0974704
+2387,Wilhelm-Heusel-Strasse 18 Baiersbronn – Friedrichstal 72270,48.4820282,8.3757612
+2388,Teplitzer Straße 14+16 Waldkraiburg 84478,48.2075193,12.4113223
+2389,Ascher Str. 26 Selb 95100,50.1836173,12.1404228
+2390,Gisela-Sick-Straße 1 Reute 79276,48.0859496,7.8065115
+2391,Emil-Siepmann-Straße 28 Warstein-Belecke 59581,51.4860865,8.3290556
+2392,Johannesstraße 9-17 Dortmund 44137,51.5110854,7.4566068
+2393,Möllensdorfer Str. 13 Lutherstadt Wittenberg 6886,51.8825164,12.5807164
+2394,Breitenweg 35 Buggingen 79426,47.8469405,7.6276691
+2395,Am Plattenwald 1 Bad Friedrichshall 74177,49.2121077,9.2361886
+2396,Am Bahnhof 16 St. Leon-Rot 68789,49.2406178,8.6472268
+2397,Ludwig-Erhard-Straße 1 Schierling 84069,48.8177237,12.1291999
+2398,Schlossmattenstraße 18 Bötzingen 79268,48.0665661,7.7184621
+2399,Ohlerkirchweg 66 (Am SMS Campus 1) Mönchengladbach 41069,,
+2400,Kopernikusstraße 60 Zwickau 8056,50.7294919,12.477003
+2401,Industriepark Höchst Gebäude G 246 Frankfurt am Main 65926,,
+2402,Hüttenring 5-7 Neuhaus am Rennweg - Piesau 98724,50.5102002,11.2135761
+2403,Maschweg 38 Melle 49324,52.1915987,8.3614332
+2404,Hohenzollernstraße 40  Sigmaringen  72488,48.0962143,9.2261249
+2405,Humboldtstraße 31 Naumburg 6618,51.1610137,11.8149587
+2406,Guttmannstraße 1 Karlsbad-Langensteinbach 76307,48.9044069,8.5025893
+2407,Neuenkirchener Str.8 Salzbergen 48499,52.3170123,7.3518926
+2408,Stahlschmidtsbrücke 20 Hückeswagen 42499,51.1358567,7.3393523
+2409,Ruhrstraße 21 Wetter (Ruhr) 58300,51.3843461,7.3869595
+2410,Devillestraße 2 Bitterfeld 6749,51.620613,12.3033946
+2411,Stadastr. 2 – 18 Bad Vilbel 61118,50.2023586,8.7455033
+2412,Berzeliusstraße 10 Hamburg 22113,53.5342385,10.0945025
+2413,Dröhbergstraße 3 Suhl 98527,50.5770986,10.7063705
+2414,Gotenstrasse 1 Solingen 42653,51.1854782,7.0694225
+2415,Dr. Hans-Vogt-Platz 1 Obernzell 94130,48.5640312,13.5799802
+2416,Löwentorstraße 65 Stuttgart 70365,48.8099111,9.1912511
+2417,Gewerbering 7 Frankenberg 9669,50.9025604,13.0478402
+2418,Rumplerstraße 12 Recklinghausen 45659,51.5970021,7.2302487
+2419,Karcherstraße 28 Kaiserslautern 67655,49.4353671,7.7609456
+2420,Krahnenufer 19 Trier 54290,49.7569177,6.6307858
+2421,Bismarkstrasse 57-59 Voelklingen 66333,,
+2422,Richardstraße 5-9 Völklingen 66333,49.2572588,6.8525412
+2423,Zum Bergwald 1 Kleinblittersdorf 66271,49.128621,7.0516922
+2424,Krummeg 3-7 Neunkirchen 66539,49.3499481,7.2233611
+2425,Bismarkstrasse 57-59 Voelklingen 66333,,
+2426,Bismarkstrasse 57-59 Voelklingen 66333,,
+2427,An den Breiten  Wachau 1454,51.1554055,13.9720604
+2428,An den Breiten  Wachau  1454,51.1554055,13.9720604
+2429,Friedrich-Engels-Allee 143 Wuppertal 42285,51.261261,7.1699899
+2430,Rathenaustraße 2 Regensburg 93055,48.9934883,12.1548794
+2431,Kirnbacherstraße 1 Wolfach 77709,48.2871119,8.2139244
+2432,Rossauweg 14 Neustadt an der Donau 93333,48.7922683,11.7458848
+2433,Glasstraße 1 Herzogenrath 52134,50.8744322,6.0926494
+2434,Soltauer Chaussee 80 Buxtehude 21614,53.4395042,9.7658547
+2435,Taufkirchner Straße 1 Kirchstockach 85649,,
+2436,Jakob-Sigle-Straße 58 Türkheim 86842,48.0576223,10.6534561
+2437,Kaiser-Wilhelm-Allee 40 Leverkusen 51369,51.015362,6.984879
+2438,Sandstraße 140 Mülheim 45473,,
+2439,Siemensstraße 8 Michelau in Oberfranken 96247,50.1699437,11.1095617
+2440,Gießereistraße 32 Sande 26452,53.5022589,8.0385882
+2441,Industriepark 12 Wiebelsheim 56291,50.0746629,7.6267313
+2442,Maschstr. 2 Bramsche 49565,52.412149,7.982205
+2443,Lamitzmühle 1 Schwarzenbach an der Saale 95126,50.2256083,11.9548286
+2444,Am Bahnhof 20 Rödental 96472,50.2890477,11.0390595
+2445,Industriepark Höchst Frankfurt am Main 65926,50.0858144,8.5408475
+2446,Santander-Platz 1 Mönchengladbach 41061,51.1950055,6.424415
+2447,Biberacher Straße73 Ehingen 89584,,
+2448,Am Rohof 12 Föritztal 96524,50.3180414,11.1703179
+2449,Zur Schefferei 1 Arnsberg 59821,51.4118882,8.0486747
+2450,Dürener Straße 40 Elsdorf 50189,50.9296998,6.5622071
+2451,Lerchenbergstraße 19 Dornstadt 89160,48.4629465,9.9494609
+2452,Walter-Schatt-Allee 1-3 Thansau 83101,47.8245249,12.1541517
+2453,Raiffeisenstr. 31 Olpe 57462,50.9960466,7.8423452
+2454, Am Industriepark Röslau 95195,50.078011,11.9837926
+2455,Redwitzerstraße 50 Marktredwitz 95615,49.9908221,12.049676
+2456,Ulrichstr. 13 Gelsenkirchen 45891,51.5490099,7.0844923
+2457,Feulersorf 50 Wonsees 96197,,
+2458,Schönaicher Straße 205 Böblingen 71032,48.6702495,9.0378559
+2459,Geschwister-Scholl-Straße 127 Schönebeck 39218,52.0260548,11.724872
+2460,Bahnhofstraße 134 Badbergen 49635,52.6340822,7.9627322
+2461,Ziegeleistraße 1 Zeilarn 84367,48.2848673,12.9050702
+2462,Petersgmünder Weg 8-10 Roth 91154,49.2001727,11.0483229
+2463,Rothenbruck 3 Rothenbruck 91284,49.6210803,11.5480438
+2464,Hauptstr. 8 Baar/Schwaben 86674,,
+2465,Todtmooser Straße 150 Wehr 79664,47.6522843,7.9258429
+2466,Bunsenstrasse 4 Adendorf 21365,53.2895192,10.4312479
+2467,Rheinstrasse 25 Nürnberg 90451,49.4137351,11.0563751
+2468,Daimlerstraße 9 58840 Plettenberg 58840,51.1968169,7.8266713
+2469,Am Bahnhof 3 Thuengen 97289,49.9401714,9.8544628
+2470, Vinner Weg 3 Löningen 49624,52.736688,7.7462578
+2471,Gräfenau 12 Höfen a. d. Enz 75339,48.7945136,8.5793235
+2472,Emil-Ott-Str. 1-5 Kelheim 93309,48.917249,11.8748728
+2473,Kreuzauer Str. 18 Dueren 52355,50.7557342,6.5283877
+2474,Neckarvorlandstrasse 21-25 Mannheim 68159,49.5012006,8.4511139
+2475,Borgholzhausener Straße 1 Melle 49324,52.164238,8.3334531
+2476,Hornberger Straße 18 Gutach 77793,48.2241923,8.2226733
+2477,Altbuchsland 22 Zerbst 39261,51.9508901,12.0933897
+2478,Bruckmannring 22 Oberschleißheim 85764,48.2643839,11.5561352
+2479,Wolff-Knippenberg-Straße 1 Amt Wachsenburg 99334,50.8709774,10.9446227
+2480,Raschauer Weg 30 Schwarzenberg 8340,50.5363158,12.8033465
+2481,Rodheimer Strasse 59 Heuchelheim 35452,50.5902492,8.6339165
+2482,Hanns-Martin-Schleyer-Straße 5 Willich 47877,51.2747551,6.5105865
+2483,Rodheimer Strasse 59 Heuchelheim 35452,50.5902492,8.6339165
+2484,Robert-Bosch-Straße 12 Brackenheim-Hausen 74336,49.0793335,9.0910874
+2485,Roßtrappenstraße 62 Thale 6502,51.753278,11.0313357
+2486,Zum Sägewerk 9 Hengersberg 94491,48.7640418,13.067339
+2487,Augsburger Strasse 52 Weißenburg 91781,49.0217663,10.9650458
+2488,"Industriestraße, , 47 Weißenburg in Bayern 91781",49.022204,10.9634157
+2489,Lübecker Straße 49-55 Bad Schwartau 23611,53.9149081,10.696145
+2490,Haslacher Str. 12 Freiburg 79115,47.9914349,7.8328994
+2491,Okenstr. 81a Offenburg 77652,48.4818621,7.9452517
+2492,Einsteinstraße 10 Schramberg 78713,48.2313191,8.4248961
+2493,August-Mogler-Straße 9 Heilbronn 74080,49.1475577,9.1934314
+2494,Hermann-Schwering-Straße 1 Reken 48734,51.8256641,7.0469098
+2495,Breiniger Berg 165 	Stolberg 52223,50.744561,6.24874
+2496,Am Ostergraben 5 Schkeuditz 4435,51.421305,12.3064347
+2497,Dieselstraße 7-11 Ulm 89079,48.3595382,9.9439889
+2498,Hans-Schwörer-Str. Hohenstein 72531,48.3267036,9.3318175
+2499,Ringstraße 2 Landsberg 6188,48.1265365,10.9957289
+2500,Tannenberger Straße 4 Annaberg-Buchholz 9456,50.6051181,12.9910788
+2501,Siemensstraße 75 Goch 47574,51.6933326,6.1366475
+2502,Albert-Ruckdeschel-Str. 12 Kulmbach 95326,50.1118352,11.4535986
+2503,Rother Str. 1 Herrieden 91567,49.2318054,10.5091424
+2504,Schützstraße 12 Selters 56242,50.5373144,7.758029
+2505,Rauhes Gehege 1 Genthin-Mützel 17139,52.3940131,12.1934341
+2506,Am Orschbach 2 Rivenich 54518,49.8851947,6.8369541
+2507,Hans-Lorenser-Str. 36 Ulm 89079,48.3587594,9.9495092
+2508,Rugbyring 12 Rüsselsheim 65428,49.9867468,8.4006654
+2509,Rosenstraße 8 Marburg 35037,50.8178971,8.7693271
+2510,Roggenkamp 5 Langwedel 27299,52.9828523,9.1808253
+2511,Haystrasse 14-20 Bad Sobernheim 55566,49.7866375,7.6321609
+2512,Selitstr. 2 Erbes-Büdesheim 55234,49.7590749,8.0301199
+2513,Burgunderstraße 49 Düsseldorf 40549,51.2260003,6.7003669
+2514,Oskar-Sembach-Str. 15 Lauf a. d. Pegnitz 91207,49.5060787,11.2826579
+2515,Husumer Straße 251 Flensburg 24941,54.7580766,9.4101588
+2516,Land-Au 30 Deggendorf 94469,48.8483384,12.9600463
+2517,Walter-Hallstein-Straße 24 Mainz 55131,49.977903,8.2845544
+2518,Ludwig-Thoma-Straße 7 Unterschleißheim 85716,48.2805634,11.5650059
+2519,Tietmeckerweg 1 Lüdenscheid 58513,51.2459785,7.6014253
+2520,Schlosserstraße 9 Salzgitter 38229,52.1585512,10.3485252
+2521,Am Haupttor Geb. 8322 Leuna 6237,,
+2522,Ludwigshafener Straße 1 Wesseling 50389,50.8140525,7.005669
+2523,Musbacher Str. 21-23 Dornstetten 72280,48.4864587,8.4956385
+2524,Mainzer Straße 1c Bad Ems 56130,50.3269803,7.7311675
+2525,Jacobstraße 41 - 45 Ennepetal 58256,51.299206,7.3908197
+2526,Karlstraße 15 Minden 32423,52.298604,8.9411569
+2527,Höpflinger Weg 8 Siegsdorf 83313,47.8187812,12.6444029
+2528,Alfred-Keller-Strasse 55 Siegburg 53721,50.79439,7.2139947
+2529,Münchener Straße 20 Herrieden 91567,49.2339973,10.5021698
+2530,Siemensstrasse 10 Regensburg 93055,49.0094857,12.1455292
+2531,Rheinstrasse 100 Mülheim an der Ruhr 45478,51.4382116,6.8488603
+2532,Vogelweiherstr. 1-15 Nürnberg 90441,49.4311336,11.0725812
+2533,Siempelkampstraße 45 Krefeld 47803,51.3524074,6.5313017
+2534,Siempelkampstraße 45 Krefeld 47803,51.3524074,6.5313017
+2535,Tubag-Allee 12 Kruft 56642,50.3902524,7.3444397
+2536,Georg-Heyken-Str. 14 Hamburg 21147,53.4826482,9.9019832
+2537,Kappelweg 1 Schnelldorf 91625,49.1925203,10.1759799
+2538,Magnusstraße 18 Dinslaken 46553,51.5576216,6.7477761
+2539,Kreuzauer Str. 33 Düren 52355,50.7793597,6.4889728
+2540,Peter-Schuhmacher-Straße 8 Leimen 69181,49.3580977,8.6786958
+2541,Borkenstr. 15a Torgelow 17358,53.6341951,14.002546
+2542,Naumburger Straße 52 Zeitz 6712,51.0575705,12.1187148
+2543,Wöhrmannstraße 18 Kalkar 47546,51.7004625,6.3377496
+2544,Berthelsdorfer Str. 113 Freiberg 9599,50.9000797,13.3546147
+2545,Industriestraße 300 Hürth 50354,50.8551338,6.8470581
+2546,Sulgener Straße 21-23 Aichhalden 78733,48.258369,8.4107892
+2547,Fritz-Henkel-Str. 8 Genthin 39307,52.4132971,12.1707025
+2548,David-Hansemannstraße 1-25 Übach-Palenberg 52531,50.9158711,6.1459052
+2549,Georg-Simon-Ohm-Straße 50 Traunreut 83301,47.951453,12.607565
+2550,Andreasberger Strasse 6 Herzberg 37412,51.6641624,10.3624531
+2551,Unterm Bahnhof 10 Schmalkalden 98574,50.7206176,10.3538206
+2552,Industriepark 1 Melle 49324,52.1983006,8.3084586
+2553,Frauenberger Weg 20 Solnhofen 91807,48.8856569,10.9972858
+2554,Erlenbachweg 13 Bad Mergentheim 97980,49.4952447,9.794043
+2555,Tegelbarg 19-21 Bad Bramstedt 24576,53.9295686,9.893956
+2556,Bahnhofsweg 3 Elsholz 14547,52.2038917,12.9509018
+2557,Einstenstraße 10 Erolzheim 88453,,
+2558,Ottostraße 8 Kiel 24145,54.2734113,10.1538608
+2559,Ulanenstraße 1-3 Lingen 49811,52.5523921,7.3537631
+2560,Lechfeldstraße 2 Mering 86415,48.2697996,10.9508666
+2561,Siedinghausen 19-21 Versmold 33775,52.0496458,8.2347803
+2562,Radinkendorfer Str. 71 Beeskow 15848,52.1817128,14.2529692
+2563,Grecostr. 1 Meppen 49716,52.7074505,7.3583099
+2564,Sigmaringer Straße 40 Krauchenwies 72505,48.0336741,9.247846
+2565,Waldstraße 4  Rötha 4571,51.1937521,12.4135604
+2566,Spenglerallee 18-20 Zwenkau 4442,51.2085625,12.3359269
+2567,Henry-van-de-Velde-Str. 2 Weimar 99425,50.9603339,11.3222192
+2568,Buger Straße 80 Bamberg 96049,49.8671849,10.8905602
+2569,Müllersweg 1 Gotha 99867,50.9683221,10.7050384
+2570,Amalienstraße 24 Karlsruhe 76133,49.0088532,8.3924731
+2571,Aluminiumstraße Hamburg 21129,53.5145805,9.887076
+2572,Aluminiumstraße 3 Grevenbroich 41515,51.0780125,6.6191218
+2573,Glasstr. 1 Herzogenrath 52134,50.8744322,6.0926494
+2574,Im Gewerbepark 14 Melle 49326,52.2163325,8.2627657
+2575,Orpethaler Straße 26 Diemelstadt 34474,51.5073596,8.9850678
+2576,Gallwitzalle 123-143 Berlin 12249,,
+2577,Ernestus-Platz 1 Andernach 56626,50.4407047,7.4047772
+2578,Am Frankfurter Tor 25 Hanau 63450,50.1352215,8.9121809
+2579,Kaiserstraße 5 Badenweiler 79410,47.8018163,7.6713455
+2580,Bätznerstraße 85 Bad Wildbad 75323,48.7487214,8.5488208
+2581,Konrad Adenauer Straße 13 Lörrach 79540,47.5981168,7.6613572
+2582,Saarmunder Weg 50 Michendorf 14552,52.2858649,13.0691782
+2583,Scharfenberger Str. 152 Dresden 1139,51.0726705,13.6824911
+2584,Hammerweg 23 Dresden 1127,51.0900166,13.742041
+2585,André-Pican-Str.42 Oranienburg 16515,52.7498328,13.2576448
+2586,Schillerstraße 1 Stendal 39576,52.5498496,11.9728141
+2587,Lindenstraße 30 Bad Aibling 83024,47.8587133,12.0050342
+2588,Universitätsstraße 30 Bayreuth 95447,49.9270796,11.5872266
+2589,Schachtstr. 40 Bernburg 6406,51.7423919,11.8124229
+2590,Berliner Straße 8 Bietigheim-Bissingen 74321,48.9420187,9.144083
+2591,Herrenberger Str. 130 Böblingen 71034,48.677887,8.9801343
+2592,Auf der Lausward 75 Düsseldorf 40221,51.2228141,6.7355893
+2593,Zum Krückaupark 2 Elmshorn 25337,53.7550668,9.6748608
+2594,Südring 35 Eschwege 37269,51.1852249,10.0323608
+2595,Franklinstraße Gelnhausen 63571,50.2046185,9.1761506
+2596,Demianiplatz 23 Görlitz 2826,51.1528105,14.9858111
+2597,Alvensleber Landstr. 1 Haldensleben 39340,52.2785903,11.3945939
+2598,Czernyring 22 Heidelberg 69115,49.4006265,8.675931
+2599,Hans-Bunte-Straße 1 Heidelberg 69123,49.4074963,8.6509599
+2600,Hasselfelde 30 Kiel 24149,54.3408555,10.1815797
+2601,Eisenbahnstraße 14 Ludwigsburg 71636,48.8859404,9.1874343
+2602,HH Kurt-Wein-Str 10 Lutherstadt Eisleben 6295,,
+2603,Altstadtstraße 23 Lünen 44534,51.6188621,7.5153293
+2604,An den Kuckuckstannen 1 Marsberg-Leitmar 34431,51.3940827,8.8610798
+2605,Große Ritterstraße 9 Merseburg 6217,51.3557742,11.9960616
+2606,Am Mittelhafen 11 Münster 48155,51.9502749,7.6405244
+2607,Am Heizkraftwerk 21 Neustrelitz 17235,53.3612098,13.0883166
+2608,Pettenkoferstraße 20 Pirmasens 66955,49.1931953,7.61935
+2609,Hamburger Straße 2 Riesa 1591,51.3168993,13.2635368
+2610,Färberstraße 47 Rosenheim 83022,47.8563789,12.1315572
+2611,Lindenstraße 9 Rotenburg (Wümme) 27356,53.1093357,9.4088371
+2612,Untertürkheimer Straße 5 Saarbrücken 66117,49.2136232,6.9787549
+2613,Juri Gagarin Str. 27 Sangerhausen 6526,51.4533787,11.2984512
+2614,Alfred-Leikam-Str. 16 Schwäbisch Hall 74523,49.1121462,9.7857386
+2615,Mühlenweg 17 Soltau 29614,52.9922127,9.8403966
+2616,Hohensteiner Str. 43 Stollberg 9366,50.7124924,12.7634186
+2617,Johannes-R.- Becher Straße 28 Weißenfels 6667,51.1988284,11.9435005
+2618,Am Kupferhammer 38 Wernigerode 38855,51.850075,10.802503
+2619,Veitshöchheimer Straße 1 Würzburg 97080,49.8007405,9.923902
+2620,Hofer Str. 16/17 Röslau 95195,50.082751,11.979334
+2621,Scherlingstraße 82 Iserlohn 58640,51.4376767,7.6495051
+2622,Max-Aicher-Allee 1+2 Ainring 83404,47.7944512,12.9517613
+2623,Am Kanal 134 Apen 26689,53.2403938,7.7731385
+2624,Castroper Straße 228 Bochum 44791,51.4913824,7.2463872
+2625,Oldendorfer Straße 64 Melle 49324,52.2330249,8.3167517
+2626,Im Altgefäll 9 Pforzheim 75181,48.8885088,8.748375
+2627,Dr.-Wilhelm-Roelen-Straße 129 Duisburg 47179,51.5282645,6.7166322
+2628,Eupener Str. 70 Düsseldorf 40549,51.2293227,6.6915413
+2629,Warnowpier 431 Rostock 18069,54.1157091,12.087328
+2630,Am Nordhafen 5 Papenburg 26871,53.0971287,7.3954691
+2631,Stadtstraße 20 Glückstadt 25348,53.7809436,9.4289414
+2632,Bahnhofstr. 78/80 Steinfeld 49439,52.5896759,8.2071766
+2633,Tenter Weg 13 Remscheid 42897,51.1757712,7.2439762
+2634,Industriestraße 8 Binsfeld 54518,49.9679371,6.714613
+2635,Industriestraße 8 Stendal 39576,52.5846101,11.8714295
+2636,Kasteler Str. 45 Wiesbaden 65203,50.047631,8.2421634
+2637,Dr.-Stiebel-Str. 33 Holzminden 37603,51.8138667,9.4436319
+2638,Angelina-Martin-Straße 8 Ursberg 86513,48.2683739,10.4467774
+2639,Große Straße 41 Ibbenbüren 49477,52.278612,7.71381
+2640,Ringstraße 58 Bad Kreuznach 55543,49.8367825,7.8636098
+2641,Herrenhöfer Landstraße 5 Ohrdruf 99885,50.8408908,10.7053826
+2642,Herrenhöfer Landstraße 5 Ohrdruf 99885,50.8408908,10.7053826
+2643,Malmöstraße 1 Lübeck 23560,53.8372833,10.6655409
+2644,Spinnereistraße 15 Mainleus 95336,50.0995483,11.3837451
+2645,Tevesstraße 1C Blumberg 78176,47.8390578,8.5359154
+2646,Freihungsand 3 Freihung 92271,49.6342748,11.8730926
+2647,Ströherstraße 2-10 Dillenburg 35683,50.7512545,8.2752713
+2648,Untermainanlage 11 Frankfurt am Main 60311,50.1081049,8.6734957
+2649,Dennhäuser Straße 122 Kassel 34134,51.2781559,9.4845236
+2650,Karl-Wilhelm-Heck-Straße 8 Bad Wurzach 88410,47.9113649,9.9049968
+2651,Salzdahlumer Straße 90 Braunschweig 38126,52.2384278,10.5452476
+2652,Friedrichstraße 41 Dresden 1067,51.0577571,13.7154958
+2653,Industriestraße 6 Dinklage 49413,52.6677194,8.1286143
+2654,Berliner Straße 22 - 32 Weißwasser 2943,51.5041745,14.6358895
+2655,Greifswalder Chaussee 84 - 85 Stralsund 18439,54.2898327,13.0952418
+2656,Kaiser-Wilhelm-Str. 5 Ludwigshafen 67059,49.4822645,8.4504206
+2657,Gustav-Siegle-Str. 19 Besigheim 74354,48.9990485,9.1368473
+2658,Hoennetalstraße 110 Hemer 58675,51.376317,7.7812525
+2659,Mainzer Str. 41 Gernsheim 64579,49.7688599,8.4782373
+2660,Eisenhämmerstraße 9 Sulzbach-Rosenberg 92237,49.495983,11.7774132
+2661,Ferdinand-von-Steinbeis-Ring 10 Sternenfels 75447,49.0549279,8.8433836
+2662, Weichertstraße 7 Aschaffenburg 63741,49.9859187,9.1578461
+2663,Bahnhofstraße 24  Schönborn 3253,,
+2664,Lindhorst 4 Boizenburg / Elbe 19258,53.3839052,10.7754883
+2665,Rheingewannweg 10 Worms 67547,,
+2666,Alter Postweg 35 Buxtehude 21614,53.462109,9.717924
+2667,Röntgenstraße 6 Hörstel 48477,52.3118411,7.6093684
+2668,Dr.-Steudner-Str. 75b Sebnitz 1855,50.9828991,14.2670232
+2669,Uhlandstrasse 7 Sömmerda 99610,51.1661524,11.1229945
+2670,Ernst-Frenzel-Str. 1a Obertraubling 93083,48.9739567,12.1595701
+2671,Sinning 1 Rohrdorf 83101,47.7928494,12.182373
+2672,Friedrich-Schmidt-Straße 1 Waldkraiburg 84478,48.2200809,12.4128555
+2673,Angerstrasse 2 Ampfing 84539,48.2622235,12.4300855
+2674,Steinbeisstr. 17 Ulm 89079,48.3680272,9.9561129
+2675,Jägerstraße 23 Ochsenhausen 88416,48.0632358,9.9638503
+2676,Bergrat Bilfinger Straße 3 Bad Friedrichshall 74177,49.2162467,9.2116871
+2677,Industriestraße 7 Illingen 75428,48.9579808,8.9366947
+2678,Schlossstraße 20  Eislingen/Fils 73054,,
+2679,Am Schiens 10 Magdeburg/Biere 39222,,
+2680,Blumenthaler Straße Ausbau 7 B Torgelow 17358,53.6397743,14.0046906
+2681,Hüttenstraße 21 Saalfeld 7318,50.6502194,11.3675468
+2682,In den Seewiesen 26 Heidenheim 89520,48.6918583,10.1649178
+2683,Hans-Bunte-Straße 19 Freiburg 79108,48.0310629,7.8583458
+2684,Siemensstraße 13 Speyer 67346,49.333141,8.4208381
+2685,Innovativ-Ring 5 Dinkelsbühl 91550,49.0997914,10.2500691
+2686,Herrenteich 78 Melle 49324,52.2015172,8.3409979
+2687,"Im Industriegelände, 60-66 Versmold 33775",52.0534265,8.1440024
+2688,Justus-von-Liebig-Straße 33 Alzey 55232,49.7532231,8.1414047
+2689,Bruckbach 15 Wolnzach 85283,48.5966112,11.5743535
+2690,Mülheimer Str. 16-22 Mannheim 68219,49.4259978,8.5275786
+2691,Lüschershofstr. 80 Essen 45356,51.4957735,6.9707444
+2692,Aluminiumstrasse 4 Grevenbroich 41515,51.0800969,6.6178887
+2693,Galileo-Allee 6 Aldenhoven 52457,50.9074162,6.2315313
+2694,Julius-Saxler-Straße 2 Daun 54550,50.2153675,6.8416051
+2695,Hohendorfer Straße 20 Schönebeck 39218,52.0169406,11.6923402
+2696,Mülheimer Str. 26 Troisdorf 53840,50.8253373,7.1489133
+2697,AM Brabrinke 1-4 Hannover 30519,52.3238445,9.7858513
+2698,Rammersdorfer Str. 8 Leutershausen 91578,49.3025436,10.4143124
+2699,Industriestr. 34 Haiterbach 72221,48.5064897,8.6322704
+2700,Breitscheidstraße 160 Rudolstadt 7407,50.6862099,11.3293713
+2701,Industriestr. 40 Zülpich 53909,50.6968166,6.6694362
+2702,Lehnitzstraße 70-98 Oranienburg 16515,52.7529721,13.2451072
+2703,Siemensstraße 10a Glinde 21509,53.5273238,10.2331072
+2704,Raschplatz 1 Bramsche 49565,52.4055051,7.9937998
+2705,Seedammweg 10 Bad Homburg v.d.H. 61352,50.2248119,8.6319257
+2706,Am Oberhafen 2 Berlin 12057,52.4658869,13.4511018
+2707,Sandstr. 16a Solingen 42655,51.1776586,7.0727396
+2708,Hauptstraße 320  Ludwigshafen 67063,49.4505138,8.4273391
+2709,Hannoversche Straße 2 Kassel 34134,51.3471423,9.4608084
+2710,Matthäus-Merian-Straße 6 Lohfelden 34253,51.2691179,9.5281825
+2711,Kuhnbergstraße 6 Göppingen 73037,48.6629856,9.6810793
+2712,Theresienstraße 2 Heilbronn 74072,49.1350934,9.2062436
+2713,Kleyerstraße 75 - 87 Frankfurt 60326,50.0960148,8.6298949
+2714,Ohmstr. 1 Karlsruhe 76229,49.0266962,8.4725927
+2715,Fabrikzeile 21 Hof 95028,50.3172701,11.9218097
+2716,Am Windrad 5 Heinsdorfergrund 8468,50.598629,12.3238532
+2717,Herrlinghausen 75 Wermelskirchen 42929,51.1183731,7.1964429
+2718,Terminalstr. Nord 1 München-Flughafen 85356,,
+2719,Gerberstr. 49 Backnang 71522,48.9444972,9.4252201
+2720,Rudolf-Diesel-Strasse 14 Prüm 54595,50.2135646,6.4469147
+2721,Haggertystrasse 1 Freising 85356,48.3964885,11.7713902
+2722,Industriestraße 18 Riedlingen 88499,48.1544277,9.4921673
+2723,Gabersee 39 Wasserburg am Inn 83512,48.0623144,12.2032052
+2724,Lohmühle 1 Selb 95100,50.1812496,12.1386978
+2725,Thalesplatz 1 Ditzingen 71254,48.815173,9.0609291
+2726,Hüttenstraße 45 Kreuztal 57223,50.9544178,7.9925266
+2727,Mittel-Loxten 37 Versmold 33775,52.0603755,8.1681559
+2728,Berliner Straße 1 Bad Hersfeld 36251,50.8597259,9.7124473
+2729,Industriestraße 11 Neunburg vorm Wald 92431,49.3378,12.400899
+2730,Weißenthurmer Straße 1 Andernach 56626,50.3982758,7.417113
+2731,Feldsteinstraße 1 Themar 98660,50.5057285,10.619935
+2732,Am Kurpark 1 Bad Krozingen 79189,47.9164639,7.6919167
+2733,Industriepark Höchst Frankfurt am Main 65926,50.0858144,8.5408475
+2734,Kurallee 1 Bad Füssing 94072,48.3545948,13.31323
+2735,Thermalbadstr. 18 Bad Rodach 96476,50.3333655,10.7649082
+2736,Industrie- u. Gewerbegebiet Lauta Straße B Nr. 5 Lauta 2991,,
+2737,Fritz-Bolland-Str. 2 Rudolstadt 7407,50.686953,11.3316814
+2738,Am Kalkberg 1 Osterode 37520,51.7335425,10.2313198
+2739,Gewerbepark 15 Hatten 26209,53.0606509,8.3574655
+2740,Kastanienstraße 1 Münchenbernsdorf-Lederhose 7589,50.8057543,11.9171862
+2741,Werkstr. 3 Iserlohn 58640,51.4240627,7.6684828
+2742,Albert Einstein Str 13 Grafschaft 53881,50.5678875,7.0280006
+2743,Landwehrstraße 1 Speyer 67346,49.3359792,8.4207232
+2744,Kurt-Schumacher-Str.95 Gelsenkirchen 45881,51.5238296,7.0881309
+2745,Rainweg 68 Saalfeld 7318,50.6456452,11.3436957
+2746,In der Mark 2 Rheda-Wiedenbrück 33378,51.8610952,8.3234884
+2747,Birkenallee 1 Neusäß 86356,48.4010349,10.823855
+2748,Ringstraße 5 Boizenburg 19258,53.3775648,10.7643841
+2749,In der Mark 100 Weroth 56414,50.4676718,7.9493944
+2750,Otto-Roelen-Str. 3 Oberhausen 46147,51.5253204,6.7982404
+2751,"Industriegebiet Süd, 25541 Brunsbüttel Brunsbüttel 25541",53.9020204,9.1939337
+2752,Am Wasserturm 3b Coswig (Anhalt) 6869,51.8877812,12.4209068
+2753,Albert-Einstein-Straße 11 Hildesheim 31135,52.1582606,9.9958856
+2754,Schockenriedstraße 1 Stuttgart 70565,48.7270224,9.116696
+2755,Werner-Haepp-Str 1 Bodenwöhr 92439,,
+2756,Trianelstr. 1 Hamm 59071,51.6741882,7.9278736
+2757,Max-Planck-Straße 34 Viernheim 68519,49.5488445,8.5888074
+2758,Harenzhofen 25 Velburg 92355,49.2302387,11.6005158
+2759,Agathazell 14 Burgberg 87545,47.5532313,10.280926
+2760,Industriestraße 3 Neunburg vorm Wald 92431,49.3396323,12.393976
+2761,Duvenstr. 82-92 Mönchengladbach 41199,51.1480825,6.4501019
+2762,"Max-Eyth-Straße, 1 Gießen 35394",50.5903821,8.7144361
+2763,Finsinger Feld 1 Ottobrunn 85521,48.0701654,11.6513547
+2764,Adlerstraße 7 Essen 45307,51.4640654,7.1024797
+2765,Dudenstraße 28 28 Mannheim 65760,49.5012815,8.5002843
+2766,In der Mark 2 Rheda-Wiedenbrück 33378,51.8610952,8.3234884
+2767,Heisinger Str. 6 Dietmannsried 87463,47.8067346,10.2912565
+2768,Am Kreuzstein 5 Kulmbach 96326,50.1023505,11.4407799
+2769,Herrmannstrasse 7 Bühl 77815,48.6945963,8.1433713
+2770,Ringstraße 10 Meißen 1662,51.2818917,13.4228721
+2771,Am Fuchsloch 3 Döbeln 4720,51.111671,13.1855116
+2772,Industriestraße 2 Monheim 40789,51.0691228,6.8963155
+2773,Dechsendorfer Str. 11 Erlangen 91054,49.605057,10.9967241
+2774,Münsterstraße 9-15 Hilter 49176,52.1354542,8.1252697
+2775,Industriestraße 18a Bremervörde 27432,53.4934528,9.1144134
+2776,Friedrich-Haindl-Straße 10 Schongau 86956,47.8081062,10.9023687
+2777,Carl-Friedrich-Benz-Straße 46-48 Delitzsch 4509,51.5105403,12.3006916
+2778,"Brüssower Allee, 85 Prenzlau 17291",53.3292974,13.8855625
+2779,Brüssower Allee 88 Prenzlau 17291,53.3264583,13.8845489
+2780,Steinbeisstraße 17 Ulm 89079,48.3680272,9.9561129
+2781,Trottäcker 48 Bad Säckingen 79713,47.5523419,7.9217175
+2782,Habenhauser Landstraße 70 Bremen 28277,53.0516337,8.8281987
+2783,Langnesestraße Heppenheim (Bergstraße) 64646,49.6361521,8.6181749
+2784,Twölv Grasen 1 Friedeburg 26446,53.4531434,7.9081687
+2785,Im Handelsteich 18 Dettingen/Erms 72581,48.5181502,9.359879
+2786,Dr. Gustav Adolph Str. 3 Pullach 82049,48.040625,11.5054679
+2787,Friedrich-Ebert-Straße 15 Übach-Palenberg 52531,50.9193154,6.1323956
+2788,Stenglingstraße 2 Augsburg 86156,,
+2789,Venusberg-Campus 1 Bonn 53127,50.700016,7.1046419
+2790,Fetscherstraße 74 Dresden 1307,51.058693,13.781325
+2791,Moorenstraße 5 Düsseldorf 40225,51.1959679,6.7898208
+2792,Magdeburger Straße 20 Halle (Saale) 6112,51.4850544,11.9781125
+2793,Liebigstr.19/21 Leipzig 4103,51.3317626,12.3820755
+2794,Albert-Schweitzer-Campus 1 Münster 48149,51.9607704,7.5959544
+2795,Josef-Schneider-Straße 2 Würzburg 97080,49.8079297,9.9569096
+2796,Kirrbergerstraße Homburg 66421,49.3177116,7.3422507
+2797,Arnold-Heller-Str. 3 Kiel 24105,54.328446,10.1448833
+2798,Langenbeckstr. 1 Mainz 55131,49.9917813,8.2603945
+2799,Formerstr. 17 Unna 59425,51.5647594,7.6942052
+2800,Industrie- und Gewerbegebiet 43a Pinnow 16278,53.0648169,14.1078353
+2801,Reichenäcker 2 Wertheim 97877,49.7776987,9.4792008
+2802,Oberriedstraße 57 Bad Wurzach 88410,47.907727,9.8793489
+2803,Gewerbepark 9 Sulzberg 87477,47.6799793,10.3230249
+2804,Otto-Hahn-Straße 1 Breuna 34479,51.4059034,9.2030882
+2805,Lange Lauchstädter Straße 49 Teutschenthal 6179,51.4276638,11.8357289
+2806,Am Hahnweg 8 Dresden 1328,51.0664053,13.8986661
+2807,Bahnhofstraße 46 Treuen 8233,,
+2808,Parallelstrasse 17 Solingen 42719,51.1880653,7.0492143
+2809,Hochhäuser Straße 8 Tauberbischofsheim 97941,49.6275375,9.6567074
+2810,Zittauer Straße 67 Wilthen 2681,51.099416,14.403034
+2811,Rüsbergstr. 75 Witten 58456,51.4024668,7.2557827
+2812,Karmannstraße 1 Osnabrück 49084,52.2643427,8.0800555
+2813,Kopenhagener Straße 65 Berlin 13407,52.5797837,13.3625722
+2814,Hohensteiner Straße 11-13 Limbach-Oberfrohna 9212,50.8587,12.7765398
+2815,GrünerWeg 37 Hanau 63450,50.1299405,8.9292497
+2816,Werner-von-Siemens-Str. 6 Bad Rodach 96476,50.3364846,10.7873994
+2817,Valeostraße 1 Wemding 86650,48.8710089,10.7096798
+2818,"Am Haupttor, Gebäude 7302 Leuna 6237",,
+2819,Industriestr. 16 Velen 46342,51.8971128,6.997802
+2820,Rheinuferstrasse 7 Krefeld 47829,51.3681578,6.6626017
+2821,Kreuzauer Straße 46 Düren  52355,50.7793597,6.4889728
+2822,Werkstraße 2 Zapfendorf 96199,50.0206164,10.9305366
+2823,Ruhrstraße 2 Neuburg 86633,48.7379979,11.2399887
+2824,Passower Chaussee 111 Schwedt/Oder 16303,53.0867,14.2332357
+2825,Thura Mark 20 Zörbig 6780,51.6274917,12.1374072
+2826,Siemensstraße 11 Verden 27283,52.9131297,9.2454808
+2827,Schachthofstraße 18 Bremerhaven 27576,,
+2828,Asdorfer Straße 138 Freudenberg 57358,50.8813328,7.8665927
+2829,Röntgenstraße 1 Heek 48619,52.1126201,7.0795717
+2830,Siemensstraße 1 Stadtlohn 48703,51.9819821,6.9063829
+2831,Neckarwiesen 20 Sulz 72172,48.3674802,8.6410472
+2832,Rottstr. 11 Datteln 45711,51.6518156,7.3450931
+2833,Paul-Baumann-Str. 1 Marl 45772,51.6762164,7.0967501
+2834,Schwarzwaldstr. 2-8 Neuweiler 75389,48.6355603,8.5938665
+2835,Freudenbergstr. 1 Neuenburg 79395,47.8060154,7.5518668
+2836,Kartoffelweg 1 Essen/ Addrup 49632,52.7271376,8.0349443
+2837,Viessmanstraße 1 Allendorf 35108,,
+2838,Beetwiese 2 Allendorf 35108,51.0248925,8.6730007
+2839,Berliner Chaussee 3 Mittenwalde 15749,52.2709417,13.5353961
+2840,Kanalstraße 13 Berlin 12357,52.4303221,13.4988755
+2841,Viessmanstraße 1 Allendorf 35108,,
+2842,Wiederholtstraße 1 Holzwickede 59439,51.504009,7.602305
+2843,Kurhausstr. 18 Bad Ditzenbach 73342,48.5874697,9.7000802
+2844,Rudolf-Diesel-Strasse 10 Buchloe 86807,48.0429039,10.7187396
+2845,Tiefenbacherstraße 70 Crailsheim 74564,49.1496794,10.0582865
+2846,Traunreuterstrasse 7 Waldkraiburg 84478,48.2162554,12.4165779
+2847,Fraunhoferstraße 1 Itzehoe 25524,53.9570074,9.4830876
+2848,Scherbsgraben 15 Fürth 90766,49.4760215,10.9763932
+2849,Südring 4 Lubmin 17509,54.1390877,13.6594649
+2850,Am Hansehafen 8 Magdeburg 39126,52.1942067,11.6827568
+2851,Sieboldstraße 19 Nürnberg 90411,49.4808996,11.1278044
+2852,Austraße 40 Herborn 35745,50.6745717,8.3041195
+2853,Philippsanlage 101 Riedstadt 64560,49.8222281,8.5033939
+2854,Rögitzstraße 34 Sonneberg 96515,50.4482208,11.194613
+2855,Bernecker Straße 58 Marktschorgast 95509,50.090617,11.6523401
+2856,Myslowitzer Str. 45 Berlin  12621,52.5071518,13.5919193
+2857,Fährstraße 1 Höhbeck 29478,53.0562839,11.4537822
+2858,Paul-Schlack-Str 1 Premnitz 14727,52.5290838,12.3629804
+2859,Daimlerstr.35 Wolfsburg 38446,52.4293596,10.810243
+2860,Berliner Ring 2 Wolfsburg 38440,52.440999,10.7833417
+2861,Glauchauer Str. 40 Zwickau 8058,50.7940444,12.4839878
+2862,"Meesmannstraße 103/Gebäude O,  Bochum 44807",,
+2863,Blombacher Bach 3 Wuppertal 42270,51.2555128,7.2356502
+2864,Vossko-Allee 1 Ostbevern 48346,52.0449915,7.9080646
+2865,Vulpiusstraße 29 Bad Rappenau 74906,49.243953,9.0917524
+2866,Europaring 8 Straubing 94315,48.9005426,12.6576752
+2867,Fabrikstraße 1 Völpke 39393,52.1361463,11.0885387
+2868,Gröningstr. 23 Rheine 48432,52.2306064,7.4863135
+2869,Hermann-Oberth-Str. 24 Putzbrunn 85639,48.0756834,11.7246644
+2870,Willy-Pelz-Str. 8-9 Wahlstedt 23812,53.9453248,10.1987801
+2871,Loher Busch 48 Bad Oeynhausen 32545,52.1801532,8.8094454
+2872,Daimlerstraße 6 Aspach 71546,48.9729809,9.3892836
+2873,"Dow ValuePark , Gebäude F/16 Schkopau 6258",,
+2874,Cammer Str. 17 Minden 32423,52.308108,8.9824904
+2875,Ilexstr. 44 Wiesmoor 26639,53.3709142,7.7526013
+2876,Ludwigstraße 11 Köln 50667,50.9384979,6.9548842
+2877,Wilhelmshavener Heerstr. 270 Oldenburg 26125,53.1878693,8.2289948
+2878,Unterm Klausknapp 5 Marsberg-Giershagen 34431,51.4198073,8.8092837
+2879,Bahnhofstr. 45 Niederorschel 37355,51.3768606,10.4199116
+2880,Aurorahütte 1 Gladenbach 35075,50.755395,8.5742713
+2881,Friedrich-Krupp-Str. 12 Langenfeld 40764,51.1381824,6.9619733
+2882,Paulmannshöher Str. 21 Lüdenscheid 58515,51.2084698,7.6611946
+2883,Paulmannshöher Straße 21 Lüdenscheid 58515,51.2084698,7.6611946
+2884,Am Gatherhof 44 Düsseldorf 40472,51.267259,6.8175499
+2885,Alexander Wiegand Straße 30 Klingenberg 63911,49.7817347,9.1708872
+2886,Lilienthalstraße 11 Bitburg 54634,49.9539981,6.5331607
+2887,Lise-Meitner-Straße 10 Fellbach 70736,48.8223924,9.2680275
+2888,WMF-Platz 1 Geislingen 73312,,
+2889,Industriestraße 7 Wurzen 4808,51.3772778,12.755357
+2890,Bohnhorster Str.17 Warmsen 31606,52.4484196,8.8489139
+2891,Gerwigstrasse 9 Loeffingen 79843,47.8873601,8.3570879
+2892,Gewerbegebiet an der B95 2a Ehrenfriedersdorf 9427,,
+2893,Am Energiepark 3 Wunsiedel 95632,50.0424255,12.0306679
+2894,Am Ziegelofen 22 Königswinter 53639,50.6872015,7.188288
+2895,Johannes-Hess-Strasse 24 Burghausen 84489,48.1745878,12.8389655
+2896,Bottenbacher Str. 30 Pirmasens 66954,49.1890977,7.5732744
+2897,Dorfstraße 1 Bad Boll 73087,48.6376661,9.5960542
+2898,Oststraße 4-10 Norderstedt 22884,53.7408334,10.0176968
+2899,Donaustaufer Straße  Regensburg  93055,49.0276246,12.1377848
+2900,Bahnhofstr. 13 Walsrode 29699,52.9047124,9.6583416
+2901,Westerhaar 34-36 Wickede 58739,51.5087482,7.8745497
+2902,Industriestraße 36-40 Neuss 41460,51.2012477,6.6966573
+2903,Dambacherweg 2 Birkenfeld 55765,49.6381745,7.1585162
+2904,Hauptstraße 150 Lohmar 53797,50.8309845,7.2050506
+2905,Lohmühle 3-5 Langenzenn 90579,49.4929707,10.8105952
+2906,Klopstockweg 33 Quedlinburg 6484,51.7854231,11.1562038
+2907,Altenaer Str. 85 Nachrodt 58769,51.3232953,7.6451647
+2908,Wandelstraße 1 Steinheim 32839,51.8324219,9.0724163
+2909,Hasberger Straße 13 Kirchheim 87757,48.1726222,10.4651714
+2910,Domring 4-10 Warstein 59581,51.4416924,8.351289
+2911,Krailingerstraße 5 Stockdorf 82131,,
+2912,Alter Heerweg 2 Bonn 53123,50.7160224,7.0352894
+2913,Industriestaße 1 Weener 26826,,
+2914,Michelinstraße 4 Homburg 66424,49.3441867,7.35612
+2915,Industriestraße 11 Sögel 49751,52.8274739,7.5109402
+2916,"Mühlenstraße, 15 Görisried 87657",47.7093345,10.5134827
+2917,Erlenweg 2 Lonsee 89173,48.5172456,9.910317
+2918,Bruckmühl 2 Julbach 84387,,
+2919,Hans-Georg-Weiss-Straße 7 Monschau 52156,50.5791531,6.267134
+2920,Gleimershäuser Straße 5a Meiningen 98617,50.5576146,10.3695778
+2921,Siemensstraße 5 Weißenhorn 89264,48.3078517,10.1380728
+2922,Westerriede 11 Goldenstedt 49424,52.7980348,8.4055999
+2923,Mühlweg 14 Alzenau 63755,50.0845131,9.0655688
+2924,Auerswalder Höhe 2 Lichtenau 9244,50.9116895,12.9562064
+2925,Steinbühlstraße 11 Forchheim 91301,49.7128278,11.0708201
+2926,Am Güterbahnhof 30 Dillenburg 35683,50.7289917,8.294202
+2927,Maxlrainerstraße 18 Bad Aibling 83043,47.8698244,12.0028064
+2928,Leipziger Str. 12 Wustermark 14641,52.5544699,12.9698722
+2929,Neustadter Ring 4 Wernigerode 38855,51.8467486,10.760413
+2930,Kölner Straße 59a Altenkirchen 57609,50.6880443,7.630181
+2931,Zieglmeierstraße 11 Hohenpeißenberg 82383,,
+2932,Kartoffelweg 1 Addrup-Essen/Oldb. 49632,52.7271376,8.0349443
+2933,Trochtelfinger Straße 50 Gammertingen-Harthausen 72501,48.2713148,9.2770503
+2934,Nordvelener Straße 20 Borken-Weseke 46325,51.9104359,6.8701934
+2935,Neue Heerstraße 35 Hessisch Oldendorf 31840,52.1625098,9.3205315
+2936,"Willi-Grasser-Str., 11 Erlangen 91056",49.5627881,10.9592861
+2937,Spangenberger Straße 61 Melsungen 34212,51.1107116,9.5615571
+2938,Stolberger Str. 21-41 Eschweiler 52249,50.801417,6.2398554
+2939,Dieter-Fuchs-Straße 05. Sep Dissen a. T.W. 49201,,
+2940,Georg-Westermann-Allee 66 Braunschweig 38104,52.2602254,10.5524547
+2941,"Rheinstraße, 113-120 Ransbach-Baumbach 56235",50.4677641,7.7271126
+2942,Schulweg 8-14 Langenbach 57520,50.7008373,7.9337508
+2943,Hessenweg 2 Münster 48157,52.0083726,7.6749809
+2944,Am Sandberg 45 Rheda-Wiedenbrück 33378,51.8474028,8.3097628
+2945,Industriestraße 8 Oer-Erkenschwick 45739,51.6357199,7.2752797
+2946,Friedensstraße 21  Wettin-Löbejün 6193,51.6435803,11.7503359
+2947,Stockmeyer-Straße 1 Sassenberg 48336,52.0478167,8.0449037
+2948,Hombergstrasse 11-13 Sprockhövel 45549,51.3600858,7.2464921
+2949,Varzinerstraße  49 Duisburg 47138,51.4728486,6.7979234
+2950,Industrieparkstraße 1 Burgkirchen 84508,48.1766297,12.7181259
+2951,"Am Bollscheid, 50 Mogendorf 56424",50.5019276,7.7549798
+2952,Dieselstraße 89 Herzebrock- Clarholz 33442,51.8830609,8.2217967
+2953,Maximilianalle 80 Großpösna 4463,,
+2954,Industriepark Hoechst Frankfurt am Main 65926,50.0858144,8.5408475
+2955,Hauptstraße 6 Wickede 58739,51.4917476,7.8679586
+2956,Am Sättel 21 Schleusingen 98553,50.5232117,10.7629176
+2957,Landersfeld 104 Feuchtwangen 91555,49.1684456,10.2503653
+2958,Sonnenbrede 4 Bad Oeynhausen Volmerdingsen 32549,52.2560265,8.783174
+2959,Brennerstraße 10-14 Bamberg 96052,49.9061392,10.8957695
+2960,Daimlerstraße 20 Ulm 89079,48.3667912,9.9525175
+2961,Graf-Arco-Straße 36 Ulm 89079,48.355442,9.9457561
+2962,Ziegeleiweg 20 Velbert 42555,51.3736948,7.1294495
+2963,Lantwattenstraße 11 Villingen-Schwenningen 78050,48.0495918,8.4665132
+2964,Wielandstraße 26 Vöhringen 89269,48.2776952,10.0723687
+2965,Dieselstrasse 58 Mühlheim 63165,50.1179913,8.852341
+2966,Bürgerschachtstraße 6a Zwickau 8056,50.7023041,12.4747635
+2967,Verlängerte Torgauer Str. 1 Bad Schmiedeberg 6905,51.6891666,12.7565509
+2968,Marker Weg 11 Weener 26826,53.1592862,7.3497333
+2969,Weseler Landstr. 26 Borken 46325,51.8406104,6.8519973
+2970,Weseler Landstr. 26 Borken 46325,51.8406104,6.8519973
+2971,Am Eisenwerk 18 Plettenberg 58840,51.2334678,7.8372594
+2972,Jahnstraße 9 Weilheim/Teck 73235,48.623929,9.5302189
+2973,Rammberger Weg 5-10 Herscheid 58849,51.1912901,7.7990993
+2974,Gutenbergstraße 80-86 Kiel 24118,54.3332334,10.1140925
+2975,Felderhoferbruecke 15 Ruppichteroth 53809,50.8408363,7.4202917
+2976,Heinrich-Heine-Strasse 80 Weisswasser/Oberlausitz 2943,,
+2977,Ringeler Straße 14 Lengerich 49525,52.1820078,7.8515178
+2978,Papenberger Str. 37 Remscheid 42859,51.1753593,7.1935976
+2979,Schwienskopp 2 Friedrichskoog 25718,54.0192505,8.8695648
+2980,Am Langenhorster Bahnhof 2 Ochtrup 48607,52.2035279,7.219579
+2981,Passower Chaussee 111 Schwedt 16303,53.0893985,14.2266555
+2982,Andernacher Straße 29 Nürnberg 90411,49.490788,11.1007856
+2983,Am Lindenhof 40 Schmölln 4626,50.8784697,12.3478429
+2984,Am Ahornhof 2 Schwandorf 92421,49.3146671,12.1518811
+2985,Industriestraße 10+13 Idar-Oberstein 55743,49.7229911,7.3779908
+2986,Freiberger Str. 3 - 7 Sülzetal 39171,52.0546343,11.5845572
+2987,Borsigstraße 1-7 Geesthacht 21502,53.4218565,10.416782
+2988,Söllerstraße 16 Lauenburg 21481,53.3688791,10.5794438
+2989,Industriestraße Üxheim-Ahütte 54579,50.3364121,6.766972
+2990,Bunsenstraße 27 Kiel 24145,54.2816533,10.152934
+2991,An der Bahn 84 Osterode am Harz 37520,51.7540312,10.2150918
+2992,Heinz-Gries-Str. 1 Wurzen 4808,51.3717288,12.731477
+2993,Richard-Wagner-Straße 1 Kehl 77694,48.5667916,7.8191985
+2994,Hagener Straße 41 Halver 58553,51.1921196,7.4919826
+2995,Mayerbacher Str. 61 Ismaning 85737,48.2299992,11.6970223
+2996,Mittelstetter Str. 40 Rain 86641,48.695843,10.9338521
+2997,Kalistraße 9 Sollstedt 99759,51.4153524,10.5294496
+2998,Schulstraße 3 Wolgast 17438,54.0587705,13.7652888
+2999,Oberer Luss 45 Erbach 89155,48.3307085,9.9017761
+3000,Grete-Rommel-Straße 2 Bad Staffelstein 96231,50.1072326,11.0065819
+3001,Fritz-Thiele-Str 6 Bremen 28279,53.0483246,8.8422847
+3002,Berghaselbach 5  Wolfersdorf 85395,48.483417,11.7299004
+3003,Wöllnerstraße 26 Ludwigshafen 67065,49.4495285,8.4133619
+3004,Geraer Straße 34 Berga-Wünschendorf 7980,50.8050986,12.0918593
+3005,Max-Eyth-Straße 1 Waldenburg 74638,49.1992662,9.6625504
+3006,Raiffeisenstr. 2 Möglingen 71696,48.89127,9.1459159
+3007,Louis-Pasteur-Str. 1 Würzburg 97076,49.7957183,9.998284
+3008,Lindgesfeld 14-16 Solingen 42653,51.2016905,7.0791622
+3009,Grenzstraße 28 Dresden 1109,51.1263398,13.7862343
+3010,Industriestraße 1 Willstätt 77731,48.5391302,7.884981
+3011,Brentanostraße 2 Alzenau 63755,50.0903975,9.0510639
+3012,Otto-Schott-Straße 2 Dormagen 41542,51.135294,6.7922286
+3013,Hermann-Schlüter-Straße 3 Rotenburg (W) 27356,,
+3014,Industriestraße 300 Knapsack 50354,50.8643721,6.8626235
+3015,Industriestraße 1 Dersum 26906,52.9634939,7.2750372
+3016,Werkstrasse 1 Poppendorf 18184,54.1352214,12.3001875
+3017,Kapiteltal  Kaiserslautern 67657,49.4745696,7.8243326
+3018,Dieselstraße 20 Kempten 87437,47.7589223,10.3200713
+3019,Am Lindener Hafen 21 Hannover 30453,52.3687913,9.6933234
+3020,Industriestraße 20 Alfdorf 73553,48.8450038,9.7363291
+3021,Emil-Ziehl-Straße 1 Schöntal-Bieringen 74214,49.3515714,9.5301798
+3022,Werkstr 1 Dillingen 66763,49.355597,6.7325219
+3023,Nittenauer Str. 51 Bruck in der Oberpfalz 92436,49.2341021,12.2971944
+3024,Flandernstraße 86 Winterlingen 72474,48.182264,9.1100872
+3025,Rudolf-Diesel-Str.17 Günzburg 89312,,
+3026,Blöhsteinstraße 20 Bodelshausen 72411,48.3831136,8.9874845
+3027,Regioparkring 25 Mönchengladbach 41199,51.1110599,6.4412599
+3028,In der Hochstedter Ecke 1 Erfurt 99098,50.9769323,11.1331423
+3029,Schlossstraße 20  Eislingen 73054,,
+3030,Barlstrasse 23 Zell 56856,50.0290155,7.1616519
+3031,Georg-Otterbein-Straße  123 Großenlüder 36137,50.5840585,9.5075113
+3032,Möllerung 19-21 Lübeck 23569,53.9007719,10.8074464
+3033,Jülicher Straße 177 Aachen 52070,50.7836554,6.1051982
+3034,Meitnerstraße 1 Stuttgart 70563,48.7382772,9.1080881
+3035,Industriestraße 9 Damme 49401,52.5157899,8.2125213
+3036,Krautheimer Str. 8 Zeilitzheim 97509,49.8971818,10.2724418
+3037,Estern 60 Stadtlohn 48703,51.9763516,6.963132
+3038,Ziegelei 9 Markt Wald 86865,48.1255087,10.576982
+3039,Stolberger Strasse 141 Nordhausen 99734,51.516976,10.810405
+3040,Bucholz 62a Vierkirchen 2894,,
+3041,Nördlinger Str. 24 Donauwörth-Berg 86609,48.7405305,10.7622712
+3042,Dittelsdorfer Str. 15 15 Zittau 2763,50.9100338,14.8387874
+3043,Friedrichstrasse 39 Albstadt 72458,48.2140818,9.0202747
+3044,Manfred-Zollner-Str. 1 Zandt 93499,49.158286,12.729977
+3045,Bäumenheimer Straße 25 Mertingen 86690,48.6571879,10.8145367
+3046,Max-Schwarz-Strasse 3- 5 Lahnstein 56112,50.287943,7.6196857
+3047,Chemnitztalstrasse 1 Burgstädt 9217,50.9432703,12.827781
+3048,Otto-Röhm-Str. 19-25 Darmstadt 64293,49.8894392,8.6448782
+3049,Gattingerstr. 31 Würzburg 97076,49.793537,9.9923932
+3050,Am Brunnengewännchen 5 Lampertheim 68623,,
+3051,Pflughölzle 1 Warthausen 88447,,
+3052,Wasingerweg 12 Plattling 94447,48.7703461,12.8903006
+3053,Am Heidweiher 3 Gunzenhausen 91710,49.1300417,10.77511
+3054,Schneeberger Str. Wilkau-Haßlau 8112,50.6579007,12.5553396
+3055,Dr.-Schott-Straße 35 Zwiesel 94227,49.0175562,13.2280204
+3056,Römerstraße 12  	Kempten (Allgäu) 87437,47.7109309,10.3379586
+3057,Industriestr. 23 Sögel 49751,52.8274739,7.5109402
+3058,Große Minke 10 Hoffenheim 74889,49.2637961,8.8461704
+3059,Werner-von Siemens-Straße 18-20 Kaisersesch 56759,50.2384716,7.1579241
+3060,Daimlerstraße 10 Monheim 40789,51.1013097,6.893276
+3061,Biggen 5 Attendorn 57439,51.1308897,7.9245955
+3062,Hans-Bunte-Str. 1 Freiburg im Breisgau 79108,48.0292314,7.8564287
+3063,Ferdinand-Weiß-Straße 6 Freiburg 79106,47.9946677,7.8331539
+3064,Wirthstraße 3 Freiburg 79110,48.0272661,7.812501
+3065,Gewerbestrasse 5 Hardt 78739,48.1802242,8.4175311
+3066,Waltgeristraße 1-5 Herford 32049,52.1233075,8.672182
+3067,Württemberger Str. 31 Blaubeuren 89143,48.4012115,9.7856861
+3068,Erdbeerstraße 1 Nuthe-Urstromtal 14947,52.0581272,13.2347533
+3069,Alter Feldweg 18 Hoppegarten 15366,52.5126942,13.6476008
+3070,Klosterstraße 29 Osnabrück 49074,52.2822698,8.0502413
+3071,Heideweg 36 Nittenau 93149,49.2073066,12.2836719
+3072,Waldsassener Straße 40a Berlin 12279,52.4088862,13.3492054
+3073,Donauhof 1a Passau 94034,48.5910334,13.3966411
+3074,Heiligendorfer Straße 14 Glentorf 38154,52.329432,10.801783
+3075,Bachmühle 2 Mulfingen 74763,49.3524942,9.7957331
+3076,Moorwaldweg 314 Hannover 30659,52.4147172,9.8460917
+3077,Finkenweg 1 Langen 63225,49.9858132,8.6424224
+3078,Mühlentorsiedlung 7 Malchin 17139,53.7415527,12.7825812
+3079,Werner-von-Siemens-Str. 6 Augsburg 86159,48.3448287,10.9025999
+3080,Junghansstraße 5 Dresden 1277,51.0408788,13.7966879
+3081,Im Gewerbegebiet 7 Achern 77855,48.6351461,8.0394561
+3082,Am Werk 9; 02788 Zittau Zittau OT Hirschfelde 2788,,
+3083,Werdauer Straße 200a Neukirchen 8459,50.7791455,12.3663837
+3084,Hainbuchenweg 4 Schwaikheim 71409,48.8677065,9.3599216
+3085,"Waltersdorfer Straße 54 Großschönau, Sachsen 2779",50.8889592,14.6589901
+3086,Neustädter Strasse 26 Dietenhofen 90599,49.4074104,10.6862049
+3087,Mundfeldweg 11 Amberg 92224,49.4728171,11.8526272
+3088,Brambach 38 Schramberg 78713,48.2456789,8.4362501
+3089,Seehauser Landstraße 99 Bremen 28237,53.1153098,8.7126608
+3090,Graf-Zeppelin-Straße 41 Nagold 72202,48.5353921,8.7536242
+3091,Rhinstraße 134 Berlin 12681,52.5301138,13.52366
+3092,Anna-Schlinkheider-Straße 3 Ratingen 40878,51.2917389,6.8323919
+3093,Raiffeisenstr. 10a Lehrte-Ahlten 31275,52.3623857,9.9135157
+3094,Am Kümmerling 18 Bodenheim 55294,,
+3095,Fronmüllerstraße 65 Fürth 90763,49.4588645,11.0002135
+3096,Fritz-Henkel-Str. 8 Genthin 39307,52.4132971,12.1707025
+3097,Daimlerstr. 13 Schwaigern 74193,49.1379558,9.0694381
+3098,Aggensteinstr. 8-10 Rieden 87669,47.6135732,10.7111127
+3099,Im Semmicht 1 Jena 7751,50.8609894,11.5967914
+3100,Am Naßtal 7 Jena 7751,50.8647297,11.6014114
+3101,Gabersee 7 Wasserburg (Inn) 83512,48.0586125,12.2039582
+3102,Vockestr. 72 Haar 85540,48.117152,11.7434122
+3103,Heiglhofstr. 69 München 81377,48.10614,11.477925
+3104,Hullerser Landstraße 16-18 Einbeck 37574,51.8169106,9.845168
+3105,Wilfried-Mohr-Str. 1-5 Tornesch 25436,53.7118228,9.7714691
+3106,Duisburger Straße 50 Mülheim an der Ruhr 45479,51.4268002,6.8541662
+3107,Porschstr. 26 Kempten 87437,,
+3108,Frydagstraße 42 Lünen 44536,51.6113098,7.4635138
+3109,Gottesackerstraße 17 Immenstadt i. Allgäu 87509,47.5556843,10.214754
+3110,Bahnhofstraße 106  Niedergebra 99759,51.4260735,10.598932
+3111,Eckenerstr. 4-6 Hannover 30179,52.4182436,9.743888
+3112,Parksteiner Weg 20 Grafenwöhr 92655,49.686183,11.971704
+3113,Kapellenweg 67 Verl 33415,51.8670447,8.565536
+3114,Klausnerstraße Aschheim 85609,48.1620539,11.7354358
+3115,Glienholzweg 7 Röbel/Müritz 17207,53.3787806,12.5844847
+3116,In den Hofwiesen 13 58840 Plettenberg 58840,51.1699214,7.8419631
+3117,Willy-Pelz-Str. 8-9 Wahlstedt 23812,53.9453248,10.1987801
+3118,Limbacher Straße 28 Niederfrohna 9243,50.8746575,12.7473264
+3119,Bergäcker 16 Obermarchtal 89611,48.2294326,9.5670438
+3120,Behrenstraße 44-64 Rinteln 31737,52.1690331,9.0924823
+3121,Senator-Mester-Straße 1 Bremen 28197,53.0968841,8.7220511
+3122,Einsteinring 1 Gersthofen 86368,48.4368502,10.86064
+3123,Lange Äcker 8 Backnang 71522,48.9334446,9.4409445
+3124,Sambleber Straße 2A Schöppenstedt 38170,52.1530986,10.775986
+3125,Otavistr. 7-9 Bremen 28237,53.1273547,8.7288784
+3126,Hastedter Osterdeich 255 Bremen 28207,53.0596236,8.8731265
+3127,Delfter Str. 8 Bremen 28259,53.0458829,8.7270266
+3128,Heykenaukamp 10 Hamburg 21147,53.4779424,9.9050023
+3129,Kinzigstraße 5 Offenburg 77652,48.4830934,7.9355942
+3130,Münchener Str. 100C Essen 45289,51.4485362,6.9883134
+3131,Niederkell 25 Mandern 54429,49.620894,6.7865324
+3132,Trift 1 Ilsenburg 38871,51.8773392,10.6941676
+3133,Oeger Str. 85 Hagen 58119,51.3460613,7.5920773
+3134,Neue Industriestraße 1 66424 Homburg 66424,49.3084491,7.3205168
+3135,Oeger Strasse 120 Hagen 58119,51.345548,7.5912699
+3136,Koblenzer Str. 141 Andernach 56626,50.4366248,7.4172217
+3137,ThyssenKrupp Allee 1 Essen 45143,51.4614044,6.9937106
+3138,Spandauer Str. 35-37 Geesthacht 21502,53.4349587,10.3420024
+3139,Am Dolzbach 5 Bad Neustadt 97616,50.3380308,10.2207641
+3140,Alte Kammgarnspinnerei 13 Schmalkalden 98574,50.7179703,10.3642931
+3141,Neustadt 21 Probstzella 7330,50.5809489,11.3943683
+3142,Hafenstr. 21 Hamm 59067,51.6795774,7.7958788
+3143,L.-F.-Schönherr-Straße 15 Plauen 8523,50.4927695,12.1064729
+3144,Pfafferode 102 Mühlhausen 99974,51.2093239,10.4019409
+3145,Bäumenheimer Straße 25 Mertingen 86690,48.6556457,10.8157605
