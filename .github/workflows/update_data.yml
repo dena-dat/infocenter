@@ -22,10 +22,6 @@ jobs:
       run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime numpy
     - name: Run Python notebook (Energiepreise)
       run: jupyter nbconvert --to notebook --execute "2504-Preise/energiepreise.ipynb" --stdout
-    - name: Run Python notebook (Abwärme)
-      env: 
-        dw_secret: ${{ secrets.DATAWRAPPER }}
-      run: jupyter nbconvert --to notebook --execute "waste-heat/Abwärme_Analyse_Kurz.ipynb" --stdout
     - name: Run Python notebook (Entwicklung der Energiewende)
       env:
         dw_secret: ${{ secrets.DATAWRAPPER }}
