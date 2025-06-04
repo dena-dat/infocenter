@@ -1,16 +1,7 @@
 # Update file
 name: update
-
-# You will get an error on the automatic updates committing
-# if you do not have this line
-# You didn't need it before, which is why a lot of yml job files
-# you see will not have it (but you need it now!!!)
 permissions:
   contents: write
-  
-# The 'on' section is about when this is run
-# workflow_dispatch makes there be a button on GitHub to let you run it manually
-# schedule and cron make it run at certain frequencies
 on:
   workflow_dispatch:
   schedule:
@@ -21,23 +12,27 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Set up Python
+- name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.12'
-    - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime requests numpy
-    - name: Scraping today's data (Energiepreise)
+- name: Set up R
+      uses: r-lib/actions/setup-r@v2
+- name: Install Python packages
+      run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime numpy
+- name: Run Python notebook (Energiepreise)
       run: jupyter nbconvert --to notebook --execute "2504-Preise/energiepreise.ipynb" --stdout
-    - name: Scraping today's data (Abwärme)
+- name: Run Python notebook (Abwärme)
       env: 
         dw_secret: ${{ secrets.DATAWRAPPER }}
       run: jupyter nbconvert --to notebook --execute "waste-heat/Abwärme_Analyse_Kurz.ipynb" --stdout
-    - name: Scraping today's data (Entwicklung der Energiewende)
+- name: Run Python notebook (Entwicklung der Energiewende)
       env:
         dw_secret: ${{ secrets.DATAWRAPPER }}
       run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/stand_ew_github_test.ipynb" --stdout
-    - name: Commit and push any changes
+- name: Run R script (Energiepreise in R)
+      run: Rscript "R/energiepreise.R"
+- name: Commit and push any changes
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
@@ -45,3 +40,4 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+
