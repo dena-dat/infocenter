@@ -1,4 +1,3 @@
-# Update file
 name: update
 permissions:
   contents: write
