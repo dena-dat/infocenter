@@ -8,4 +8,4 @@ data <- data.frame(
   time = Sys.time(),
   message = "This is a test from R."
 )
-write.csv(data, "R/test_output.csv", row.names = FALSE)
+write.csv(data, "R/Data/test_output.csv", row.names = FALSE)
