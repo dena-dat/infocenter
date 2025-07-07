@@ -1,0 +1,23 @@
+# Update file
+name: update
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */24 * * *'
+
+jobs: 
+  build: 
+    runs-on: ubuntu-latest 
+    steps: 
+      - uses: actions/checkout@v2 
+      - name: Install dependencies 
+        run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime requests numpy
+      - name: Execute notebook 
+        env: 
+        dw_secret: ${{ secrets.DATAWRAPPER }} 
+      - name: Run notebook 
+        run: jupyter nbconvert --to notebook --execute "TestGitHub (1).ipynb" --stdout 
