@@ -16,8 +16,7 @@ jobs:
       - uses: actions/checkout@v2 
       - name: Install dependencies 
         run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime requests numpy
-      - name: Execute notebook 
+      - name: Execute notebook    
         env: 
-        dw_secret: ${{ secrets.DATAWRAPPER }} 
-      - name: Run notebook 
+          dw_secret: ${{ secrets.DATAWRAPPER }}  
         run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/TestGitHub (2).ipynb" --stdout 
