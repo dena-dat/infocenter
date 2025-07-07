@@ -20,4 +20,4 @@ jobs:
         env: 
         dw_secret: ${{ secrets.DATAWRAPPER }} 
       - name: Run notebook 
-        run: jupyter nbconvert --to notebook --execute "TestGitHub (2).ipynb" --stdout 
+        run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/TestGitHub (2).ipynb" --stdout 
