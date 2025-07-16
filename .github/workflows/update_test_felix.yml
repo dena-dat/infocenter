@@ -15,7 +15,7 @@ jobs:
     steps: 
       - uses: actions/checkout@v2 
       - name: Install dependencies 
-        run: pip install jupyter lxml pandas requests openpyxl datawrapper datetime requests numpy
+        run: pip install jupyter lxml pandas requests openpyxl datawrapper==0.6.0 datetime requests numpy
       - name: Execute notebook    
         env: 
           dw_secret: ${{ secrets.DATAWRAPPER }}  
