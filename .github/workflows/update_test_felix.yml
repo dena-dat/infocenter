@@ -19,8 +19,4 @@ jobs:
       - name: Execute notebook    
         env: 
           dw_secret: ${{ secrets.DATAWRAPPER }}  
-        run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/TestGitHub (2).ipynb" --stdout
-      - name: Execute notebook 2   
-        env: 
-          dw_secret: ${{ secrets.DATAWRAPPER }}  
-        run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/Mobilität_Datenseite.ipynb" --stdout        
+        run: jupyter nbconvert --to notebook --execute "entwicklung-der-energiewende/Mobilität_Datenseite.ipynb" --stdout     
