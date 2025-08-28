@@ -30,9 +30,9 @@ jobs:
           pip install pandas requests 
 
       - name: Run notebook
-	env:
-        google_api_secret: ${{ secrets.GOOGLE_API_SECRET }}
-	google_search_id: ${{ secrets.GOOGLE_SEARCH_ID }}
+		env:
+        	google_api_secret: ${{ secrets.GOOGLE_API_SECRET }}
+			google_search_id: ${{ secrets.GOOGLE_SEARCH_ID }}
         run: |
           jupyter nbconvert --to notebook --execute KWW_GoogleSuche_Github.ipynb --stdout
       - name: Commit and push any changes
