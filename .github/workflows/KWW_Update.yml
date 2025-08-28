@@ -1,4 +1,4 @@
-name: Run KWW Google Scrape
+name: KWWGoogleScrape
 
 permissions:
   contents: write
@@ -10,7 +10,7 @@ on:
   workflow_dispatch: # allows you to trigger manually if needed
 
 jobs:
-  run-notebook:
+  KWWGoogleScrape:
     runs-on: ubuntu-latest
 
     steps:
