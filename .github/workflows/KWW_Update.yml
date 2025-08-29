@@ -27,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install notebook nbconvert jupyter pymupdf==1.26.4 requests==2.32.4 beautifulsoup4==4.13.5 google-api-python-client==2.179.0 readability-lxml==0.8.4.1
           # add other dependencies your notebook needs, e.g.:
-          pip install pandas requests 
+          pip install pandas requests openpyxl
 
       - name: Run notebook
         env:
